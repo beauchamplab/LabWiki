@@ -1,0 +1,35 @@
+# Beauchamp Lab Wiki
+title: Beauchamp Lab Wiki
+description: Laboratory wiki for Beauchamp Lab - migrated from OpenWetWare
+baseurl: "/LabWiki"
+url: "https://beauchamplab.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Include directories and files
+include:
+  - pages
+  - attachments
+
+# Exclude unnecessary files from the site
+exclude:
+  - .venv
+  - migrate.py
+  - obsidian.command
+  - README.md
+
+# Plugins
+plugins:
+  - jekyll-relative-links
+
+# Enable relative links
+relative_links:
+  enabled: true
+  collections: false
+
+# Formatting
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
