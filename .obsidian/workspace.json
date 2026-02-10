@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Beauchamp/ECogAnalysisV2.md",
+                "file": "pages/Beauchamp/Publications.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ECogAnalysisV2"
+              "title": "Publications"
             }
           }
         ]
@@ -205,8 +205,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ca4cfb8a82b5b24",
+  "active": "230bfc724d53dde9",
   "lastOpenFiles": [
+    "pages/Beauchamp/ECogAnalysisV2.md",
     "pages/Beauchamp/VideoStimulusCreation.md",
     "pages/Beauchamp/PositionsAvailable.md",
     "pages/RAVE/MacPro.md",
@@ -244,7 +245,6 @@
     "attachments/ShortCourse2010/AFNIGroupLarge.jpg",
     "pages/Beauchamp/ActivityMaps.md",
     "attachments/Tutorial_Preprocessing/RAVE_Logo_new.jpg",
-    "pages/RAVE/Tutorial_Preprocessing.md",
     "attachments/Tutorial_Clusters/Tutorial_example.png",
     "attachments/Tutorial_Clusters/Analysis_setting_tutorial.png",
     "attachments/Tutorial_Clusters/Condition_setting_tutorial.png",
