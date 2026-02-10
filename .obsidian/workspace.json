@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "b6603fc146c17c78",
+    "type": "split",
+    "children": [
+      {
+        "id": "2834ef00defce38e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "230bfc724d53dde9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Beauchamp/Publications.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": true,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Publications"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6bf09a76377a1aec",
+    "type": "split",
+    "children": [
+      {
+        "id": "c410f1226e703b33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "113d97bac828f11c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5ca4cfb8a82b5b24",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d0c9e1ea4ae69537",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 360.5
+  },
+  "right": {
+    "id": "65107dd6081083da",
+    "type": "split",
+    "children": [
+      {
+        "id": "763bb651e97703b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19f105f6064dd42d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pages/Beauchamp/Publications.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Publications"
+            }
+          },
+          {
+            "id": "0bccfdc092a60803",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pages/Beauchamp/Publications.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Publications"
+            }
+          },
+          {
+            "id": "f9de02da3af07c8b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0c673408444db76a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5cc87d96e4701856",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pages/Beauchamp/Stimuli.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Stimuli"
+            }
+          },
+          {
+            "id": "094d44240e68eb16",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 655.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "113d97bac828f11c",
+  "lastOpenFiles": [
+    "attachments/Publications/Human-orbitofrontal-neural-activity-is-linked-to-obsessive-compulsi_2026_Cell.pdf",
+    "pages/Beauchamp/Publications.md",
+    "attachments/Human-orbitofrontal-neural-activity-is-linked-to-obsessive-compulsi_2026_Cell.pdf|Human-orbitofrontal-neural-activity-is-linked-to-obsessive-compulsi_2026_Cell.md",
+    "attachments/Human-orbitofrontal-neural-activity-is-linked-to-obsessive-compulsi_2026_Cell.pdf",
+    "pages/Beauchamp/index.md",
+    "Navigation.md",
+    "pages/Beauchamp/Untitled.md",
+    "pages/Beauchamp/Stimuli.md",
+    "attachments/Stimuli/NoisyWords_Part2/BUYING_AMANDA_v.mp4",
+    "attachments/Stimuli/NoisyWords_Part2/CASH_KRISTEN_v.mp4",
+    "attachments/Stimuli/NoisyWords_Part2/CASH_KRISTEN.mp4",
+    "attachments/Stimuli/NoisyWords_Part2/BUYING_JOHN_a.mp4",
+    "attachments/Stimuli/NoisyWords_Part2/CASH_KRISTEN_a_-8dB.mp4",
+    "attachments/Stimuli/NoisyWords_Part2/BUYING_JOHN_a_-8dB.mp4",
+    "attachments/Stimuli/NoisyWords_Part2/BUYING_AMANDA_a_-8dB.mp4",
+    "attachments/Stimuli/NoisyWords_Part2/BUYING_JOHN_-8dB.mp4",
+    "pages/Beauchamp/DataSharing.md",
+    "obsidian.md",
+    "Navigation copy.md",
+    "pages/Beauchamp/AvailableDates20132014.md",
+    "pages/RAVE/index.md",
+    "pages/Beauchamp/templates/template.md",
+    "pages/Beauchamp/Unwarping.md",
+    "pages/Beauchamp/templates/Untitled.md",
+    "pages/Beauchamp/ANOVAs_in_MATLAB.md",
+    "pages/Beauchamp/DownloadDataPenn.md",
+    "pages/Beauchamp/AFNI_Install.md",
+    "pages/Prompt.md",
+    "pages/BROKEN_LINKS.md",
+    "pages/Beauchamp/Teaching.md",
+    "attachments/ShortCourse2010/AFNIGroupLarge.jpg",
+    "pages/Beauchamp/ActivityMaps.md",
+    "attachments/Tutorial_Preprocessing/RAVE_Logo_new.jpg",
+    "pages/RAVE/Tutorial_Preprocessing.md",
+    "attachments/Tutorial_Clusters/Tutorial_example.png",
+    "attachments/Tutorial_Clusters/Analysis_setting_tutorial.png",
+    "attachments/Tutorial_Clusters/Condition_setting_tutorial.png",
+    "attachments/Tutorial_Clusters/Load_data.png",
+    "attachments/Tutorial_Clusters/RAVE_Logo_new.jpg",
+    "pages/RAVE/Tutorial_Clusters.md",
+    "pages/RAVE/vignettes_electrode-localization.md",
+    "pages/RAVE/ravebuiltins_toolbar.md",
+    "attachments/OldHome/RAVE_OHBM_2022_14June.jpg",
+    "attachments/Tutorial_ImportFS/RAVE_Logo_new.jpg",
+    "attachments/vignettes:electrode-localization/RAVE_Logo_new.jpg"
+  ]
+}

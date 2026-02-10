@@ -1,0 +1,10 @@
+{
+  "openBehavior": "file:Navigation",
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "attachments",
+  "readableLineLength": true,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "newFileFolderPath": "pages/Beauchamp"
+}

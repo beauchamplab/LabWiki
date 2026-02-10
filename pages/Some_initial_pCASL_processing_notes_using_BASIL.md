@@ -1,0 +1,15 @@
+# Some initial pCASL processing notes using BASIL
+
+> **Navigation:** [Home](Beauchamp/index.md) | [Publications](Beauchamp/Publications.md) | [Resources](Beauchamp/DataSharing.md)
+
+|  |  |
+| --- | --- |
+|  | Beauchamp Lab wiki |
+
+- [Home](Beauchamp/index.md "Beauchamp")
+- [Publications](Beauchamp/Publications.md "Beauchamp:Publications")
+- [Resources](Beauchamp/DataSharing.md "Beauchamp:DataSharing")
+
+|  |
+| --- |
+| Introduction  Let's be clear here, I don't know what I'm doing. But, this is a record of my attempts to get a pCASL analysis up and running. I'm putting my notes here in the hopes that once the analysis has been a raging success, I'll turn this into a better wiki page. 'til then... use at your own risk. You should mostly just assume the author is a bumbling idiot. ;-)  worth noting  The FSL people (who wrote BASIL, the program I'm going to try) have a whole textbook. They also have a course. I'm utilizing neither of those resources at this point. Instead, I'm mostly using [this page](https://asl-docs.readthedocs.io/en/latest/basil_userguide.html) , which looks like it's got very similar information to the usual FSL user guides, but is hosted elsewhere.  Installation  I'm trying to use BASIL, which is an FSL tool, to process some pCASL data acquired elsewhere (not at CAMRI). I went to [this website](https://github.com/ibme-qubic/oxford_asl/releases) to download the ASL packages. I'm using FSL 5.0.1, and these are getting ready for release in FSL 6.0. So, I'm using a separate installation. I didn't have all the python things I needed (as listed on that page). So, I downloaded the .tar.gz off of github, and installed the python packages.   ```  brew install wxpython  python2 -m pip install matplotlib  python2 -m pip install nibabel ```   The website also said that I needed numpy, but when I tried to install that, it told me I was all set. I don't know if that was installed before, or was a dependency for one of the above. I also don't know if I could have / should have installed wxpython using the -m pip thing or not. I found the instructions to use brew first, and then it didn't work for matplotlib. Anyway, now I can open the GUI.  The GUI  My preference is for command line analysis, but I'm on a bit of a deadline here (paper revisions), so I'm going to gui route.  When I'm running this, I notice that the preview window isn't working for me. It's just blank, but if I take the mean of 'all the evens' - 'all the odds' I definitely get something perfusion-y. So, I don't think there's anything wrong with my data. I'm not sure about the bolus duration or the slice timing, but I played around with those and never get an image to pop up. Maybe not all the python pieces were installed correctly?  The command line  Well, the gui didn't work, so I tried this:   ```  ./oxford_asl -i /Volumes/data/Meghan/ALERT/MRI/Bay6_pCASL/raw/TAU_002.nii -o ../asl_cmdline/TAU_002  --ibf=rpt --iaf=ct --mc --casl --fslanat=/Volumes/data/Meghan/ALERT/MRI/Bay6_pCASL/asl_gui/TAU_002/struc.anat -c /Volumes/Data/Meghan/ALERT/MRI/Bay6_pCASL/raw/TAU_002_M0.nii --tr 8 --cmethod=single ``` |

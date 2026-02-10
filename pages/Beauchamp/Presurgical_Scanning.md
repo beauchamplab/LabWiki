@@ -1,0 +1,30 @@
+# Presurgical Scanning
+
+> **Navigation:** [Home](index.md) | [Publications](Publications.md) | [Resources](DataSharing.md)
+
+fMRI Protocol (in descending order of importance)
+
+High Resolution Anatomical (2 runs for surface model)
+
+Retinotopy
+2 runs polar, 1 run eccentricity
+
+Movie (1 run)
+
+MT Localizer (1 run)
+
+Faces/Places (1 run)
+
+LOC (1 run)
+
+100 Hue localizer (1 run)
+
+---
+
+FEF localizer
+
+Biological/Tool Motion
+
+EBA localizer
+
+[Lab Notebook](Lab_Notebook.md "Beauchamp:Lab Notebook")
