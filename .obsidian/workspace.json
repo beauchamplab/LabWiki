@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Beauchamp/Publications.md",
-                "mode": "preview",
+                "file": "pages/Beauchamp/ECogAnalysisV2.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Publications"
+              "title": "ECogAnalysisV2"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "160",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -204,13 +205,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "113d97bac828f11c",
+  "active": "5ca4cfb8a82b5b24",
   "lastOpenFiles": [
-    "attachments/Publications/Human-orbitofrontal-neural-activity-is-linked-to-obsessive-compulsi_2026_Cell.pdf",
+    "pages/Beauchamp/VideoStimulusCreation.md",
+    "pages/Beauchamp/PositionsAvailable.md",
+    "pages/RAVE/MacPro.md",
+    "pages/Beauchamp/index.md",
+    "pages/Beauchamp/DownloadDataPenn.md",
+    "pages/Beauchamp/AayushiPreprocessingNotes.md",
     "pages/Beauchamp/Publications.md",
+    "attachments/Publications/Human-orbitofrontal-neural-activity-is-linked-to-obsessive-compulsi_2026_Cell.pdf",
     "attachments/Human-orbitofrontal-neural-activity-is-linked-to-obsessive-compulsi_2026_Cell.pdf|Human-orbitofrontal-neural-activity-is-linked-to-obsessive-compulsi_2026_Cell.md",
     "attachments/Human-orbitofrontal-neural-activity-is-linked-to-obsessive-compulsi_2026_Cell.pdf",
-    "pages/Beauchamp/index.md",
     "Navigation.md",
     "pages/Beauchamp/Untitled.md",
     "pages/Beauchamp/Stimuli.md",
@@ -231,7 +237,6 @@
     "pages/Beauchamp/Unwarping.md",
     "pages/Beauchamp/templates/Untitled.md",
     "pages/Beauchamp/ANOVAs_in_MATLAB.md",
-    "pages/Beauchamp/DownloadDataPenn.md",
     "pages/Beauchamp/AFNI_Install.md",
     "pages/Prompt.md",
     "pages/BROKEN_LINKS.md",
@@ -245,9 +250,6 @@
     "attachments/Tutorial_Clusters/Condition_setting_tutorial.png",
     "attachments/Tutorial_Clusters/Load_data.png",
     "attachments/Tutorial_Clusters/RAVE_Logo_new.jpg",
-    "pages/RAVE/Tutorial_Clusters.md",
-    "pages/RAVE/vignettes_electrode-localization.md",
-    "pages/RAVE/ravebuiltins_toolbar.md",
     "attachments/OldHome/RAVE_OHBM_2022_14June.jpg",
     "attachments/Tutorial_ImportFS/RAVE_Logo_new.jpg",
     "attachments/vignettes:electrode-localization/RAVE_Logo_new.jpg"

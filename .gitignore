@@ -1,2 +1,10 @@
-attachments/
+attachments/*
 .DS_Store
+
+# but except for attachment pdf, images
+!attachments/Publications
+!attachments/*.pdf
+!attachments/*.jpeg
+!attachments/*.jpg
+!attachments/*.png
+!attachments/*.webp

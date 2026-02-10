@@ -19,7 +19,7 @@ Once you've received confirmation (usually from Dhanya/Ashley) that data are ava
 Connect to the server, in Terminal, type in:
 
 ```
- ssh beauchamplab@nsu-beauchamp-1.pennbrain.upenn.edu
+ ssh beauchamplab@<server_IP>
 ```
 
 When asked "Are you sure you want to continue?", Answer "yes"
@@ -30,7 +30,7 @@ If you see prompt: `(base) beauchamplab@beauchampsrv ~ % ` you are on the serve
 If you get the error:
 
 ```
- ssh: Could not resolve hostname nsu-beauchamp-1.pennbrain.upenn.edu: nodename nor servname provided, or not known
+ ssh: Could not resolve hostname <server_IP>: nodename nor servname provided, or not known
 ```
 
 You need to (re)connect to the Upenn VPN or try accessing the server from the campus network.
