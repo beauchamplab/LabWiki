@@ -8,6 +8,10 @@ url: "https://beauchamplab.github.io"
 markdown: kramdown
 theme: minima
 
+# Minima theme settings - disable auto-generated header navigation
+header_pages: []  # Empty list = no automatic page links in header
+show_excerpts: false
+
 # Include directories and files
 include:
   - pages
