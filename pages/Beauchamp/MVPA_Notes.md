@@ -12,14 +12,14 @@ parent: Beauchamp
 
 - [Home](index.md "Beauchamp")
 - [Lab Members](Lab_Members.md "Beauchamp:Lab Members")
-- [Lab Alums](Lab_Alums.md)
-- [Projects](Projects.md)
+- [Lab Alums](Lab_Alums.html)
+- [Projects](Projects.html)
 - [Publications](Publications.md "Beauchamp:Publications")
 - [*Lab Notebook*](Lab_Notebook.md "Beauchamp:Lab Notebook")
 - [Subjects](Subjects.md "Beauchamp:Subjects")
 
-- [Software Installation](Software_Installation.md)
-- [Ordering](Ordering.md)
+- [Software Installation](Software_Installation.html)
+- [Ordering](Ordering.html)
 - [MRI Data Analysis](MRI_Data_Analysis.md "Beauchamp:MRI Data Analysis")
 - [Electrophysiology](Electrophysiology.md "Beauchamp:Electrophysiology")
 - [TMS](TMS.md "Beauchamp:TMS")

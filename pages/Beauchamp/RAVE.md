@@ -14,5 +14,5 @@ parent: Beauchamp
 
 Old web pages
 
-1. [OldHome](../RAVE/OldHome.md)2. <../RAVE/Install.md>
-3. [Update](../RAVE/Update.md)4. [Launching](../RAVE/Launching.md)5. [Help](../RAVE/Help.md)6. [Community](../RAVE/Community.md)**R**eproducible **A**nalysis and **V**isualization of intracranial **E**EG (RAVE) is free and open-source software for the analysis of intracranial electroencephalogram (iEEG) data, including data collected using strips and grids (electrocorticography, ECoG) and depth electrodes (stereotactic EEG). A sister package to RAVE is the [YAEL electrode localization toolkit](../YAEL/index.md).
+1. [OldHome](../RAVE/OldHome.html)2. <../RAVE/Install.md>
+3. [Update](../RAVE/Update.html)4. [Launching](../RAVE/Launching.html)5. [Help](../RAVE/Help.html)6. [Community](../RAVE/Community.html)**R**eproducible **A**nalysis and **V**isualization of intracranial **E**EG (RAVE) is free and open-source software for the analysis of intracranial electroencephalogram (iEEG) data, including data collected using strips and grids (electrocorticography, ECoG) and depth electrodes (stereotactic EEG). A sister package to RAVE is the [YAEL electrode localization toolkit](../YAEL/index.html).

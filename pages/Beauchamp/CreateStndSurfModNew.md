@@ -172,4 +172,4 @@ SurfToSurf -i lh_acpc_std.smoothwm.asc -i TT_N27_BrainSurface.ply -prefix newdep
 
 But this fails because the Surfaces are not in alignment.
 
-An older version of this page is at [Creating Standardized Surface Models](CreateStndSurfMod.md)
+An older version of this page is at [Creating Standardized Surface Models](CreateStndSurfMod.html)

@@ -16,7 +16,7 @@ parent: Beauchamp
 
 Here is another page with some pictures
 
-1. [Retinotopic Mapping Screenshots](RetinotopicMapping.md)
+1. [Retinotopic Mapping Screenshots](RetinotopicMapping.html)
 
 ## Phase-Mapped Retinotopy
 

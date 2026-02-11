@@ -14,7 +14,7 @@ parent: Beauchamp
 - [Publications](Publications.md "Beauchamp:Publications")
 - [Resources](DataSharing.md "Beauchamp:DataSharing")
 
-[Old Protocols](Old_Protocols.md)
+[Old Protocols](Old_Protocols.html)
 
 ## September 2008 E-Phys Protocol
 
@@ -64,17 +64,17 @@ Some things to look at:
     :   If the microelectrodes have smaller RFs or are more feature-selective than the large electrodes, it could mean that sending current through them would activate a more functionally-segregated group of neurons than has previously been possible. If so, microstimulation with microelectrodes may be more likely to evoke percepts in higher-level visual areas than with the large electrodes.
 
 **Ryan's Adaptation Experiments**  
-**1) [Target-detection Selectivity](Selectivity.md) – 20 minutes**
+**1) [Target-detection Selectivity](Selectivity.html) – 20 minutes**
 
 :   • 80 stimuli (+5 target stimuli), 20 blocks
 :   • Stop-sign task (patient reports stop-signs)
 
-**2) [Repeat-detection Selectivity](Selectivity.md) – 20 minutes**
+**2) [Repeat-detection Selectivity](Selectivity.html) – 20 minutes**
 
 :   • 80 stimuli, 20 blocks
 :   • One-back task (patient reports repetitions of images)
 
-**3) [Multiple-repetitions adaptation](Adaptation.md) - 5 minutes**
+**3) [Multiple-repetitions adaptation](Adaptation.html) - 5 minutes**
 
 :   • 20 selective stimuli, 20 nonselective stimuli, 2 Hz presentation, patient is told to press button when he/she sees the stopsign.
 :   • trial structure: 8 nonselective stimuli, 8 of the same selective stimulus, 8 nonselective stimuli, 8 different selective stimuli. Stopsign appear at random or at the end of each run.
@@ -92,7 +92,7 @@ Some things to look at:
 
 ## Electrophysiology Protocols
 
-[Presurgical Scanning](Presurgical_Scanning.md)
+[Presurgical Scanning](Presurgical_Scanning.html)
 
 After analysing fMRI data, upload the entire contents of the AFNI and SUMA directories to Xfiles.
 This can be simplfied by Apple-K (Connect to Server) in Finder and choosing XFiles;
@@ -105,19 +105,19 @@ then the folders can be dragged from the server to Xfiles, or copied in the comm
 
 *In the EMU*
 
-[Setup Apparatus](Setup_Apparatus.md)
+[Setup Apparatus](Setup_Apparatus.html)
 
-[Receptive Field Mapping](Receptive_Field_Mapping.md)
+[Receptive Field Mapping](Receptive_Field_Mapping.html)
 
-[Electrical Stimulation](Electrical_Stimulation.md)
+[Electrical Stimulation](Electrical_Stimulation.html)
 
-[Selectivity](Selectivity.md)
+[Selectivity](Selectivity.html)
 
-[Perceptual Biasing](Perceptual_Biasing.md)
+[Perceptual Biasing](Perceptual_Biasing.html)
 
-[Adaptation](Adaptation.md)
+[Adaptation](Adaptation.html)
 
-[Making Grayscale From Color Images](Making_Grayscale_From_Color_Images.md)
+[Making Grayscale From Color Images](Making_Grayscale_From_Color_Images.html)
 
 It is also good to collect 10 minutes of resting data (no stimulation) from as many visual electrodes as possible for later analyses.
 

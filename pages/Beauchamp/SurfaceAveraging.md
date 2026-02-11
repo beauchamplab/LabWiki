@@ -117,4 +117,4 @@ The previous method is described on obsolete web pages:
 
 1. [Creating Standardized Surface Models](CreateStndSurfModNew.md "Beauchamp:CreateStndSurfModNew")
 2. [FreeSurfer Standard Surface Models](FSStndSurf.md "Beauchamp:FSStndSurf")
-3. [Comparison of Results with old and new versions of MapIcosahedron](MapIco.md)
+3. [Comparison of Results with old and new versions of MapIcosahedron](MapIco.html)

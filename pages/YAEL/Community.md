@@ -29,7 +29,7 @@ Left to right: Michael Beauchamp, Ph.D., Zhengjia Wang, Ph.D., Xiang Zhang, M.S.
 
 ## Workshops
 
-[2021 Computational Memory Lab's Workshop on Cognitive Electrophysiology](../RAVE/CML_Workshop_2021.md)
+[2021 Computational Memory Lab's Workshop on Cognitive Electrophysiology](../RAVE/CML_Workshop_2021.html)
 
 **Oct 18, 2022**
 UAB Medical School.
@@ -43,4 +43,4 @@ NIH Intramural Research Program. Bethesda, MD
 Hosted by: Paul Taylor and the Scientific and Statistical Computing Core
 
 **June, 2023**
-[Suthana lab, University of Southern California](../RAVE/SuthanaDemo_2023.md)
+[Suthana lab, University of Southern California](../RAVE/SuthanaDemo_2023.html)

@@ -14,7 +14,7 @@ parent: Beauchamp
 - [Publications](Publications.md "Beauchamp:Publications")
 - [Resources](DataSharing.md "Beauchamp:DataSharing")
 
-1. [How To Install Software and set up new computers](Software_Installation.md)
+1. [How To Install Software and set up new computers](Software_Installation.html)
 
 ### AFNI
 

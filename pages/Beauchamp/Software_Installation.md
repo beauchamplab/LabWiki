@@ -16,7 +16,7 @@ parent: Beauchamp
 
 ## Archived Version (from BCM and UT)
 
-[Beauchamp:Software\_Installation\_OLD](Software_Installation_OLD.md)
+[Beauchamp:Software\_Installation\_OLD](Software_Installation_OLD.html)
 
 ### Brother MFC (Printer)
 

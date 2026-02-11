@@ -13,7 +13,7 @@ parent: RAVE
 ## Preprocessing Tutorial
 
 see also
-[ravepreprocess](ravepreprocess.md)
+[ravepreprocess](ravepreprocess.html)
 
 To begin, launch the RAVE Preprocessing Module from RStudio with the following command:
 

@@ -6,7 +6,7 @@ parent: Beauchamp
 # Beauchamp Lab Publications
 
 
-[Click here for all shared data, stimuli and analysis code](DataSharing.md)
+[Click here for all shared data, stimuli and analysis code](DataSharing.html)
 
 ---
 
@@ -97,9 +97,9 @@ parent: Beauchamp
 
 44. Ozker M, Schepers IM, Magnotti JF, Yoshor D, Beauchamp MS. A Double Dissociation between Anterior and Posterior Superior Temporal Gyrus for Processing Audiovisual Speech Demonstrated by Electrocorticography. *Journal of Cognitive Neuroscience*. June 2017, 29:6, pp. 1044–1060. doi:10.1162/jocn_a_01110. [PDF](../../attachments/Publications/Ozker_Schepers_Magnotti_Yoshor_Beauchamp_JOCN_2017.pdf) • [Stimuli](Stimuli.md#stimuli-from-ozker-et-al)
 
-45. Zhu LL, Beauchamp MS. Mouth and Voice: A Relationship between Visual and Auditory Preference in the Human Superior Temporal Sulcus. *Journal of Neuroscience* 8 March 2017, 37 (10) 2697-2708. [DOI](https://doi.org/10.1523/JNEUROSCI.2914-16.2017) • [PDF](../../attachments/Publications/Zhu_Beauchamp_JNS_2017.pdf) • [Stimuli](Stimuli.md)
+45. Zhu LL, Beauchamp MS. Mouth and Voice: A Relationship between Visual and Auditory Preference in the Human Superior Temporal Sulcus. *Journal of Neuroscience* 8 March 2017, 37 (10) 2697-2708. [DOI](https://doi.org/10.1523/JNEUROSCI.2914-16.2017) • [PDF](../../attachments/Publications/Zhu_Beauchamp_JNS_2017.pdf) • [Stimuli](Stimuli.html)
 
-46. Magnotti JF, Beauchamp MS. A Causal Inference Model Explains Perception of the McGurk Effect and Other Incongruent Audiovisual Speech. *PLoS Computational Biology* 2017 Feb 16;13(2):e1005229. doi: 10.1371/journal.pcbi.1005229. [Journal full text](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005229) • [PDF](../../attachments/Publications/Magnotti_Beauchamp_PLoS_CB.pdf) • [Model code](CIMS_McGurk.md)
+46. Magnotti JF, Beauchamp MS. A Causal Inference Model Explains Perception of the McGurk Effect and Other Incongruent Audiovisual Speech. *PLoS Computational Biology* 2017 Feb 16;13(2):e1005229. doi: 10.1371/journal.pcbi.1005229. [Journal full text](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005229) • [PDF](../../attachments/Publications/Magnotti_Beauchamp_PLoS_CB.pdf) • [Model code](CIMS_McGurk.html)
 
 47. Olds C, Pollonini L, Abaya H, Larky J, Loy M, Bortfeld H, Beauchamp MS, Oghalai JS. Cortical Activation Patterns Correlate With Speech Understanding After Cochlear Implantation. *Ear & Hearing* 2016 May-Jun;37(3):e160-72. [PDF](../../attachments/Publications/Olds_et_al.pdf)
 
@@ -107,11 +107,11 @@ parent: Beauchamp
 
 49. Gurler D, Doyle N, Walker E, Magnotti J, Beauchamp MS. A link between individual differences in multisensory speech perception and eye movements. *Attention, Perception, & Psychophysics*, 2015 May;77(4):1333-41. doi: 10.3758/s13414-014-0821-1. PMID: 25810157. [PDF](../../attachments/Publications/McGurk_Eyemovements.pdf)
 
-50. Basu Mallick D, Magnotti JF, Beauchamp MS. Variability and stability in the McGurk effect: contributions of participants, stimuli, time, and response type. *Psychonomic Bulletin and Review*. (2015) 22:1299–1307. DOI 10.3758/s13423-015-0817-4. [PDF](../../attachments/Publications/McGurk_variabilitystability_corrected.pdf) • [Stimuli](Stimuli.md)
+50. Basu Mallick D, Magnotti JF, Beauchamp MS. Variability and stability in the McGurk effect: contributions of participants, stimuli, time, and response type. *Psychonomic Bulletin and Review*. (2015) 22:1299–1307. DOI 10.3758/s13423-015-0817-4. [PDF](../../attachments/Publications/McGurk_variabilitystability_corrected.pdf) • [Stimuli](Stimuli.html)
 
 51. Baum SH, Beauchamp MS. Greater BOLD Variability in Older Compared with Younger Adults during Audiovisual Speech Perception. *PLoS One*. 2014 Oct 22;9(10):e111121. PubMed PMID: 25337918. [PDF](../../attachments/Publications/BaumBeauchamp2014.pdf)
 
-52. Magnotti JF, Beauchamp MS. The Noisy Encoding of Disparity Model of the McGurk Effect. *Psychonomic Bulletin and Review*. 2015 Jun; 22(3): 701–709. doi: 10.3758/s13423-014-0722-2. [Journal full text](https://link.springer.com/article/10.3758/s13423-014-0722-2) • [PDF](../../attachments/Publications/MagnottiBeauchamp_PBR_2014_NED.pdf) • [How to fit NED to your data](NED.md)
+52. Magnotti JF, Beauchamp MS. The Noisy Encoding of Disparity Model of the McGurk Effect. *Psychonomic Bulletin and Review*. 2015 Jun; 22(3): 701–709. doi: 10.3758/s13423-014-0722-2. [Journal full text](https://link.springer.com/article/10.3758/s13423-014-0722-2) • [PDF](../../attachments/Publications/MagnottiBeauchamp_PBR_2014_NED.pdf) • [How to fit NED to your data](NED.html)
 
 53. Lu J, Kishida K, De Asis-Cruz J, Lohrenz T, Treadwell-Deering D, Beauchamp MS, Montague PR. Single-stimulus fMRI produces a neural individual difference measure for Autism Spectrum Disorder. *Clinical Psychological Science* 2015, Vol. 3(3) 422–432. [PDF](../../attachments/Publications/Clinical_Psychological_Science-2015-Lu-422-32.pdf)
 
@@ -121,7 +121,7 @@ parent: Beauchamp
 
 56. Weisberg J, Milleville SC, Kenworthy L, Wallace GL, Gotts SJ, Beauchamp MS, Martin A. Social Perception in Autism Spectrum Disorders: Impaired Category Selectivity for Dynamic but not Static Images in Ventral Temporal Cortex. *Cerebral Cortex* January 2014;24:37–48. doi:10.1093/cercor/bhs276. [PDF](../../attachments/Publications/Weisberg_Milleville_Kenworthy_Wallace_Gotts_Beauchamp_Martin_CerCor2014.pdf)
 
-57. Magnotti JF, Ma W, Beauchamp MS. Causal inference of asynchronous audiovisual speech. *Frontiers in Psychology*, 13 November 2013. doi: 10.3389/fpsyg.2013.00798. [PDF](../../attachments/Publications/Magnotti_Ma_Beauchamp_Frontiers2013.pdf) • [How to fit CIMS to your data](CIMS.md)
+57. Magnotti JF, Ma W, Beauchamp MS. Causal inference of asynchronous audiovisual speech. *Frontiers in Psychology*, 13 November 2013. doi: 10.3389/fpsyg.2013.00798. [PDF](../../attachments/Publications/Magnotti_Ma_Beauchamp_Frontiers2013.pdf) • [How to fit CIMS to your data](CIMS.html)
 
 58. Ro T, Ellmore TM, and Beauchamp MS. A Neural Link Between Hearing and Feeling. *Cerebral Cortex* 2012 Jun 12. [PDF](../../attachments/Publications/Ro_Ellmore_Beauchamp_CerCor_2012.pdf)
 
@@ -145,7 +145,7 @@ parent: Beauchamp
 
 68. Pasalar S, Ro T, Beauchamp MS. TMS of posterior parietal cortex disrupts visual tactile multisensory integration. *Eur J Neurosci*. 2010 May;31(10):1783-90. [PDF](../../attachments/Publications/PasalarRoBeauchampEJN2010.pdf) • [Sample stimuli](Stimuli.md#visual-tactile-stimuli)
 
-69. Beauchamp MS, Nath AR, Pasalar S. fMRI-Guided transcranial magnetic stimulation reveals that the superior temporal sulcus is a cortical locus of the McGurk effect. *J Neurosci*. 2010 Feb 17;30(7):2414-7. [PDF](../../attachments/Publications/BeauchampJNS2010.pdf) • [Stimuli](Stimuli.md)
+69. Beauchamp MS, Nath AR, Pasalar S. fMRI-Guided transcranial magnetic stimulation reveals that the superior temporal sulcus is a cortical locus of the McGurk effect. *J Neurosci*. 2010 Feb 17;30(7):2414-7. [PDF](../../attachments/Publications/BeauchampJNS2010.pdf) • [Stimuli](Stimuli.html)
 
 70. Frye RE, Liederman J, Malmberg B, McLean J, Strickland D, Beauchamp MS. Surface Area Accounts for the Relation of Gray Matter Volume to Reading-Related Skills and History of Dyslexia. *Cereb Cortex*. 2010 Feb 12. [PDF](../../attachments/Publications/FryeCerCor2010.pdf)
 
@@ -199,7 +199,7 @@ parent: Beauchamp
 
 95. Petit L, and Beauchamp MS. Neural basis of visually guided head movements studied with fMRI. *Journal of Neurophysiology* 89: 2516-2527, 2003. [PDF](../../attachments/Publications/PetitBeauchampJNeurophysiology2003.pdf)
 
-96. Beauchamp MS, Lee KE, Haxby JV, and Martin A. FMRI responses to video and point-light displays of moving humans and manipulable objects. *J Cogn Neurosci* 15: 991-1001, 2003. [PDF](../../attachments/Publications/BeauchampJOCN2003.pdf) • [Stimuli](Stimuli.md)
+96. Beauchamp MS, Lee KE, Haxby JV, and Martin A. FMRI responses to video and point-light displays of moving humans and manipulable objects. *J Cogn Neurosci* 15: 991-1001, 2003. [PDF](../../attachments/Publications/BeauchampJOCN2003.pdf) • [Stimuli](Stimuli.html)
 
 97. Beauchamp MS. Detection of eye movements from fMRI data. *Magnetic Resonance in Medicine* 49: 376-380, 2003. [PDF](../../attachments/Publications/BeauchampMRM2003.pdf)
 
@@ -211,9 +211,9 @@ parent: Beauchamp
 
 101. Lewis JW, Beauchamp MS, and DeYoe EA. A comparison of visual and auditory motion processing in human cerebral cortex. *Cereb Cortex* 10:873-888, 2000. [PDF](../../attachments/Publications/LewisBeauchampDeYoeCerCor2000.pdf) • [Journal cover image](../../attachments/Publications/LewisCover.jpg)
 
-102. Beauchamp MS, Haxby JV, Rosen AC, and DeYoe EA. A functional MRI case study of acquired cerebral dyschromatopsia. *Neuropsychologia* 38:1170-1179, 2000. [PDF](../../attachments/Publications/BeauchampNeuropsychologia2000.pdf) • [Stimuli](100Hue.md)
+102. Beauchamp MS, Haxby JV, Rosen AC, and DeYoe EA. A functional MRI case study of acquired cerebral dyschromatopsia. *Neuropsychologia* 38:1170-1179, 2000. [PDF](../../attachments/Publications/BeauchampNeuropsychologia2000.pdf) • [Stimuli](100Hue.html)
 
-103. Beauchamp MS, Haxby JV, Jennings JE, and DeYoe EA. An fMRI version of the Farnsworth-Munsell 100-Hue test reveals multiple color-selective areas in human ventral occipitotemporal cortex. *Cereb Cortex* 9: 257-263, 1999. [PDF](../../attachments/Publications/BeauchampCerCor99.pdf) • [Journal cover image](../../attachments/Publications/BeauchampCerCor99Cover.pdf) • [Stimuli](100Hue.md)
+103. Beauchamp MS, Haxby JV, Jennings JE, and DeYoe EA. An fMRI version of the Farnsworth-Munsell 100-Hue test reveals multiple color-selective areas in human ventral occipitotemporal cortex. *Cereb Cortex* 9: 257-263, 1999. [PDF](../../attachments/Publications/BeauchampCerCor99.pdf) • [Journal cover image](../../attachments/Publications/BeauchampCerCor99Cover.pdf) • [Stimuli](100Hue.html)
 
 104. Beauchamp MS, Cox RW, and DeYoe EA. Graded effects of spatial and featural attention on human area MT and associated motion processing areas. *J Neurophysiol* 77: 516-520, 1997. [PDF](../../attachments/Publications/BeauchampJNeurophys97.pdf) • [Journal cover](../../attachments/Publications/JNeurophysCover.jpeg)
 

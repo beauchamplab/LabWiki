@@ -26,7 +26,7 @@ This is an older list from BCM:
 2. Get assigned a Mac by our friendly IT support (Dave Lee); make sure AFNI, FreeSurfer, Matlab, and other tools are installed to your satisfaction. Microsoft Office can be downloaded from the Office 365 web site. Adobe Creative Cloud is also available if needed.
 3. Visit [Beauchamp:Software\_Installation#Connecting\_to\_the\_Lab\_Mac\_Server](Software_Installation.md#Connecting_to_the_Lab_Mac_Server "Beauchamp:Software Installation") to connect to the lab server.
 4. Receive a BCM e-mail and badge; ask Krista to give you badge access to the CAMRI door and S101 if needed.
-5. Sign up for an openwetware account so that you can modify this wiki. Visit [Beauchamp Lab Wiki](index.md) and click on "Request Account" in the very top right corner of the home page.
+5. Sign up for an openwetware account so that you can modify this wiki. Visit [Beauchamp Lab Wiki](index.html) and click on "Request Account" in the very top right corner of the home page.
 6. Ask to be added to various listservs: BeauchampLab; camri-users; Neuroscience Department seminars.
 7. Join the lab Box folder with your BCM account. Install the desktop Box Sync and Box Notes apps on your Mac(s).
 8. Take CITI human subjects training with your BCM account and save the certification of completion to the Box folder so that you can be added to the BCM IRB. This is done by amending the protocol and adding you as a co-investigator. When testing subjects, they must always complete a consent form!

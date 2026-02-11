@@ -18,7 +18,7 @@ parent: Beauchamp
 
 1. [Motion and Distortion Correction](MotionCorrection.md "Beauchamp:MotionCorrection")
 2. [Autism Data](Autism.md "Beauchamp:Autism")
-3. [Group analysis with Matlab ANOVAN](anovan.md)
+3. [Group analysis with Matlab ANOVAN](anovan.html)
 
 ## Notes on creating regressor files in Excel
 
@@ -208,7 +208,7 @@ SurfToSurf -i MEGSurface.asc -i fMRISurface.asc -output\_params Data -data LeftM
 
 ex: **lh.inflated-MRI.asc**
 
-*NOTE: See [Beauchamp:FreeSurfer](FreeSurfer.md) about converting a surface file to a .asc file*
+*NOTE: See [Beauchamp:FreeSurfer](FreeSurfer.html) about converting a surface file to a .asc file*
 
 2) Make sure that new surface file for that hemisphere also exists in that folder in the proper freesurfer format (lh.inflated.asc)
 

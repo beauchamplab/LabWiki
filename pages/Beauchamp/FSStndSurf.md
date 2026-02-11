@@ -18,7 +18,7 @@ When surfaces are created in FreeSurfer, the spherical version of the subject's 
 the name lh.sphere.reg . This has the same number of nodes as the surface lh.sphere (and all of the other lh surfaces) but the nodes have been moved (morphed) to new positions so that each node on the subject's brain corresponds to a similar location on the atlas brain. If you view the .reg brain in SUMA, you will see swirling patterns that are a signature of the morphing process.
 These registered brains can be used to average fMRI data or other surfaces values across subjects, because each node corresponds to a similar brain location.
 Here is the README file from the FreeSurfer group average template.
-[Beauchamp:FSAverageReadme](FSAverageReadme.md)
+[Beauchamp:FSAverageReadme](FSAverageReadme.html)
 The data files for the FreeSurfer template is found in
 
 ```

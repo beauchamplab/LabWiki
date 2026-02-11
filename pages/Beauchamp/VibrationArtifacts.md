@@ -206,7 +206,7 @@ The simulated DWI data has one b=0 volume at the start, so get rid of that.
 
 **SANITY CHECK— plot(G(:,1), R, ‘o’) should look a lot like Figure 6a from the paper.**
 
-[MATLAB Code Here](../BeauchampLab/VibrationMatlabCode.md)
+[MATLAB Code Here](../BeauchampLab/VibrationMatlabCode.html)
 
 # Apply the correction equation to the measured DWIs, and re-do tractography to check the results (and presumably, carry on with whatever analyses you originally intended.)
 

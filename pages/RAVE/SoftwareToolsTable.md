@@ -54,7 +54,7 @@ Software for exploring, visualizing, and analyzing human neurophysiological data
 Persyst <https://www.persyst.com/>
 EEG Review and Analysis Software that provides the complete set of tools needed for C.A.R.E (Computer Assisted Review of EEG).
 
-RAVE [RAVE](index.md)
+RAVE [RAVE](index.html)
 R Analysis and Visualization of intracranial EEG (RAVE) is software for the analysis of intracranial electroencephalogram (iEEG) data, including data collected using strips and grids (electrocorticography, ECoG) and depth electrodes (stereotactic EEG).
 
 ## Table of iEEG Software Tools

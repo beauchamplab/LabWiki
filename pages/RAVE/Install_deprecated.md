@@ -15,7 +15,7 @@ parent: RAVE
 ### Docker (special-purpose containerized installation)
 
 RAVE-within-Docker is not recommended for day-to-day (production) usage as performance is worse and usage is more complex.
-[For more information, see the GitHub Rave Docker page.](https://github.com/beauchamplab/rave-docker/blob/master/README.md)
+[For more information, see the GitHub Rave Docker page.](https://github.com/beauchamplab/rave-docker/blob/master/README.html)
 
 ### Additional Demo data
 

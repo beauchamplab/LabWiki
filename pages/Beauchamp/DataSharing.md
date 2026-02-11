@@ -12,20 +12,20 @@ parent: Beauchamp
 
 ## Penn McGurk Battery
 
-To make it easier to study the McGurk effect, the Beauchamp Lab has released the [Penn McGurk Battery. Click here for more information.](PennMcGurkBattery.md)
+To make it easier to study the McGurk effect, the Beauchamp Lab has released the [Penn McGurk Battery. Click here for more information.](PennMcGurkBattery.html)
 
 ---
 
 ## Stimuli
 
-1. Speech stimuli used in a number of Beauchamp Lab publications can be downloaded from [Beauchamp:Stimuli](Stimuli.md)
-2. Stimuli for localizing color-selective brain regions can be downloaded from [Beauchamp:100Hue](100Hue.md)
+1. Speech stimuli used in a number of Beauchamp Lab publications can be downloaded from [Beauchamp:Stimuli](Stimuli.html)
+2. Stimuli for localizing color-selective brain regions can be downloaded from [Beauchamp:100Hue](100Hue.html)
 
 ---
 
 ## R Analysis and Visualization of ECOG Data (RAVE)
 
-RAVE is a powerful software tool for the analysis of electrocorticography (ECOG) data. Click here to use a beta-version of RAVE on a public server with a sample dataset. More information is available at [Beauchamp:RAVE](../RAVE/index.md).
+RAVE is a powerful software tool for the analysis of electrocorticography (ECOG) data. Click here to use a beta-version of RAVE on a public server with a sample dataset. More information is available at [Beauchamp:RAVE](../RAVE/index.html).
 
 ---
 
@@ -57,7 +57,7 @@ Data from [Magnotti, Ma, & Beauchamp (2013)](http://journal.frontiersin.org/Jour
 
 The data are stored as a vector of counts for each subject. Each row is one subject. The trial types are described in the first row. There are 15 levels of asynchrony, 2 levels of visual reliability, and 2 visual intelligibility levels (60 columns in total). Experiment 1 had 12 trials per trial type (3 blocks with 4 trials each) and Experiment 2 had 4 trials (1 block).
 
-For our initial model fitting of these data, please see the [CIMS Model Page](CIMS.md).
+For our initial model fitting of these data, please see the [CIMS Model Page](CIMS.html).
 
 [The stimuli we used](https://www.dropbox.com/s/d6k9ux9d23fb6ck/15async_2blur.zip?dl=1) may be downloaded from Dropbox (240 total). The original videos came from David Pisoni (Hoosier multitalker dataset); we added visual blur to them.
 
@@ -65,13 +65,13 @@ For our initial model fitting of these data, please see the [CIMS Model Page](CI
 
 ## Modeling McGurk perception across multiple McGurk stimuli
 
-Please see the full model building page at [NED Model Page](NED.md).
+Please see the full model building page at [NED Model Page](NED.html).
 
 ---
 
 ## Causal Inference of the McGurk Effect
 
-Please see the full data sharing and model page at [Causal Inference of McGurk Page](CIMS_McGurk.md).
+Please see the full data sharing and model page at [Causal Inference of McGurk Page](CIMS_McGurk.html).
 
 ---
 
