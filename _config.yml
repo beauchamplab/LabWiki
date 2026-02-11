@@ -20,9 +20,15 @@ include:
 # Exclude unnecessary files from the site
 exclude:
   - .venv
+  - .obsidian
   - migrate.py
   - obsidian.command
   - README.md
+  - Navigation.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - "*.command"
 
 # Plugins
 plugins:
