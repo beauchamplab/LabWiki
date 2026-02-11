@@ -7,6 +7,7 @@ gem "logger"
 
 # Jekyll
 gem "jekyll", "~> 4.3"
+gem "webrick", "~> 1.8" # Required for Jekyll 4.3 on Ruby 3.x
 
 # Theme
 gem "just-the-docs", "0.12.0"
