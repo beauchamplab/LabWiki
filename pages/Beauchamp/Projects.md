@@ -1,6 +1,10 @@
+---
+layout: default
+title: "Projects"
+parent: Beauchamp
+---
 # Projects
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

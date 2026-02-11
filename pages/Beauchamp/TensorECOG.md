@@ -1,5 +1,9 @@
+---
+layout: default
+title: "TensorECOG"
+parent: Beauchamp
+---
 # TensorECOG
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 

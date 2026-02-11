@@ -1,6 +1,10 @@
+---
+layout: default
+title: "MRI Data Analysis"
+parent: Beauchamp
+---
 # MRI Data Analysis
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

@@ -1,6 +1,10 @@
+---
+layout: default
+title: "Electrical Stimulation"
+parent: Beauchamp
+---
 # Electrical Stimulation
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

@@ -1,6 +1,10 @@
+---
+layout: default
+title: "ProjectionNotes"
+parent: Beauchamp
+---
 # ProjectionNotes
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

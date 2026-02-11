@@ -1,6 +1,10 @@
+---
+layout: default
+title: "NED"
+parent: Beauchamp
+---
 # NED
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 ## Estimating amounts of McGurk Fusion across Stimuli
 

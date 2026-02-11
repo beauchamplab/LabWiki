@@ -1,6 +1,10 @@
+---
+layout: default
+title: "IfCortModExists"
+parent: Beauchamp
+---
 # IfCortModExists
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 ## What if I have scanned a subject for whom a surface model already exists?
 

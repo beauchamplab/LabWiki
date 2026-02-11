@@ -1,6 +1,10 @@
+---
+layout: default
+title: "Making Grayscale From Color Images"
+parent: Beauchamp
+---
 # Making Grayscale From Color Images
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 Open HumanImageDetection plugin.
 Load stimuli. Press, Grayscale load images.

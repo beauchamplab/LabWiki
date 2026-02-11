@@ -1,6 +1,10 @@
+---
+layout: default
+title: "Tactile Experiment Notes"
+parent: Beauchamp
+---
 # Tactile Experiment Notes
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 1- Do not exceed 90 Volts Peak to the Piezos
 

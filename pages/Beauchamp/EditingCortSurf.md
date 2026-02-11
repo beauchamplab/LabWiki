@@ -1,6 +1,10 @@
+---
+layout: default
+title: "EditingCortSurf"
+parent: Beauchamp
+---
 # EditingCortSurf
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 ## What if I have created a surface model and it looks bad?
 

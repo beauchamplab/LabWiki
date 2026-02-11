@@ -1,4 +1,8 @@
-> **Navigation:** [Beauchamp Home](index.md)
+---
+layout: default
+title: "Condition Explorer"
+parent: Beauchamp
+---
 
 # Condition Explorer
 

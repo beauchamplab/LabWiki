@@ -1,6 +1,10 @@
+---
+layout: default
+title: "Beauchamp Lab Resources (Data Sharing)"
+parent: Beauchamp
+---
 # Beauchamp Lab Resources (Data Sharing)
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • Resources
 
 [![CC0](https://creativecommons.org/publicdomain/zero/1.0/)](https://creativecommons.org/publicdomain/zero/1.0/) To the extent possible under law, we waive all copyright and related or neighboring rights to the materials on this page. (Of course, we appreciate citations to the relevant papers.)
 

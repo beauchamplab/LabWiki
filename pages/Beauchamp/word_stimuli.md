@@ -1,6 +1,10 @@
+---
+layout: default
+title: "word stimuli"
+parent: Beauchamp
+---
 # word stimuli
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 # How to make noisy word stimuli (as of Oct2020)
 

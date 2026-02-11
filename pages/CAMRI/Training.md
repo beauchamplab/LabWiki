@@ -1,6 +1,10 @@
+---
+layout: default
+title: "Training"
+parent: CAMRI
+---
 # Training
 
-> **Navigation:** [Home](../Beauchamp/index.md) • [Publications](../Beauchamp/Publications.md) • [Resources](../Beauchamp/DataSharing.md)
 
 |  |  |
 | --- | --- |

@@ -1,6 +1,10 @@
+---
+layout: default
+title: "anovan"
+parent: Beauchamp
+---
 # anovan
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

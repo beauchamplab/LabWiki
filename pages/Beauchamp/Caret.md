@@ -1,6 +1,10 @@
+---
+layout: default
+title: "Caret"
+parent: Beauchamp
+---
 # Caret
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 This article refers to Caret version 5.5
 

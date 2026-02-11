@@ -1,6 +1,10 @@
+---
+layout: default
+title: "AFNI Install"
+parent: Beauchamp
+---
 # AFNI Install
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

@@ -1,6 +1,10 @@
+---
+layout: default
+title: "Unwarping"
+parent: Beauchamp
+---
 # Unwarping
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

@@ -1,6 +1,10 @@
+---
+layout: default
+title: "iELVIS"
+parent: Beauchamp
+---
 # iELVIS
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

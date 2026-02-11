@@ -1,6 +1,10 @@
+---
+layout: default
+title: "RAVE Electrode Localization"
+parent: Karas Lab
+---
 # RAVE Electrode Localization
 
-> **Navigation:** [Home](../Beauchamp/index.md) • [Publications](../Beauchamp/Publications.md) • [Resources](../Beauchamp/DataSharing.md)
 
 [![](../../attachments/Karas_Lab/Karas_Lab_Logo_Small_White.png)](../../attachments/Karas_Lab/Karas_Lab_Logo_Small_White.png)
 

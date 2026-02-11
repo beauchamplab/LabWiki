@@ -1,6 +1,9 @@
+---
+layout: default
+title: "Finding Release Burst Duration"
+---
 # Finding Release Burst Duration
 
-> **Navigation:** [Home](Beauchamp/index.md) • [Publications](Beauchamp/Publications.md) • [Resources](Beauchamp/DataSharing.md)
 
 The release burst includes all audio from the beginning of the release burst up until the first positive zero crossing of the first pitch pulse.
 

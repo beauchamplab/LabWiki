@@ -1,6 +1,10 @@
+---
+layout: default
+title: "FreeSurfer"
+parent: Beauchamp
+---
 # FreeSurfer
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 <https://surfer.nmr.mgh.harvard.edu/fswiki/FreeSurferWiki>
 

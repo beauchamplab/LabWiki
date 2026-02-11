@@ -1,6 +1,10 @@
+---
+layout: default
+title: "Old Protocols"
+parent: Beauchamp
+---
 # Old Protocols
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

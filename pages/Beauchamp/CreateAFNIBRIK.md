@@ -1,6 +1,10 @@
+---
+layout: default
+title: "CreateAFNIBRIK"
+parent: Beauchamp
+---
 # CreateAFNIBRIK
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

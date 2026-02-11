@@ -1,6 +1,10 @@
+---
+layout: default
+title: "BrainPix"
+parent: Beauchamp
+---
 # BrainPix
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

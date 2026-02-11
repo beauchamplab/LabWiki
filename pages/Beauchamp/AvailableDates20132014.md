@@ -1,6 +1,10 @@
+---
+layout: default
+title: "AvailableDates20132014"
+parent: Beauchamp
+---
 # AvailableDates20132014
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

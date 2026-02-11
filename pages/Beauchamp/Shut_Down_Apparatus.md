@@ -1,6 +1,10 @@
+---
+layout: default
+title: "Shut Down Apparatus"
+parent: Beauchamp
+---
 # Shut Down Apparatus
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 **Shut Down**
 

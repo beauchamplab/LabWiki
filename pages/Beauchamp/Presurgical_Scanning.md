@@ -1,6 +1,10 @@
+---
+layout: default
+title: "Presurgical Scanning"
+parent: Beauchamp
+---
 # Presurgical Scanning
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 fMRI Protocol (in descending order of importance)
 

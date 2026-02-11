@@ -1,6 +1,10 @@
+---
+layout: default
+title: "ElectiveNotes"
+parent: Beauchamp
+---
 # ElectiveNotes
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 #### MS4 Neuroimaging Elective: BSCI 4008
 

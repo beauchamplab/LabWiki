@@ -1,6 +1,10 @@
+---
+layout: default
+title: "NewEyeTrackSetup"
+parent: Beauchamp
+---
 # NewEyeTrackSetup
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

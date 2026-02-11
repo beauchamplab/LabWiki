@@ -1,6 +1,10 @@
+---
+layout: default
+title: "InitialAutoVOIforIT"
+parent: Beauchamp
+---
 # InitialAutoVOIforIT
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 DTI Query allows any number of cuboid VOIs to be used isolate fiber pathways
 

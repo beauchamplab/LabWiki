@@ -1,6 +1,10 @@
+---
+layout: default
+title: "Beauchamp Lab Publications"
+parent: Beauchamp
+---
 # Beauchamp Lab Publications
 
-> **Navigation:** [Home](index.md) • Publications • [Resources](DataSharing.md)
 
 [Click here for all shared data, stimuli and analysis code](DataSharing.md)
 

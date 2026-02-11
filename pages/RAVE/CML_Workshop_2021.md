@@ -1,4 +1,8 @@
-> **Navigation:** [Home](index.md) • [Install](Install.md) • [Help](Help.md)
+---
+layout: default
+title: "CML Workshop 2021"
+parent: RAVE
+---
 
 # CML Workshop 2021
 

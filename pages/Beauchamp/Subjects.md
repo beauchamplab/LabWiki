@@ -1,6 +1,10 @@
+---
+layout: default
+title: "Subjects"
+parent: Beauchamp
+---
 # Subjects
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |
