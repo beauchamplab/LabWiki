@@ -104,11 +104,11 @@ Note: HOW TO CHECK THE CHANNEL NUMBER FOR A SUBJECT?
 
 The following steps are all done in RAVE
 
-You can also refer to the RAVE wiki for more detailed information on each module, and the pre-processing flow in RAVE ([ravetutorials](../RAVE/ravetutorials.html))
+You can also refer to the RAVE wiki for more detailed information on each module, and the pre-processing flow in RAVE ([ravetutorials](../RAVE/ravetutorials.md))
 
 **1. Import the subject in RAVE:**
 
-Once you are connected to the Beauchamplab Serve, you can use the nice script (RAVE\_PreProc@MacPro.command) that Zhengjia wrote to run the whole processing in Beauchamplab Macpro (see more details on [MacPro](../RAVE/MacPro.html))
+Once you are connected to the Beauchamplab Serve, you can use the nice script (RAVE\_PreProc@MacPro.command) that Zhengjia wrote to run the whole processing in Beauchamplab Macpro (see more details on [MacPro](../RAVE/MacPro.md))
 
 Alternatively, you can open an R terminal and type in:
 

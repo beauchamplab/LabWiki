@@ -23,7 +23,7 @@ For more efficient software maintenance, [RAVE](../RAVE/index.md "RAVE") and YAE
 
 ## Step 1: Install prerequisites
 
-Click on this link to **[install the prerequisites.](Install_prerequisites.html)**
+Click on this link to **[install the prerequisites.](Install_prerequisites.md)**
 
 > ❗The most common installation problem is that the prerequisites are not installed.
 
@@ -61,7 +61,7 @@ Please make sure all R and RStudio windows are closed. Close them, re-open, and 
 
 - Your R version (xxx) is too low....
 
-R major version is too low, return to [install the prerequisites.](../RAVE/Install_prerequisites.html)
+R major version is too low, return to [install the prerequisites.](../RAVE/Install_prerequisites.md)
 
 ---
 

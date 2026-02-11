@@ -37,6 +37,6 @@ parent: Beauchamp
 3. Check for good signals on all 16 channels. If there is 60 Hz noise on all channels, consider relocating either the reference, ground, or both. Fresh reference/ground electrodes and/or reapplication of the electrode gel may be required from day to day, as they seem to wear overnight. Other sites of signal corruption may be the jumpered cables (which might have loosened overnight or the cabling in the closet that connects the amplified signal to the control computer.  
 4. Turn on KNOT.  
 5. RTA: Make sure electrode names are correctly entered in Knot's files, to make it easier to retrieve electrode names during data analysis. If electrodes are switched out or if electrode assignments flip, make sure to change electrode names to coincide with the changes.   
-5. Set up display cart and [eye tracker](Eye_Tracker.html).  
+5. Set up display cart and [eye tracker](Eye_Tracker.md).  
 6. Run [Experimental Protocol](Electrophysiology.md "Beauchamp:Electrophysiology")  
-7. [Shut Down](Shut_Down_Apparatus.html).
+7. [Shut Down](Shut_Down_Apparatus.md).

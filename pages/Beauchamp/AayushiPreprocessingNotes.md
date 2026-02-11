@@ -65,7 +65,7 @@ afni -com "SWITCH_UNDERLAY temp_ANAT.nii" -com "SWITCH_OVERLAY CT_highresRAI_res
 
 ## Creating an Epoch.CSV file from BlackRock
 
-see also [RAVE Epoching instructions](../RAVE/Epoching.html)
+see also [RAVE Epoching instructions](../RAVE/Epoching.md)
 
 Information about event timing can be gathered from at least three sources:
 

@@ -24,4 +24,4 @@ parent: Karas Lab
 
 From left to right: Liliana Camarillo-Rodriguez, [Patrick Karas](#), Oliver Zhou
 
-[**Return to Home**](index.html)
+[**Return to Home**](index.md)

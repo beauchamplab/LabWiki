@@ -8,12 +8,12 @@ parent: Karas Lab
 
 [![](../../attachments/Karas_Lab/Karas_Lab_Logo_Small_White.png)](../../attachments/Karas_Lab/Karas_Lab_Logo_Small_White.png)
 
-[**Home**](index.html)        
- [**Contact**](Contact.html)        
- [**Lab Notebook**](Lab_Notebook.html)        
- [**Lab Members**](Lab_Members.html)        
- [**Publications**](Publications.html)        
- [**Research**](Research.html)        
+[**Home**](index.md)        
+ [**Contact**](Contact.md)        
+ [**Lab Notebook**](Lab_Notebook.md)        
+ [**Lab Members**](Lab_Members.md)        
+ [**Publications**](Publications.md)        
+ [**Research**](Research.md)        
  [**Talks**](#)")
 
 # Processing Pipeline
@@ -26,7 +26,7 @@ The steps for this can be found at [Beauchamp:BuffyElectrodeNotes](Beauchamp/Buf
 
 ## Electrode Localization in RAVE
 
-First things first: if you don't have RAVE installed, follow these steps to do so: [RAVE:Install](../RAVE/Install.html)
+First things first: if you don't have RAVE installed, follow these steps to do so: [RAVE:Install](../RAVE/Install.md)
 
 After RAVE installation and the pre-RAVE processing steps, you're ready to localize some electrodes in RAVE! You will need three things:
 

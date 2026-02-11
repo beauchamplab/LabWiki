@@ -62,8 +62,14 @@ exclude:
 
 # Plugins
 plugins:
+  - jekyll-relative-links
   - jekyll-seo-tag
   - jekyll-sitemap
+
+# Enable relative links
+relative_links:
+  enabled: true
+  collections: false
 
 # Formatting
 kramdown:

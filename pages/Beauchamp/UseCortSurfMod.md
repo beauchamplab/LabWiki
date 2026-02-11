@@ -131,7 +131,7 @@ SurfSmooth -spec {$ec}_rh.spec -surf_A rh.smoothwm.asc -met NN_geom -surf_out rh
 ```
 
 These commands take FreeSurfer .asc files as input and writes out Suma .ply files as output. For Suma to load these files correctly, the spec file must be modified to read SurfaceType = Ply. If you are curious, It is easy to make movies to show the inflation process, see
-[Beauchamp:InflationMovies](InflationMovies.html).
+[Beauchamp:InflationMovies](InflationMovies.md).
 
 If new surfaces are created, they must be added to the .spec files so that they are loaded when SUMA is as
 SPEC files are text files which tells SUMA which surfaces to load. In the previous step, new surfaces were created so these must be added to the SPEC file.
@@ -212,7 +212,7 @@ To find out which number corresponds to which anatomical structure, we use the c
 ```
 
 The output of this is here
-[FreeSurferParcellation](../FreeSurferParcellation.html)
+[FreeSurferParcellation](../FreeSurferParcellation.md)
 
 There is also a spread sheet showing the numbering scheme relative to the actual ROI name.
 This can be found on /Volumes/data9/surfaces/FS\_aparc.xls

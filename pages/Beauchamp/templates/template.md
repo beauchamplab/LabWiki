@@ -1,4 +1,4 @@
-> **Navigation:** [Home](index.html) • [Publications](Publications.html) • [Resources](DataSharing.html)
+> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

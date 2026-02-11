@@ -11,11 +11,11 @@ parent: YAEL
 | [RAVE logo](../../attachments/RAVE/RAVE_Logo_new.jpg) | **Y**our **A**dvanced **E**lectrode **L**ocalizer   ***YAEL*** |
 
 - Home
-- [Install](Install.html)
-- [Update](Update.html)
-- [Launching](Launching.html)
-- [Tutorials and Help](Help.html)
-- [Community](Community.html)
+- [Install](Install.md)
+- [Update](Update.md)
+- [Launching](Launching.md)
+- [Tutorials and Help](Help.md)
+- [Community](Community.md)
 
 ### Thank you for visiting the YAEL wiki. The wiki is no longer maintained, please visit the [new website.](https://rave.wiki)
 

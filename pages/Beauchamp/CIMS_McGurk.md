@@ -10,7 +10,7 @@ parent: Beauchamp
 
 ### View the stimuli
 
-1. Example stimuli can be view on the [CI Stimuli page](McGurk_CI_Stimuli_McGurk.html)
+1. Example stimuli can be view on the [CI Stimuli page](McGurk_CI_Stimuli_McGurk.md)
 
 ### System setup
 

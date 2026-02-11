@@ -76,7 +76,7 @@ If the RFs are more selective (#1 above) then we might evoke percept with a smal
     :   2. Selective stimuli are directly repeated every 8-12 images
     :   3. The stimulus preceding the repeat is always a nonselective stimulus
 
-**3) ["One-back" Repeat Adaptation](Adaptation_and_CP.html) – 10 minutes**
+**3) ["One-back" Repeat Adaptation](Adaptation_and_CP.md) – 10 minutes**
 
 :   • 20 stims from selective category, 5 stims from each nonselective category
 :   • One-back task
@@ -87,7 +87,7 @@ If the RFs are more selective (#1 above) then we might evoke percept with a smal
     :   1. Selective stimuli are directly repeated every 8-12 images
     :   2. The stimulus preceding the repeat is always a nonselective stimulus
 
-**4) ["One-back" Cross Adaptation](Adaptation_and_CP.html) – 10 minutes**
+**4) ["One-back" Cross Adaptation](Adaptation_and_CP.md) – 10 minutes**
 
 :   • 20 stims from selective category, 5 stims from each nonselective category
 :   • Altered one-back task - subject is told to respond to two selective-category stimuli in a row
@@ -173,7 +173,7 @@ If the RFs are more selective (#1 above) then we might evoke percept with a smal
 :   • **0.8 Hz** presentation time to ensure that LFP has returned to baseline before the repeat appears
 :   • 20 blocks -> 20 direct repeats
 
-**2)  [Choice Probability](Choice_Probability.html) - 15 minutes**
+**2)  [Choice Probability](Choice_Probability.md) - 15 minutes**
 
 :   • Take two stimuli which elicit responses from two different electrodes. Overlay them in a series of images, with varied contrasts of each image. Use these images in the selectivity task.
 

@@ -14,7 +14,7 @@ parent: Beauchamp
 - [Publications](Publications.md "Beauchamp:Publications")
 - [Resources](DataSharing.md "Beauchamp:DataSharing")
 
-[Archive of Previous Teaching Page](TeachingOld.html)
+[Archive of Previous Teaching Page](TeachingOld.md)
 
 ## Learning more about Neuroimaging
 

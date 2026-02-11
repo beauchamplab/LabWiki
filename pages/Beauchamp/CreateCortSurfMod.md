@@ -16,7 +16,7 @@ Here are the steps:
 
 Most of the steps below are contained in the scripts file; information about them is included here for educational purposes.
 For the old web page describing an earlier incarnation of @recon, please see
-[OLD version of Creating Cortical Surface Models](CreateCortSurfModOLD.html)
+[OLD version of Creating Cortical Surface Models](CreateCortSurfModOLD.md)
 
 ## Running FreeSurfer
 

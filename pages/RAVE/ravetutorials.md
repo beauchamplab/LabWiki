@@ -30,15 +30,15 @@ The first step in using RAVE for your own data (instead of the included sample d
 
 [Click here for the tutorial on importing data.](Tutorial_Importing.md "RAVE:Tutorial Importing")
 
-[Click here for tutorial on preprocessing data.](Tutorial_Preprocessing.html)
+[Click here for tutorial on preprocessing data.](Tutorial_Preprocessing.md)
 
 [Click here for the tutorial on importing FreeSurfer data.](Tutorial_ImportFS.md "RAVE:Tutorial ImportFS")
 
 [Click here for the tutorial on referencing signals.](Tutorial_Referencing.md "RAVE:Tutorial Referencing")
 
-[Click here for the tutorial on analyzing subjects's data in the Power Explorer.](Tutorial_PowerExplorer.html)
+[Click here for the tutorial on analyzing subjects's data in the Power Explorer.](Tutorial_PowerExplorer.md)
 
-[Click here for the tutorial on RAVE Clusters.](Tutorial_Clusters.html)
+[Click here for the tutorial on RAVE Clusters.](Tutorial_Clusters.md)
 
 ## Video Tutorials
 

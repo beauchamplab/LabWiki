@@ -12,6 +12,7 @@ gem "jekyll", "~> 4.3"
 gem "just-the-docs", "0.12.0"
 
 # Plugins
+gem "jekyll-relative-links"
 gem "jekyll-seo-tag"
 gem "jekyll-sitemap"
 
