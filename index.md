@@ -6,14 +6,12 @@ nav_order: 0
 
 # Beauchamp Lab Wiki
 
-Welcome to the Beauchamp Lab wiki, migrated from OpenWetWare.
+Welcome to the Beauchamp Lab wiki.
 
 ## Quick Links
 
 - [Beauchamp Lab](pages/Beauchamp/) - Main lab wiki
 - [Publications](pages/Beauchamp/Publications.md) - Lab publications and data
-- [RAVE](pages/RAVE/) - Reproducible Analysis and Visualization of iEEG
-- [CAMRI](pages/CAMRI/) - Core for Advanced MRI
-- [YAEL](pages/YAEL/) - Yet Another ECoG Library
+- [Resources](pages/Beauchamp/DataSharing.md) - Lab Resources (Data Sharing)
 
-Use the navigation sidebar to browse all wiki sections.
+Use the navigation sidebar to browse all wiki sections, or search functions to find information!

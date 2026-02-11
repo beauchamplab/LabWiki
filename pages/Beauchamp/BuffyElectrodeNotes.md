@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "iELVIS"
+title: "iELVIS (Buffy Electrode Notes)"
 parent: Beauchamp
 ---
-# iELVIS
+# Buffy Electrode Notes (iELVIS)
 
 
 |  |  |
