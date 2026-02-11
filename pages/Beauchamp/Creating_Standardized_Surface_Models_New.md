@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Creating Standardized Surface Models New"
+parent: Beauchamp
 ---
 # Creating Standardized Surface Models New
 

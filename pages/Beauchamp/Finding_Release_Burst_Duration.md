@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Finding Release Burst Duration"
+parent: Beauchamp
 ---
 # Finding Release Burst Duration
 

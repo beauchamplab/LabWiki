@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "VibrationMatlabCode"
-parent: BeauchampLab
+parent: Beauchamp
 ---
 # VibrationMatlabCode
 

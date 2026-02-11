@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Some initial pCASL processing notes using BASIL"
+parent: Beauchamp
 ---
 # Some initial pCASL processing notes using BASIL
 

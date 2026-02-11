@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Screencasts of Repeating McGurk Experiments"
+parent: Beauchamp
 ---
 # Screencasts of Repeating McGurk Experiments
 

@@ -49,7 +49,9 @@ include:
 exclude:
   - .venv
   - .obsidian
+  - scripts/
   - migrate.py
+  - reorganize_pages.py
   - obsidian.command
   - README.md
   - Navigation.md
@@ -58,6 +60,8 @@ exclude:
   - Gemfile.lock
   - "*.command"
   - vendor/
+  - pages/TODO.md
+  - pages/BROKEN_LINKS.md
 
 # Plugins
 plugins:

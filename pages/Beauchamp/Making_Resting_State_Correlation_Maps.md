@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Making Resting State Correlation Maps"
+parent: Beauchamp
 ---
 # Making Resting State Correlation Maps
 
