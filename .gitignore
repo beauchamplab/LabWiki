@@ -1,4 +1,8 @@
 .DS_Store
 .obsidian/workspace *.json
-Gemfile
 Gemfile.lock
+vendor/
+.bundle/
+.jekyll-cache/
+_site/
+add_frontmatter.py
