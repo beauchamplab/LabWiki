@@ -20,11 +20,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          lfs: true
-      
       - name: Get week number for cache
         id: get-week
         run: echo "week=$(date -u +%Y-W%U)" >> $GITHUB_OUTPUT
@@ -36,6 +31,11 @@ jobs:
           key: ${{ runner.os }}-lfs-${{ steps.get-week.outputs.week }}
           restore-keys: |
             ${{ runner.os }}-lfs-
+
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          lfs: true
         
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
