@@ -20,7 +20,7 @@ Now to look at the pictures...
 
 ## Inflated Surface
 
-[![](../../attachments/RetinotopicMapping/BR_inflat(786).jpg)](#).jpg)
+![](../../attachments/RetinotopicMapping/BR_inflat(786).jpg)
 
 ## FreeSurfer Surfaces
 

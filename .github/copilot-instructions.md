@@ -78,6 +78,16 @@ OpenWetWare uses `Namespace:PageName` URL patterns:
 - Verify downloads: check for empty files and report counts/sizes.
 - Track progress with print statements showing file counts and outcomes.
 
+### Link Maintenance
+- **Use `scripts/check_links.py`** to detect broken links across all pages.
+- **Fix links manually with AI assistance** rather than automated scripts — links require namespace-aware context that regex cannot handle.
+- **Common link issues:**
+  - Cross-namespace references: `../RAVE/Page.md` vs `Page.md` (same folder)
+  - Files with parentheses in names: `File_(Note).md` confuses simple regex
+  - RAVE namespace uses colon in filenames: `RAVE:Module_Builder.md`
+  - Template files need different relative paths depending on location
+- **Verification workflow:** Run `check_links.py` → ask AI to fix → run checker again to verify
+
 ### TODO.md Maintenance
 - Track all pages with `- [x]` checkboxes.
 - Maintain summary table at the bottom.

@@ -72,7 +72,7 @@ AirPrint protocol (default) is fine.
 12. [Electrode Localization using steps from the img_pipe package](img_pipe.md)
 13. [Analyzing ECoG data (by Muge Ozker Sertel)](ECogAnalysisV2.md)
 14. [Making Activity Maps](ActivityMaps.md)
-15. [Making Resting State Correlation Maps](../Making_Resting_State_Correlation_Maps.md)
+15. [Making Resting State Correlation Maps](Making_Resting_State_Correlation_Maps.md)
 16. [Using Tobii Eye Tracking Glasses](Tobii.md)
 
 ---
@@ -135,7 +135,7 @@ G Power 3 is a useful program for power analysis: <http://www.psycho.uni-duessel
 17. [ROI Analysis](ROIanalysis.md)
 18. [Drawing ROIs on the cortical surface with SUMA](DrawingROIs.md)
 19. [Automating AFNI and SUMA](AutomatingAFNI.md)
-20. [Finding Release Burst Duration](../Finding_Release_Burst_Duration.md)
+20. [Finding Release Burst Duration](Finding_Release_Burst_Duration.md)
 21. [Unwarping EPI data](Unwarping.md)
 
 ---
@@ -191,8 +191,8 @@ G Power 3 is a useful program for power analysis: <http://www.psycho.uni-duessel
 15. [How to 3D Print Brains](PrintingBrains.md)
 16. [RHOPLS for ECoG Data](TensorECOG.md)
 17. [How to make pretty images for participants](BrainPix.md)
-18. [Screencasts of Repeating McGurk Experiments](../Screencasts_of_Repeating_McGurk_Experiments.md)
-19. [Some initial pCASL processing notes using BASIL](../Some_initial_pCASL_processing_notes_using_BASIL.md)
+18. [Screencasts of Repeating McGurk Experiments](Screencasts_of_Repeating_McGurk_Experiments.md)
+19. [Some initial pCASL processing notes using BASIL](Some_initial_pCASL_processing_notes_using_BASIL.md)
 
 ---
 

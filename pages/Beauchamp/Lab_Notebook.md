@@ -60,7 +60,7 @@ When you create your LabArchives account, make sure to use your PennKey@upenn.ed
 12. [Electrode Localization using steps from the img\_pipe package](img_pipe.md "Beauchamp:img pipe")
 13. [Analyzing ECoG data (by Muge Ozker Sertel)](ECogAnalysisV2.md "Beauchamp: ECogAnalysisV2")
 14. [Making Activity Maps](ActivityMaps.md "Beauchamp:ActivityMaps")
-15. [Making Resting State Correlation Maps](../Making_Resting_State_Correlation_Maps.md "Making Resting State Correlation Maps")
+15. [Making Resting State Correlation Maps](Making_Resting_State_Correlation_Maps.md "Making Resting State Correlation Maps")
 16. [Using Tobii Eye Tracking Glasses](Tobii.md "Beauchamp:Tobii")
 
 ## RAVE Notes
@@ -112,7 +112,7 @@ G Power 3 is a useful program for power analysis
 16. [ROI Analysis](ROIanalysis.md "Beauchamp:ROIanalysis")
 17. [Drawing ROIs on the cortical surface with SUMA](DrawingROIs.md "Beauchamp:DrawingROIs")
 18. [Automating AFNI and SUMA](AutomatingAFNI.md "Beauchamp:AutomatingAFNI")
-19. [Finding Release Burst Duration](../Finding_Release_Burst_Duration.md "Finding Release Burst Duration")
+19. [Finding Release Burst Duration](Finding_Release_Burst_Duration.md "Finding Release Burst Duration")
 20. [Unwarping EPI data](Unwarping.md "Beauchamp:Unwarping")
 
 ## MRI: DTI Analysis
@@ -158,5 +158,5 @@ G Power 3 is a useful program for power analysis
 15. [How to 3D Print Brains](PrintingBrains.md "Beauchamp:PrintingBrains")
 16. [RHOPLS for ECoG Data](TensorECOG.md "Beauchamp:TensorECOG")
 17. [How to make pretty images for participants](BrainPix.md "Beauchamp:BrainPix")
-18. [Screencasts of Repeating McGurk Experiments](../Screencasts_of_Repeating_McGurk_Experiments.md "Screencasts of Repeating McGurk Experiments")
-19. [Some initial pCASL processing notes using BASIL](../Some_initial_pCASL_processing_notes_using_BASIL.md "Some initial pCASL processing notes using BASIL")
+18. [Screencasts of Repeating McGurk Experiments](Screencasts_of_Repeating_McGurk_Experiments.md "Screencasts of Repeating McGurk Experiments")
+19. [Some initial pCASL processing notes using BASIL](Some_initial_pCASL_processing_notes_using_BASIL.md "Some initial pCASL processing notes using BASIL")

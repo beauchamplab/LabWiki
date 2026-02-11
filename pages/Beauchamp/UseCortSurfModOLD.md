@@ -203,7 +203,7 @@ To find out which number corresponds to which anatomical structure, we use the c
 ```
 
 The output of this is here
-[FreeSurferParcellation](../FreeSurferParcellation.md "FreeSurferParcellation")
+[FreeSurferParcellation](FreeSurferParcellation.md)
 
 There is also a spread sheet showing the numbering scheme relative to the actual ROI name.
 This can be found on /Volumes/data9/surfaces/FS\_aparc.xls

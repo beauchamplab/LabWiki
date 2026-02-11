@@ -7,7 +7,7 @@ parent: Beauchamp
 
 
 N.B. See also a newer version at
-[Creating Standardized Surface Models New](../Creating_Standardized_Surface_Models_New.md)
+[Creating Standardized Surface Models New](Creating_Standardized_Surface_Models_New.md)
 
 The first few steps in creating a standardized surface are accomplished by running @GroupAnalysis. The main steps follow:
 
