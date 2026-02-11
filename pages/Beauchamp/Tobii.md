@@ -1,6 +1,8 @@
+---
+title: Tobii
+parent: Beauchamp
+---
 # Tobii
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 Notes by Santiago on using the Tobii Glasses
 

@@ -1,6 +1,7 @@
+---
+title: Some initial pCASL processing notes using BASIL
+---
 # Some initial pCASL processing notes using BASIL
-
-> **Navigation:** [Home](Beauchamp/index.md) • [Publications](Beauchamp/Publications.md) • [Resources](Beauchamp/DataSharing.md)
 
 |  |  |
 | --- | --- |

@@ -1,6 +1,8 @@
+---
+title: AutomatingAFNI
+parent: Beauchamp
+---
 # AutomatingAFNI
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 Many times it is useful to automate AFNI and SUMA. For instance, if you have scanned 20 subjects and would like to print out the results of your analysis for each one without having to manually set the viewer settings for each subjects.
 For AFNI, the program to use is plugout\_drive. Here are some sample commands to load AFNI and set the viewer settings. It is good to wait for AFNI to load before sending commands, hence the "sleep" command.

@@ -1,6 +1,8 @@
+---
+title: img pipe
+parent: Beauchamp
+---
 # img pipe
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

@@ -1,6 +1,8 @@
+---
+title: ECogAnalysisV2
+parent: Beauchamp
+---
 # ECogAnalysisV2
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

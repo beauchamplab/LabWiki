@@ -1,5 +1,7 @@
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
-
+---
+title: Template
+parent: Beauchamp
+---
 |  |  |
 | --- | --- |
 |  | Beauchamp Lab wiki |

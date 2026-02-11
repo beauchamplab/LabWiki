@@ -1,6 +1,8 @@
+---
+title: NIRS
+parent: Beauchamp
+---
 # NIRS
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

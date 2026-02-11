@@ -1,6 +1,8 @@
+---
+title: RAVE
+parent: Beauchamp
+---
 # RAVE
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

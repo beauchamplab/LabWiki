@@ -1,6 +1,8 @@
+---
+title: Playback Rate
+parent: Beauchamp
+---
 # Playback Rate
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 # Effect of Video Playback Rate on McGurk Perception
 

@@ -1,6 +1,8 @@
+---
+title: DownloadDataPenn
+parent: Beauchamp
+---
 # DownloadDataPenn
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

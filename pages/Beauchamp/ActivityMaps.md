@@ -1,6 +1,8 @@
+---
+title: ActivityMaps
+parent: Beauchamp
+---
 # ActivityMaps
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 Make an activity map to show the percent gamma change on the brain surface:
 

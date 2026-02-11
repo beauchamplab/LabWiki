@@ -1,6 +1,8 @@
+---
+title: Receptive Field Mapping
+parent: Beauchamp
+---
 # Receptive Field Mapping
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

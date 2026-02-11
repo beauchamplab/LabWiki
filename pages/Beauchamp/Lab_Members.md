@@ -1,6 +1,8 @@
+---
+title: Lab Members
+parent: Beauchamp
+---
 # Lab Members
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

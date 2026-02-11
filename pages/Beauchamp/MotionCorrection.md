@@ -1,6 +1,8 @@
+---
+title: MotionCorrection
+parent: Beauchamp
+---
 # MotionCorrection
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

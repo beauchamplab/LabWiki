@@ -1,6 +1,8 @@
+---
+title: Eye Tracker
+parent: Beauchamp
+---
 # Eye Tracker
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

@@ -1,6 +1,8 @@
+---
+title: AvailableDates20142015
+parent: Beauchamp
+---
 # AvailableDates20142015
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

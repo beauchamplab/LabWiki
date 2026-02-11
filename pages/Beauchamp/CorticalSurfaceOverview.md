@@ -1,6 +1,8 @@
+---
+title: CorticalSurfaceOverview
+parent: Beauchamp
+---
 # CorticalSurfaceOverview
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

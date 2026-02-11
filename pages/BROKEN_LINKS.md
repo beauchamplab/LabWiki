@@ -1,3 +1,6 @@
+---
+title: Broken Links Report
+---
 # Broken Links Report
 
 Links that could not be resolved during migration.

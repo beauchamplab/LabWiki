@@ -1,6 +1,8 @@
+---
+title: Lab Alums
+parent: Beauchamp
+---
 # Lab Alums
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

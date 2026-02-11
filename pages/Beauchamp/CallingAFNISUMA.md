@@ -1,6 +1,8 @@
+---
+title: CallingAFNISUMA
+parent: Beauchamp
+---
 # CallingAFNISUMA
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

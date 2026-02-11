@@ -1,6 +1,8 @@
+---
+title: CreateCortSurfMod
+parent: Beauchamp
+---
 # CreateCortSurfMod
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 ## Creating the surface
 

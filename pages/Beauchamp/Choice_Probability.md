@@ -1,6 +1,8 @@
+---
+title: Choice Probability
+parent: Beauchamp
+---
 # Choice Probability
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 ## Stimulus-Overlay Choice Probability
 

@@ -1,6 +1,8 @@
+---
+title: PennMcGurkBattery
+parent: Beauchamp
+---
 # PennMcGurkBattery
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

@@ -1,6 +1,8 @@
+---
+title: CorticalSurfaceHCP
+parent: Beauchamp
+---
 # CorticalSurfaceHCP
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

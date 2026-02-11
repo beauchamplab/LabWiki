@@ -1,6 +1,8 @@
+---
+title: MedNSLab
+parent: Beauchamp
+---
 # MedNSLab
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

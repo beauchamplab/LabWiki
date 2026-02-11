@@ -1,6 +1,8 @@
+---
+title: Setup Apparatus
+parent: Beauchamp
+---
 # Setup Apparatus
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

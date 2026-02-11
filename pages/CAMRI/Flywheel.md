@@ -1,5 +1,7 @@
-> **Navigation:** [CAMRI Home](index.md)
-
+---
+title: Flywheel
+parent: CAMRI
+---
 # Flywheel
 
 |  |  |

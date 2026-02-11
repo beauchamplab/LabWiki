@@ -1,5 +1,7 @@
-> **Navigation:** [RAVE Home](index.md)
-
+---
+title: ravetutorials
+parent: RAVE
+---
 # ravetutorials
 
 |  |  |

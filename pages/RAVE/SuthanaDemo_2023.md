@@ -1,5 +1,7 @@
-> **Navigation:** [Home](index.md) • [Install](Install.md) • [Help](Help.md)
-
+---
+title: SuthanaDemo 2023
+parent: RAVE
+---
 # SuthanaDemo 2023
 
 |  |  |

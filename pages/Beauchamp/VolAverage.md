@@ -1,6 +1,8 @@
+---
+title: VolAverage
+parent: Beauchamp
+---
 # VolAverage
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

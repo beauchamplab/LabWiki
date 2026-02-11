@@ -1,6 +1,8 @@
+---
+title: Orientation
+parent: Beauchamp
+---
 # Orientation
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

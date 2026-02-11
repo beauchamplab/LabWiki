@@ -1,6 +1,8 @@
+---
+title: UsingTORTOISE
+parent: Beauchamp
+---
 # UsingTORTOISE
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

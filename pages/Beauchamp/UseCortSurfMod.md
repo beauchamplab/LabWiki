@@ -1,6 +1,8 @@
+---
+title: UseCortSurfMod
+parent: Beauchamp
+---
 # UseCortSurfMod
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 ## Finishing the Surface Model
 

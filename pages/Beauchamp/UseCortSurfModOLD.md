@@ -1,6 +1,8 @@
+---
+title: UseCortSurfModOLD
+parent: Beauchamp
+---
 # UseCortSurfModOLD
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 ## Automation
 

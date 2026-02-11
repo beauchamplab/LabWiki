@@ -1,6 +1,8 @@
+---
+title: Ordering
+parent: Beauchamp
+---
 # Ordering
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

@@ -1,5 +1,7 @@
-> **Navigation:** [Home](index.md) • [Install](Install.md) • [Help](Help.md)
-
+---
+title: Help
+parent: RAVE
+---
 # Help
 
 |  |  |

@@ -1,6 +1,8 @@
+---
+title: CreateStndSurfModNew
+parent: Beauchamp
+---
 # CreateStndSurfModNew
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

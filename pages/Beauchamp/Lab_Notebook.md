@@ -1,6 +1,8 @@
+---
+title: Lab Notebook
+parent: Beauchamp
+---
 # Lab Notebook
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

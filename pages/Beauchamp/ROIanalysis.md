@@ -1,6 +1,8 @@
+---
+title: ROIanalysis
+parent: Beauchamp
+---
 # ROIanalysis
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 If you would like to compare activity across subjects in threshold-defined areas, an ROI analysis may be right for you!
 

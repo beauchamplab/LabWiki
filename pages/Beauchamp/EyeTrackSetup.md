@@ -1,6 +1,8 @@
+---
+title: EyeTrackSetup
+parent: Beauchamp
+---
 # EyeTrackSetup
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 The IFIS system has an external DVI connector. However, this is only compatible with true digital DVI output (as available on a Mac laptop) not with analog DVI output (as available from a VGA connector via a VGA-to-DVI adapter).
 

@@ -1,6 +1,8 @@
+---
+title: Autism
+parent: Beauchamp
+---
 # Autism
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

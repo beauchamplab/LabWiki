@@ -1,3 +1,7 @@
+---
+title: RAVE
+parent: RAVE
+---
 # RAVE
 
 |  |  |

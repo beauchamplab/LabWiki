@@ -1,6 +1,8 @@
+---
+title: RealTimefMRI
+parent: Beauchamp
+---
 # RealTimefMRI
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 Real Time Notes
 

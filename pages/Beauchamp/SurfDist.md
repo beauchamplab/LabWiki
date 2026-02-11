@@ -1,6 +1,8 @@
+---
+title: SurfDist
+parent: Beauchamp
+---
 # SurfDist
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

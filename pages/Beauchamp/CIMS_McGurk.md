@@ -1,6 +1,8 @@
+---
+title: CIMS McGurk
+parent: Beauchamp
+---
 # CIMS McGurk
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 ## A Causal Inference Model for the McGurk Effect
 

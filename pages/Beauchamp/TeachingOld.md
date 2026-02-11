@@ -1,6 +1,8 @@
+---
+title: TeachingOld
+parent: Beauchamp
+---
 # TeachingOld
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

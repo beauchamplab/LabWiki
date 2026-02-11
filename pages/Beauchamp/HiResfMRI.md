@@ -1,6 +1,8 @@
+---
+title: HiResfMRI
+parent: Beauchamp
+---
 # HiResfMRI
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 Spring 2011 with David Ress
 

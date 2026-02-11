@@ -1,5 +1,7 @@
-> **Navigation:** [Home](index.md) • [Install](Install.md) • [Help](Help.md)
-
+---
+title: CML Workshop 2021
+parent: RAVE
+---
 # CML Workshop 2021
 
 |  |  |

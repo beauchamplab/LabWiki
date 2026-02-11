@@ -1,6 +1,8 @@
+---
+title: FSAverageReadme
+parent: Beauchamp
+---
 # FSAverageReadme
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 This is the FreeSurfer group average subject.
 

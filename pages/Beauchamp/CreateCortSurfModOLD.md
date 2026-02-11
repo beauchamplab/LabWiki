@@ -1,6 +1,8 @@
+---
+title: CreateCortSurfModOLD
+parent: Beauchamp
+---
 # CreateCortSurfModOLD
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 ## Automation
 

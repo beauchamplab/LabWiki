@@ -1,6 +1,8 @@
+---
+title: Retinotopy
+parent: Beauchamp
+---
 # Retinotopy
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

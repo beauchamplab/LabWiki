@@ -1,6 +1,8 @@
+---
+title: ChangeLog
+parent: CAMRI
+---
 # ChangeLog
-
-> **Navigation:** [Home](../Beauchamp/index.md) • [Publications](../Beauchamp/Publications.md) • [Resources](../Beauchamp/DataSharing.md)
 
 |  |  |
 | --- | --- |

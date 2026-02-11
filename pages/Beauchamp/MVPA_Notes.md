@@ -1,6 +1,8 @@
+---
+title: MVPA Notes
+parent: Beauchamp
+---
 # MVPA Notes
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

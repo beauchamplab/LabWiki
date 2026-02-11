@@ -1,6 +1,8 @@
+---
+title: WUES
+parent: Beauchamp
+---
 # WUES
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

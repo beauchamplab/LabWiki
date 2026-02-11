@@ -1,6 +1,8 @@
+---
+title: Adaptation and CP
+parent: Beauchamp
+---
 # Adaptation and CP
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 ## Adaptation and Choice Probability
 

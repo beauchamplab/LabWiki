@@ -1,6 +1,8 @@
+---
+title: iEEGWorkflow
+parent: Beauchamp
+---
 # iEEGWorkflow
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

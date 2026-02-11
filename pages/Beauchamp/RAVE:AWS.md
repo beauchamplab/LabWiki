@@ -1,5 +1,7 @@
-> **Navigation:** [Beauchamp Home](index.md)
-
+---
+title: AWS
+parent: Beauchamp
+---
 # AWS
 
 |  |  |

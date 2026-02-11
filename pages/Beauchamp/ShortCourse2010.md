@@ -1,6 +1,8 @@
+---
+title: ShortCourse2010
+parent: Beauchamp
+---
 # ShortCourse2010
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

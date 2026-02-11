@@ -1,6 +1,8 @@
+---
+title: RetinotopicMapping
+parent: Beauchamp
+---
 # RetinotopicMapping
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 **This is just a convenient place to put pictures**
 

@@ -1,5 +1,7 @@
-> **Navigation:** [Beauchamp Home](index.md)
-
+---
+title: Module Builder
+parent: Beauchamp
+---
 # Module Builder
 
 |  |  |

@@ -1,6 +1,8 @@
+---
+title: AuditoryTactile
+parent: Beauchamp
+---
 # AuditoryTactile
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

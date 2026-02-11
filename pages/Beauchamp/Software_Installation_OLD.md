@@ -1,6 +1,8 @@
+---
+title: Software Installation OLD
+parent: Beauchamp
+---
 # Software Installation OLD
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

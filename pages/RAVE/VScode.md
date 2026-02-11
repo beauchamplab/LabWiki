@@ -1,5 +1,7 @@
-> **Navigation:** [Home](index.md) • [Install](Install.md) • [Help](Help.md)
-
+---
+title: VScode
+parent: RAVE
+---
 # VScode
 
 |  |  |

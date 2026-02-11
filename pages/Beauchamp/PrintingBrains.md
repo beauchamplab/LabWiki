@@ -1,6 +1,8 @@
+---
+title: PrintingBrains
+parent: Beauchamp
+---
 # PrintingBrains
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

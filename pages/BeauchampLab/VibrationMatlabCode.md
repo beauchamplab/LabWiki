@@ -1,6 +1,8 @@
+---
+title: VibrationMatlabCode
+parent: BeauchampLab
+---
 # VibrationMatlabCode
-
-> **Navigation:** [Home](../Beauchamp/index.md) • [Publications](../Beauchamp/Publications.md) • [Resources](../Beauchamp/DataSharing.md)
 
 ```
 % MATLAB code for finding best fit. As before, you could probably find a more elegant way to do this.  Or, you could copy and 

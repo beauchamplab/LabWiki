@@ -1,6 +1,8 @@
+---
+title: iEEG EMU SOP
+parent: Beauchamp
+---
 # iEEG EMU SOP
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 # Instruction SOP for EMU patients (Jan2022)
 

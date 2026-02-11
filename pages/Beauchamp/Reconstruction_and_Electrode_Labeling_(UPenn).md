@@ -1,6 +1,8 @@
+---
+title: Reconstruction and Electrode Labeling (UPenn)
+parent: Beauchamp
+---
 # Reconstruction and Electrode Labeling (UPenn)
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

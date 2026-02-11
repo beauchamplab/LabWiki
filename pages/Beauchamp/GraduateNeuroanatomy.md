@@ -1,6 +1,8 @@
+---
+title: GraduateNeuroanatomy
+parent: Beauchamp
+---
 # GraduateNeuroanatomy
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

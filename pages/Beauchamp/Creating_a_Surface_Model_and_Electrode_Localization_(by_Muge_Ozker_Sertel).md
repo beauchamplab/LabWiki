@@ -1,6 +1,8 @@
+---
+title: Creating a Surface Model and Electrode Localization (by Muge Ozker Sertel)
+parent: Beauchamp
+---
 # Creating a Surface Model and Electrode Localization (by Muge Ozker Sertel)
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

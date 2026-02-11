@@ -1,3 +1,6 @@
+---
+title: Wiki Migration — Complete
+---
 # Wiki Migration — Complete
 
 **219 pages** converted, **639 attachments** downloaded.

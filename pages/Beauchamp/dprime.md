@@ -1,6 +1,8 @@
+---
+title: dprime
+parent: Beauchamp
+---
 # dprime
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

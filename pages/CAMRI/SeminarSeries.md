@@ -1,6 +1,8 @@
+---
+title: SeminarSeries
+parent: CAMRI
+---
 # SeminarSeries
-
-> **Navigation:** [Home](../Beauchamp/index.md) • [Publications](../Beauchamp/Publications.md) • [Resources](../Beauchamp/DataSharing.md)
 
 |  |  |
 | --- | --- |

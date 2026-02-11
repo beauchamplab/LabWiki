@@ -1,6 +1,8 @@
+---
+title: Beauchamp Lab Wiki
+parent: Beauchamp
+---
 # Beauchamp Lab Wiki
-
-> **Navigation:** Home • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 Thank you for visiting the Beauchamp Lab wiki, for a more aesthetically appealing (and official UPenn) site, visit:
 

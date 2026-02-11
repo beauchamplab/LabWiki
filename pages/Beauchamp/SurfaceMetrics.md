@@ -1,6 +1,8 @@
+---
+title: SurfaceMetrics
+parent: Beauchamp
+---
 # SurfaceMetrics
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

@@ -1,6 +1,8 @@
+---
+title: iLab
+parent: CAMRI
+---
 # iLab
-
-> **Navigation:** [Home](../Beauchamp/index.md) • [Publications](../Beauchamp/Publications.md) • [Resources](../Beauchamp/DataSharing.md)
 
 |  |  |
 | --- | --- |

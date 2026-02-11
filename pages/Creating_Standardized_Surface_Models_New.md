@@ -1,6 +1,7 @@
+---
+title: Creating Standardized Surface Models New
+---
 # Creating Standardized Surface Models New
-
-> **Navigation:** [Home](Beauchamp/index.md) • [Publications](Beauchamp/Publications.md) • [Resources](Beauchamp/DataSharing.md)
 
 1) First, we create an AC-PC aligned version of the surface, as follows
 

@@ -1,6 +1,8 @@
+---
+title: VibrationArtifacts
+parent: Beauchamp
+---
 # VibrationArtifacts
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

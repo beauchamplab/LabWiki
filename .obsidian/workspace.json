@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Beauchamp/index.md",
+                "file": "pages/Beauchamp/Publications.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Publications"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Beauchamp Lab Wiki",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Beauchamp/index.md",
+                "file": "pages/Beauchamp/Publications.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Publications"
             }
           }
         ],
@@ -184,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -195,23 +196,29 @@
   },
   "active": "230bfc724d53dde9",
   "lastOpenFiles": [
+    "Gemfile.lock",
+    "pages/BeauchampLab.md",
+    "pages/Karas_Lab.md",
+    "pages/YAEL.md",
+    "pages/CAMRI.md",
+    "pages/RAVE.md",
+    "pages/Beauchamp.md",
+    "add_frontmatter.py",
     "fix_navigation.py",
     "_layouts/post.html",
     "_layouts/page.html",
+    "pages/Beauchamp/index.md",
+    "Navigation.md",
+    "index.md",
+    "pages/Beauchamp/_Creating_a_Surface_Model_and_Electrode_Localization_(by_Muge_Ozker_Sertel).md",
     "_layouts/default.html",
     "_layouts",
     "CNAME",
-    "Gemfile.lock",
     "Gemfile",
     "README.md",
-    "index.md",
     "_config.yml",
     "attachments/Human-orbitofrontal-neural-activity-is-linked-to-obsessive-compulsi_2026_Cell.pdf|Human-orbitofrontal-neural-activity-is-linked-to-obsessive-compulsi_2026_Cell.md",
-    "attachments/Publications/Human-orbitofrontal-neural-activity-is-linked-to-obsessive-compulsi_2026_Cell.pdf",
-    "attachments/Human-orbitofrontal-neural-activity-is-linked-to-obsessive-compulsi_2026_Cell.pdf",
     "pages/Beauchamp/Untitled.md",
-    "Navigation.md",
-    "pages/Beauchamp/index.md",
     "obsidian.md",
     "Navigation copy.md",
     "pages/Beauchamp/AvailableDates20132014.md",
@@ -224,20 +231,13 @@
     "pages/Beauchamp/AFNI_Install.md",
     "pages/Prompt.md",
     "pages/BROKEN_LINKS.md",
-    "pages/Beauchamp/Teaching.md",
     "attachments/ShortCourse2010/AFNIGroupLarge.jpg",
-    "pages/Beauchamp/ActivityMaps.md",
     "attachments/Tutorial_Preprocessing/RAVE_Logo_new.jpg",
-    "pages/RAVE/Tutorial_Preprocessing.md",
     "attachments/Tutorial_Clusters/Tutorial_example.png",
     "attachments/Tutorial_Clusters/Analysis_setting_tutorial.png",
     "attachments/Tutorial_Clusters/Condition_setting_tutorial.png",
     "attachments/Tutorial_Clusters/Load_data.png",
     "attachments/Tutorial_Clusters/RAVE_Logo_new.jpg",
-    "pages/RAVE/Tutorial_Clusters.md",
-    "pages/RAVE/vignettes_electrode-localization.md",
-    "pages/RAVE/ravebuiltins_toolbar.md",
-    "pages/RAVE/ravebuiltins_surfaceandvolumeviewer.md",
     "attachments/OldHome/RAVE_OHBM_2022_14June.jpg",
     "attachments/Tutorial_ImportFS/RAVE_Logo_new.jpg",
     "attachments/vignettes:electrode-localization/RAVE_Logo_new.jpg"

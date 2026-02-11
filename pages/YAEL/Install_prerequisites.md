@@ -1,6 +1,8 @@
+---
+title: Install prerequisites
+parent: YAEL
+---
 # Install prerequisites
-
-> **Navigation:** [Home](../Beauchamp/index.md) • [Publications](../Beauchamp/Publications.md) • [Resources](../Beauchamp/DataSharing.md)
 
 |  |  |
 | --- | --- |

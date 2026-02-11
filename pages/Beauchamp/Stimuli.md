@@ -1,6 +1,8 @@
+---
+title: Stimuli
+parent: Beauchamp
+---
 # Stimuli
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

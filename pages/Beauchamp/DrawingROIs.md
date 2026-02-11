@@ -1,6 +1,8 @@
+---
+title: DrawingROIs
+parent: Beauchamp
+---
 # DrawingROIs
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

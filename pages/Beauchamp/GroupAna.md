@@ -1,6 +1,8 @@
+---
+title: GroupAna
+parent: Beauchamp
+---
 # GroupAna
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 Using GroupAna.m to do ANOVA's with different group sizes
 <http://afni.nimh.nih.gov/sscc/gangc/Interface.html/>

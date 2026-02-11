@@ -1,5 +1,7 @@
-> **Navigation:** [Home](index.md) • [Install](Install.md) • [Help](Help.md)
-
+---
+title: raveclusters
+parent: RAVE
+---
 # raveclusters
 
 |  |  |

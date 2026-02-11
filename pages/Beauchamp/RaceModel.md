@@ -1,6 +1,8 @@
+---
+title: RaceModel
+parent: Beauchamp
+---
 # RaceModel
-
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |
