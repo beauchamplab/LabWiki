@@ -372,7 +372,7 @@ Built into iELVis is the command sub2AvgBrain (see above for details) that will 
 
 ### Projecting to Brains in RAVE
 
-[RAVE](../RAVE/index.md "Beauchamp:RAVE") (R Analysis and Visualization of Electrodes) is a statistical analysis program for electrocorticography data developed by members of the Beauchamp lab. It contains the ability to show electrodes on a patient's brain in 3D in coordination with the analysis of that electrode data, but it requires a few prerequisites to be able to do this.
+[RAVE](../RAVE/index.md "Beauchamp:RAVE") (Reproducible Analysis and Visualization of iEEG) is a statistical analysis program for electrocorticography data developed by members of the Beauchamp lab. It contains the ability to show electrodes on a patient's brain in 3D in coordination with the analysis of that electrode data, but it requires a few prerequisites to be able to do this.
 
 Currently, RAVE requires the output of @SUMA\_Make\_Spec\_FS to create 3D surface files for viewing. See above for the full command and its output.
 

@@ -8,4 +8,4 @@ permalink: /pages/RAVE
 
 # RAVE
 
-R Analysis and Visualization of iEEG - Documentation for the RAVE analysis platform.
+Reproducible Analysis and Visualization of iEEG - Documentation for the RAVE analysis platform.

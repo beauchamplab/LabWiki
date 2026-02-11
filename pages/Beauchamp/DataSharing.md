@@ -23,7 +23,7 @@ To make it easier to study the McGurk effect, the Beauchamp Lab has released the
 
 ---
 
-## R Analysis and Visualization of ECOG Data (RAVE)
+## Reproducible Analysis and Visualization of iEEG Data (RAVE)
 
 RAVE is a powerful software tool for the analysis of electrocorticography (ECOG) data. Click here to use a beta-version of RAVE on a public server with a sample dataset. More information is available at [Beauchamp:RAVE](../RAVE/index.md).
 

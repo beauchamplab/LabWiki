@@ -24,7 +24,7 @@ Our overarching hypothesis is that **phase resetting is the mechanism for fast, 
 
 ## Software Development
 
-We are conducting our research and development with the **RAVE** platform (R Analysis and Visualization of intracranial EEG), an open-source, free, NIH-supported software for consistently replicable statistical analysis and visualization of iEEG data. [**RAVE**](../RAVE/index.md) can be used through a web browser, making it accessible even to individuals with no prior programming experience.
+We are conducting our research and development with the **RAVE** platform (Reproducible Analysis and Visualization of intracranial EEG), an open-source, free, NIH-supported software for consistently replicable statistical analysis and visualization of iEEG data. [**RAVE**](../RAVE/index.md) can be used through a web browser, making it accessible even to individuals with no prior programming experience.
 
 **FREEZ Software Demo:** [**Link**](https://rave-freez.azurewebsites.net/launcher/)
 
