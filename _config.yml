@@ -57,6 +57,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - "*.command"
+  - attachments/
+  - vendor/
 
 # Plugins
 plugins:
