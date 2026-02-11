@@ -73,15 +73,15 @@ Mike and Sarah at the Great Wall during OHBM 2012.
 
 [![](../../attachments/Lab_Members/Summerlab5.jpg)](../../attachments/Lab_Members/Summerlab5.jpg)
 
-[!["Cortex Interruptus"](../../attachments/Lab_Members/MaryMikeAndSuma.jpg)]((../../attachments/Lab_Members/MaryMikeAndSuma.jpg)
+[!["Cortex Interruptus"](../../attachments/Lab_Members/MaryMikeAndSuma.jpg)](../../attachments/Lab_Members/MaryMikeAndSuma.jpg)
 
-[!["Cortex Interruptus"](../../attachments/Lab_Members/Beauchamp_12.jpg)]((../../attachments/Lab_Members/Beauchamp_12.jpg)
+[!["Cortex Interruptus"](../../attachments/Lab_Members/Beauchamp_12.jpg)](../../attachments/Lab_Members/Beauchamp_12.jpg)
 
 [![](../../attachments/Lab_Members/Group1MSB.jpg)](../../attachments/Lab_Members/Group1MSB.jpg)
 
-[!["Medical Center Aerial Shot"](../../attachments/Lab_Members/PhotoAerial.jpg)]((../../attachments/Lab_Members/PhotoAerial.jpg)
-[!["Outside Patio"](../../attachments/Lab_Members/OutsideMSB.jpg)]((../../attachments/Lab_Members/OutsideMSB.jpg)
-[!["MSB Lobby"](../../attachments/Lab_Members/Lobby1.jpg)]((../../attachments/Lab_Members/Lobby1.jpg)
+[!["Medical Center Aerial Shot"](../../attachments/Lab_Members/PhotoAerial.jpg)](../../attachments/Lab_Members/PhotoAerial.jpg)
+[!["Outside Patio"](../../attachments/Lab_Members/OutsideMSB.jpg)](../../attachments/Lab_Members/OutsideMSB.jpg)
+[!["MSB Lobby"](../../attachments/Lab_Members/Lobby1.jpg)](../../attachments/Lab_Members/Lobby1.jpg)
 [![](../../attachments/Lab_Members/TanVipTho.jpg)](../../attachments/Lab_Members/TanVipTho.jpg)
 
 ## Videos
