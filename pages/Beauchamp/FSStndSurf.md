@@ -1,6 +1,6 @@
 # FSStndSurf
 
-> **Navigation:** [Home](index.md) | [Publications](Publications.md) | [Resources](DataSharing.md)
+> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 ## These steps are no longer required and may not be useful
 

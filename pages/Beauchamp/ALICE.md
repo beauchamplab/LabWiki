@@ -1,6 +1,6 @@
 # ALICE
 
-> **Navigation:** [Home](index.md) | [Publications](Publications.md) | [Resources](DataSharing.md)
+> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 This page shows the steps used by the ALICE package to localize electrodes. These steps are called from within a Matlab GUI.
 

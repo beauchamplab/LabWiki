@@ -1,6 +1,6 @@
 # TCH
 
-> **Navigation:** [Home](index.md) | [Publications](Publications.md) | [Resources](DataSharing.md)
+> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 This is a web page containing lecture notes for the neuroimaging interest group at TCH.
 

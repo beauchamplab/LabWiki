@@ -1,6 +1,6 @@
 # SurfaceAveraging
 
-> **Navigation:** [Home](index.md) | [Publications](Publications.md) | [Resources](DataSharing.md)
+> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 Return to [Overview of Cortical Surface Models](CorticalSurfaceOverview.md "Beauchamp:CorticalSurfaceOverview")
 

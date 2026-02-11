@@ -1,6 +1,6 @@
 # DetermineTract
 
-> **Navigation:** [Home](index.md) | [Publications](Publications.md) | [Resources](DataSharing.md)
+> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 After your diffusion tensor data has been processed and whole-brain pathways have been computed, DTIQuery v1.1 allows regions to be drawn for interactive tractography.
 

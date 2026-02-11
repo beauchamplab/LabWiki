@@ -1,6 +1,6 @@
 # NewUserInfo
 
-> **Navigation:** [Home](../Beauchamp/index.md) | [Publications](../Beauchamp/Publications.md) | [Resources](../Beauchamp/DataSharing.md)
+> **Navigation:** [Home](../Beauchamp/index.md) • [Publications](../Beauchamp/Publications.md) • [Resources](../Beauchamp/DataSharing.md)
 
 |  |  |
 | --- | --- |

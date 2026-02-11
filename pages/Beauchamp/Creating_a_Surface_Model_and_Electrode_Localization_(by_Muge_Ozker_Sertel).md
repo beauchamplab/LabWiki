@@ -1,6 +1,6 @@
 # Creating a Surface Model and Electrode Localization (by Muge Ozker Sertel)
 
-> **Navigation:** [Home](index.md) | [Publications](Publications.md) | [Resources](DataSharing.md)
+> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

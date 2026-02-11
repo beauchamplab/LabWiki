@@ -1,6 +1,6 @@
 # SUMA
 
-> **Navigation:** [Home](index.md) | [Publications](Publications.md) | [Resources](DataSharing.md)
+> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 <http://afni.nimh.nih.gov/pub/dist/doc/SUMA/SUMA_doc.htm>
 

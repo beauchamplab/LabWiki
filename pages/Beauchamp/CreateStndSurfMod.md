@@ -1,6 +1,6 @@
 # CreateStndSurfMod
 
-> **Navigation:** [Home](index.md) | [Publications](Publications.md) | [Resources](DataSharing.md)
+> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 N.B. See also a newer version at
 [Creating Standardized Surface Models New](../Creating_Standardized_Surface_Models_New.md)

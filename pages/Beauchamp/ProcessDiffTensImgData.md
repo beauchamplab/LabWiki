@@ -1,6 +1,6 @@
 # ProcessDiffTensImgData
 
-> **Navigation:** [Home](index.md) | [Publications](Publications.md) | [Resources](DataSharing.md)
+> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 These steps show how to process DTI data acquired on the UT Philips 3T scanner
 

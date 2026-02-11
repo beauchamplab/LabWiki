@@ -1,6 +1,6 @@
 # CIMS
 
-> **Navigation:** [Home](index.md) | [Publications](Publications.md) | [Resources](DataSharing.md)
+> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 ## Fitting the Causal Inference of Multisensory Speech Model to Data
 

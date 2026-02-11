@@ -1,6 +1,6 @@
 #  iEEG EMU SOP
 
-> **Navigation:** [Home](index.md) | [Publications](Publications.md) | [Resources](DataSharing.md)
+> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 ## Bedside Testing Instructions\_CrossModal Task
 

@@ -1,6 +1,6 @@
 # iEEG EMU MATLAB SOP
 
-> **Navigation:** [Home](index.md) | [Publications](Publications.md) | [Resources](DataSharing.md)
+> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 # SOP for running MATLAB in EMU(Jan2022)
 

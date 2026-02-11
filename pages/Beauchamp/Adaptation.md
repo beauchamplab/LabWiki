@@ -1,6 +1,6 @@
 # Adaptation
 
-> **Navigation:** [Home](index.md) | [Publications](Publications.md) | [Resources](DataSharing.md)
+> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 The goal of these experiments is to assess the effect on the LFP response to a stimulus when that stimulus is immediately preceded by an identical or similar stimulus.
 

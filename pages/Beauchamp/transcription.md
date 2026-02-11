@@ -1,6 +1,6 @@
 # transcription
 
-> **Navigation:** [Home](index.md) | [Publications](Publications.md) | [Resources](DataSharing.md)
+> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 # How to transcribe and process the sound clips recorded at the scanner (as of Oct2020)
 

@@ -1,6 +1,6 @@
 # Making Resting State Correlation Maps
 
-> **Navigation:** [Home](Beauchamp/index.md) | [Publications](Beauchamp/Publications.md) | [Resources](Beauchamp/DataSharing.md)
+> **Navigation:** [Home](Beauchamp/index.md) • [Publications](Beauchamp/Publications.md) • [Resources](Beauchamp/DataSharing.md)
 
 In order to more easily compare fMRI and ECoG resting state data, it is helpful to make maps of the cortical surface where the electrode spheres are color coded based on their correlation to a seed electrode. All code can be found in /volumes/data2/SARAH/intraelecproject/analysismfiles/corrmaps
 

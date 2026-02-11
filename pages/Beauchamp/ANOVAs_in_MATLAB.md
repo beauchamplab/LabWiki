@@ -1,6 +1,6 @@
 # ANOVAs in MATLAB
 
-> **Navigation:** [Home](index.md) | [Publications](Publications.md) | [Resources](DataSharing.md)
+> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 While all of your data may be in Excel, unfortunately, the Excel for Mac doesn't do ANOVAs.
 

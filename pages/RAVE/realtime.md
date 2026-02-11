@@ -1,4 +1,4 @@
-> **Navigation:** [Home](index.md) | [Install](Install.md) | [Help](Help.md)
+> **Navigation:** [Home](index.md) • [Install](Install.md) • [Help](Help.md)
 
 # realtime
 

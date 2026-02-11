@@ -1,6 +1,6 @@
 # MedNSLabNotes
 
-> **Navigation:** [Home](index.md) | [Publications](Publications.md) | [Resources](DataSharing.md)
+> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 Code for AV: 2028\*
 Sample Room 241

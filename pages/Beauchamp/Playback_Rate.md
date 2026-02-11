@@ -1,6 +1,6 @@
 # Playback Rate
 
-> **Navigation:** [Home](index.md) | [Publications](Publications.md) | [Resources](DataSharing.md)
+> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 # Effect of Video Playback Rate on McGurk Perception
 
