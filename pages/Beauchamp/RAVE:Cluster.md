@@ -1,4 +1,8 @@
-> **Navigation:** [Beauchamp Home](index.md)
+---
+layout: default
+title: "Cluster"
+parent: Beauchamp
+---
 
 # Cluster
 

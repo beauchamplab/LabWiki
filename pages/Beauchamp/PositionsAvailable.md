@@ -1,6 +1,10 @@
+---
+layout: default
+title: "PositionsAvailable"
+parent: Beauchamp
+---
 # PositionsAvailable
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

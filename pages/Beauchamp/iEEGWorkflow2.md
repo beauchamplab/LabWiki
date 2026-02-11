@@ -1,6 +1,10 @@
+---
+layout: default
+title: "iEEGWorkflow2"
+parent: Beauchamp
+---
 # iEEGWorkflow2
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 # Overview
 

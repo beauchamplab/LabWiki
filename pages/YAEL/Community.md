@@ -1,6 +1,10 @@
+---
+layout: default
+title: "Community"
+parent: YAEL
+---
 # Community
 
-> **Navigation:** [Home](../Beauchamp/index.md) • [Publications](../Beauchamp/Publications.md) • [Resources](../Beauchamp/DataSharing.md)
 
 |  |  |
 | --- | --- |

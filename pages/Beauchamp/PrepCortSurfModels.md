@@ -1,6 +1,10 @@
+---
+layout: default
+title: "PrepCortSurfModels"
+parent: Beauchamp
+---
 # PrepCortSurfModels
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 ## First step: creating an Anatomical BRIK
 

@@ -1,6 +1,10 @@
+---
+layout: default
+title: "MapIco"
+parent: Beauchamp
+---
 # MapIco
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 Return to [Notes on Cortical Surface Averages](SurfaceAveraging.md "Beauchamp:SurfaceAveraging")
 

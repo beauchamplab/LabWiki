@@ -6,11 +6,39 @@ url: "https://beauchamplab.github.io"
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: just-the-docs
 
-# Minima theme settings - disable auto-generated header navigation
-header_pages: []  # Empty list = no automatic page links in header
-show_excerpts: false
+# Just-the-Docs theme settings
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+# Enable heading anchors
+heading_anchors: true
+
+# Color scheme
+color_scheme: nil
+
+# Navigation settings
+nav_sort: case_insensitive
+nav_fold: false
+
+# Footer content
+footer_content: "Copyright &copy; Beauchamp Lab. Migrated from OpenWetWare."
+
+# Enable aux links (optional - top right navigation)
+aux_links:
+  "LabWiki on GitHub":
+    - "//github.com/beauchamplab/LabWiki"
+
+# Make aux links open in new tab
+aux_links_new_tab: true
 
 # Include directories and files
 include:

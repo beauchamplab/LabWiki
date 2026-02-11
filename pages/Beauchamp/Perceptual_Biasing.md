@@ -1,6 +1,10 @@
+---
+layout: default
+title: "Perceptual Biasing"
+parent: Beauchamp
+---
 # Perceptual Biasing
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

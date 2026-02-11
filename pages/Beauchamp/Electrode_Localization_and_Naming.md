@@ -1,6 +1,10 @@
+---
+layout: default
+title: "Electrode Localization and Naming"
+parent: Beauchamp
+---
 # Electrode Localization and Naming
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 Also see:
 [Beauchamp:Electrophysiology#Processing\_Subject\_Data](Electrophysiology.md#Processing_Subject_Data "Beauchamp:Electrophysiology")

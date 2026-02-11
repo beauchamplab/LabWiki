@@ -1,6 +1,10 @@
+---
+layout: default
+title: "fMRIOverview"
+parent: Beauchamp
+---
 # fMRIOverview
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

@@ -1,6 +1,10 @@
+---
+layout: default
+title: "Research"
+parent: Karas Lab
+---
 # Research
 
-> **Navigation:** [Home](../Beauchamp/index.md) • [Publications](../Beauchamp/Publications.md) • [Resources](../Beauchamp/DataSharing.md)
 
 ## Combining Epileptogenic Zone Localization Algorithms and Machine Learning Methods to Improve Surgery Outcomes for Drug-Resistant Epilepsy
 

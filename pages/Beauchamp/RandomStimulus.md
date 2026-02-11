@@ -1,6 +1,10 @@
+---
+layout: default
+title: "RandomStimulus"
+parent: Beauchamp
+---
 # RandomStimulus
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

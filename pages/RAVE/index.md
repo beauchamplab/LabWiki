@@ -1,3 +1,8 @@
+---
+layout: default
+title: "RAVE"
+parent: RAVE
+---
 # RAVE
 
 |  |  |

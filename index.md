@@ -1,12 +1,19 @@
 ---
-layout: default
-title: Beauchamp Lab Wiki
-redirect_to: pages/Beauchamp/index.html
+layout: home
+title: Home
+nav_order: 0
 ---
 
-<meta http-equiv="refresh" content="0; url=pages/Beauchamp/">
-<script>window.location.href = 'pages/Beauchamp/';</script>
+# Beauchamp Lab Wiki
 
-# Redirecting...
+Welcome to the Beauchamp Lab wiki, migrated from OpenWetWare.
 
-If you are not redirected automatically, [click here to go to the Beauchamp Lab Wiki](pages/Beauchamp/).
+## Quick Links
+
+- [Beauchamp Lab](pages/Beauchamp/) - Main lab wiki
+- [Publications](pages/Beauchamp/Publications.md) - Lab publications and data
+- [RAVE](pages/RAVE/) - R Analysis and Visualization of iEEG
+- [CAMRI](pages/CAMRI/) - Core for Advanced MRI
+- [YAEL](pages/YAEL/) - Yet Another ECoG Library
+
+Use the navigation sidebar to browse all wiki sections.

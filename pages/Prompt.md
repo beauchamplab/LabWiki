@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Prompt: Migrate an OpenWetWare Wiki to Offline Markdown"
+---
 # Prompt: Migrate an OpenWetWare Wiki to Offline Markdown
 
 Use this prompt to instruct an AI coding assistant (e.g. GitHub Copilot, Claude) to migrate an OpenWetWare lab wiki to local Markdown files with full offline capability.

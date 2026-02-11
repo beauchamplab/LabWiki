@@ -1,6 +1,10 @@
+---
+layout: default
+title: "iEEG EMU MATLAB SOP"
+parent: Beauchamp
+---
 # iEEG EMU MATLAB SOP
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 # SOP for running MATLAB in EMU(Jan2022)
 

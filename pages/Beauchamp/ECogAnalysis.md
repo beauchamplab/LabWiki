@@ -1,6 +1,10 @@
+---
+layout: default
+title: "ECogAnalysis"
+parent: Beauchamp
+---
 # ECogAnalysis
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 ## eCog Processing Notes
 

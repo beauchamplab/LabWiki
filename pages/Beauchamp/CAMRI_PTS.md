@@ -1,6 +1,10 @@
+---
+layout: default
+title: "CAMRI PTS"
+parent: Beauchamp
+---
 # CAMRI PTS
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 To create your account, please go to <https://ictr.research.bcm.edu/App/BNC/Login.aspx> and use your full BCM email address and choose a login. The system will ask you a series of questions about yourself and your contact info. It will then send an email to me for approval. Once I approve it, it will generate a temporary password and will prompt you to change it.
 

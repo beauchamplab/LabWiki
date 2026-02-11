@@ -1,6 +1,10 @@
+---
+layout: default
+title: "HowToScan"
+parent: Beauchamp
+---
 # HowToScan
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 |  |  |
 | --- | --- |

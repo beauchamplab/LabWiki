@@ -1,6 +1,10 @@
+---
+layout: default
+title: "CIMS"
+parent: Beauchamp
+---
 # CIMS
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 ## Fitting the Causal Inference of Multisensory Speech Model to Data
 

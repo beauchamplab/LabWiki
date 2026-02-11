@@ -1,4 +1,8 @@
-> **Navigation:** [Home](index.md) • [Install](Install.md) • [Help](Help.md)
+---
+layout: default
+title: "Launching"
+parent: RAVE
+---
 
 # Launching
 

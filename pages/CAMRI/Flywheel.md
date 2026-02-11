@@ -1,4 +1,8 @@
-> **Navigation:** [CAMRI Home](index.md)
+---
+layout: default
+title: "Flywheel"
+parent: CAMRI
+---
 
 # Flywheel
 

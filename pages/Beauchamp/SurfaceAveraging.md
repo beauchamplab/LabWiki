@@ -1,6 +1,10 @@
+---
+layout: default
+title: "SurfaceAveraging"
+parent: Beauchamp
+---
 # SurfaceAveraging
 
-> **Navigation:** [Home](index.md) • [Publications](Publications.md) • [Resources](DataSharing.md)
 
 Return to [Overview of Cortical Surface Models](CorticalSurfaceOverview.md "Beauchamp:CorticalSurfaceOverview")
 
