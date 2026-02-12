@@ -20,10 +20,36 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      
+      - name: Get month for cache
+        id: get-week
+        run: |
+          if [[ "$(date -u +%Y-%m)" == "2026-02" ]]; then
+            echo "week=2026-W06" >> $GITHUB_OUTPUT
+          else
+            echo "week=$(date -u +%Y-%m)" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Cache Git LFS objects
+        id: cache
+        uses: actions/cache@v4
+        with:
+          path: .git/lfs
+          key: ${{ runner.os }}-lfs-${{ steps.get-week.outputs.week }}
+          restore-keys: |
+            ${{ runner.os }}-lfs-
+      
+      - name: Checkout (with LFS - first time)
+        if: steps.cache.outputs.cache-hit != 'true'
         uses: actions/checkout@v4
         with:
           lfs: true
+        
+      - name: Checkout (without LFS - using cache)
+        if: steps.cache.outputs.cache-hit == 'true'
+        uses: actions/checkout@v4
+        with:
+          lfs: false
         
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
