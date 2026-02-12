@@ -34,7 +34,7 @@ jobs:
         id: cache
         uses: actions/cache@v4
         with:
-          path: .git/lfs
+          path: lfs-cache
           key: ${{ runner.os }}-lfs-${{ steps.get-week.outputs.week }}
           restore-keys: |
             ${{ runner.os }}-lfs-
@@ -51,9 +51,17 @@ jobs:
         with:
           lfs: false
       
-      - name: Checkout LFS files from cache
+      - name: Restore LFS files from cache
         if: steps.cache.outputs.cache-hit == 'true'
-        run: git lfs checkout
+        run: |
+          cp -r lfs-cache/* .git/lfs/ 2>/dev/null || true
+          git lfs checkout
+      
+      - name: Save LFS objects to cache location
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: |
+          mkdir -p lfs-cache
+          cp -r .git/lfs/* lfs-cache/
         
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
