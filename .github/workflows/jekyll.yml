@@ -58,6 +58,7 @@ jobs:
       - name: Restore LFS files from cache
         if: steps.cache.outputs.cache-hit == 'true'
         run: |
+          rm -rf .git/lfs
           mv /tmp/lfs-cache .git/lfs
           git lfs checkout
         
