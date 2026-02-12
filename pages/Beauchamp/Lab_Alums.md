@@ -14,6 +14,13 @@ parent: Beauchamp
 - [Publications](Publications.md "Beauchamp:Publications")
 - [Resources](DataSharing.md "Beauchamp:DataSharing")
 
-|  |
-| --- |
-| Lab Alums  **Ashley Kingon**  **Neel Kishan**  Department of Cognitive and Neural Systems  Boston University  Email: nkishan at cns.bu.edu  Website: <http://cns.bu.edu/~nkishan> |
+## Lab Alums
+
+**Ashley Kingon**
+
+**Neel Kishan**
+
+Department of Cognitive and Neural Systems
+Boston University
+Email: nkishan at cns.bu.edu
+Website: <http://cns.bu.edu/~nkishan>

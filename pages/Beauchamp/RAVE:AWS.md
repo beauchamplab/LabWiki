@@ -13,6 +13,7 @@ parent: Beauchamp
 * [Home](index.md "Beauchamp")
 * [Publications](Publications.md "Beauchamp:Publications")
 * [Resources](DataSharing.md "Beauchamp:DataSharing")
+
 [![](../../attachments/Beauchamp_RAVE:AWS/RAVE_LogoJan2019.jpg)](../../attachments/Beauchamp_RAVE:AWS/RAVE_LogoJan2019.jpg)
 
 RAVE Logo
@@ -299,6 +300,4 @@ Go to Elastic IPs (from sidebar)
  Action > Associate address > Choose your instance ID (select i-095a9e12dc083544a) > [X] Allow Elastic IP to be reassociated if already attached
 ```
 
-|  |
-| --- |
-|  |
+
