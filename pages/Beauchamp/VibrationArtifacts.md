@@ -190,7 +190,7 @@ The simulated DWI data has one b=0 volume at the start, so get rid of that.
 3dTcat -prefix c.sim_DWI.nii sim_scale_DWI.nii'[1..$]'
 ```
 
-**SANITY CHECK— Check that this correction make sense.**  Open b1000.nii in afni, turn on a graph. Click “Opt” in the bottom right of the graph window, choose “Tran 1D” dropdown and option “Dataset #N”. Turn on “input #01”, choose dataset, and pick c.sim\_DWI.nii. Then, “Set+Keep.” If you click in an area where the artifact was, the red and black lines should look very different, if you click in an area where there wasn’t much artifact, they should look largely the same.
+**SANITY CHECK— Check that this correction make sense.**  Open b1000.nii in afni, turn on a graph. Click “Opt” in the bottom right of the graph window, choose “Tran 1D” dropdown and option “Dataset `#N`”. Turn on “input #01”, choose dataset, and pick c.sim\_DWI.nii. Then, “Set+Keep.” If you click in an area where the artifact was, the red and black lines should look very different, if you click in an area where there wasn’t much artifact, they should look largely the same.
 
 ```
 3dcalc -a c.sim_DWI.nii -b b1000.nii -c m.mean.b0.nii -expr '(b/a)*c' -prefix ratio.nii

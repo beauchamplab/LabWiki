@@ -60,7 +60,7 @@ Copy all the above raw files for all the relevant blocks that are in the project
 
 Convert eCog data from the BlackRock files (e.g., ns3, ns5) into matlab files (.mat)
 
-1) Method #1--use a fully automatic one-piece script:
+1) Method `#1--use` a fully automatic one-piece script:
 
 ```
  /Volumes/ecog/Foster_Lab/CODE/MASTER/BASICS/EMU_rawData2mat.m

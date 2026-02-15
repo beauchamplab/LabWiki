@@ -504,7 +504,7 @@ The FLIRT alignment command is not a part of the base FreeSurfer package, but ra
 
 If an error appears that the ct2mri.sh command cannot find the subject's brainmask.nii.gz, it's likely that you're trying to run the command a little too early into the recon-all process (or, if recon-all has completed, that there was an error). The command will still work as long as the T1.mgz file has been created; the ct2mri.sh command only copies the brainmask.nii.gz into the elec\_recon folder. That being said, check to see that the brainmask was, in fact, created by the recon-all step and is saved in the patient's elec\_recon folder. If not, recon-all may need to be rerun.
 
-### Image Exception #63/22
+### Image Exception  `#63/22`
 
 Generally, this means that the ct2mri.sh command can't find the T1.mgz file created by recon-all. The T1.mgz can be found in the subject's freesurfer "[subID]" folder, in the "mri" subfolder. If the file does not exist, recon-all may have encountered an error and should be run again. If you don't want to overwrite the information, enter a new name for the target folder or move/delete the folder from the original recon-all.
 If still encountering this error, take the T1.nii.gz file and copy it to the elec\_recon folder. Make sure to use the most updated form of dcm2niix to create this and be sure that the T1 is in .nii.gz format, not just .nii.

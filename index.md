@@ -10,7 +10,7 @@ Welcome to the Beauchamp Lab wiki.
 
 ## Quick Links
 
-- [Beauchamp Lab](pages/Beauchamp/) - Main lab wiki
+- [Beauchamp Lab](pages/Beauchamp/index.md) - Main lab wiki
 - [Publications](pages/Beauchamp/Publications.md) - Lab publications and data
 - [Resources](pages/Beauchamp/DataSharing.md) - Lab Resources (Data Sharing)
 

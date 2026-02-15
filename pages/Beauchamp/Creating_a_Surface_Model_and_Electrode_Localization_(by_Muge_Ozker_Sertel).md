@@ -163,7 +163,7 @@ cp {$ec}electrodetags.tag {$ec}electrodetags.1D
 SurfaceMetrics -spec /Volumes/data/UT/YAR/fs/SUMA/fs_both.spec -sv fs_SurfVol_Alnd_Exp+orig -surf_A lh.pial-outer-smoothed.gii -closest_node YARelectrodetags.1D -prefix {$ec}ClosestNodes_pialenvelope
 ```
 
-- Open YARClosestNodes\_pialenvelope.1D.dset in Excel and copy 3 columns of Xn, Yn, Zn coordinates. Paste Xn, Yn, Zn coordinates in a new Excel sheet and enter #spheres in the first cell of the document and format it as follows:
+- Open YARClosestNodes\_pialenvelope.1D.dset in Excel and copy 3 columns of Xn, Yn, Zn coordinates. Paste Xn, Yn, Zn coordinates in a new Excel sheet and enter `#spheres` in the first cell of the document and format it as follows:
 
 Xn Yn Zn 1 1 1 1 1.5 2.2
 

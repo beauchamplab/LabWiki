@@ -69,7 +69,7 @@ Installing YAEL automatically installs two popular tools for co-registering the 
 ## Support
 
 To help get you up to speed with YAEL, please contact the developers to schedule an online (Zoom) tutorial. Using your own data, we will walk you through the steps to localize electrodes.
-Personalized support is also provided via a dedicated **#support** channel in the RAVE Slack workspace *rave-brain.slack.com*. E-mail slack@rave.wiki for an invitation to the support channel.
+Personalized support is also provided via a dedicated `#support` channel in the RAVE Slack workspace *rave-brain.slack.com*. E-mail slack@rave.wiki for an invitation to the support channel.
 
 ## Troubleshooting
 
