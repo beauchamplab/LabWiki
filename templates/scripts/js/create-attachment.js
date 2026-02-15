@@ -1,7 +1,19 @@
 module.exports = async (params) => {
     const { app, quickAddApi, variables } = params;
     
-    const ATTACHMENT_FOLDER = 'attachments/shared';
+    // Let user choose attachment folder
+    const folderChoice = await quickAddApi.suggester(
+        ['Large Files', 'Small Files', 'Publications'],
+        ['attachments/Shared', 'attachments/SmallFiles', 'attachments/Publications'],
+        'Where do you want to save the files?'
+    );
+    
+    if (!folderChoice) {
+        // User cancelled
+        return;
+    }
+    
+    const ATTACHMENT_FOLDER = folderChoice;
     
     const files = await selectMultipleFiles();
     if (!files || files.length === 0) return;
@@ -79,7 +91,7 @@ module.exports = async (params) => {
     // Store as variable for template
     variables.attachments = links.join('\n');
     
-    new Notice(`Attached ${links.length} file(s)`);
+    new Notice(`Attached ${links.length} file(s) to ${ATTACHMENT_FOLDER}`);
 };
 
 function formatDate(date) {

@@ -4,7 +4,7 @@
       "id": "bdbcb508-2d03-4a8a-bdd8-686798619a61",
       "name": "New BeachampLab Wiki - File Name",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "templates/template.md",
       "fileNameFormat": {
         "enabled": false,
@@ -34,7 +34,7 @@
       "id": "0ce816b0-0a10-42bc-87e7-5f0432b517ef",
       "name": "Upload Attachments + Generate Links",
       "type": "Macro",
-      "command": false,
+      "command": true,
       "runOnStartup": false,
       "macro": {
         "name": "Upload Attachments + Generate Links",
@@ -105,7 +105,7 @@
       "id": "8d86df27-a48e-4ab2-b20d-78a9520c11d0",
       "name": "Link To An Existing File",
       "type": "Macro",
-      "command": false,
+      "command": true,
       "runOnStartup": false,
       "macro": {
         "name": "Link To An Existing File",
