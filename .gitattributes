@@ -3,4 +3,5 @@ attachments/** filter=lfs diff=lfs merge=lfs -text
 
 # Except for Publications folder - keep as regular Git objects
 attachments/Publications/** -filter -diff -merge -text
+attachments/SmallFiles/** -filter -diff -merge -text
 
