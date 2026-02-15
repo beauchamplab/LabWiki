@@ -6,12 +6,14 @@ date_created: "{{DATE:YYYY-MM-DD}}"
 ---
 # {{VALUE:topic}}
 
-> [!TIP] Quick Access
+_Date created: {{DATE:YYYY-MM-DD}}_
+
+> Quick Access
 > - [Home](index.md "Beauchamp")
 > - [Publications](Publications.md "Beauchamp:Publications")
 > - [Resources](DataSharing.md "Beauchamp:DataSharing")
 
-_Date created: {{DATE:YYYY-MM-DD}}_
+
 
 
 
