@@ -142,8 +142,16 @@ async function selectMultipleFiles() {
 }
 
 async function ensureFolder(app, path) {
-    const folder = app.vault.getAbstractFileByPath(path);
-    if (!folder) {
-        await app.vault.createFolder(path);
+    const parts = path.split('/').filter(p => p);
+    let current = '';
+    for (const part of parts) {
+        current = current ? `${current}/${part}` : part;
+        if (!app.vault.getAbstractFileByPath(current)) {
+            try {
+                await app.vault.createFolder(current);
+            } catch (e) {
+                // Folder already exists or was created concurrently — safe to ignore
+            }
+        }
     }
 }

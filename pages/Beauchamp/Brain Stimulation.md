@@ -1,25 +1,21 @@
 ---
 layout: default
-title: Cold Office
+title: "Brain Stimulation"
 parent: Beauchamp
-date_created: 2026-02-16
+date_created: "2026-03-06"
 ---
-# Cold Office
+# Brain Stimulation
 
-_Date created: 2026-02-16_
+_Date created: 2026-03-06_
 
 > Quick Access
 > - [Home](index.md "Beauchamp")
 > - [Publications](Publications.md "Beauchamp:Publications")
 > - [Resources](DataSharing.md "Beauchamp:DataSharing")
 
-**Bold** _italic_
 
 
 
-
-This page explains why the office is so cold and how to fix it
-press the up button on the thermostat
 
 
 

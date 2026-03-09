@@ -3,6 +3,7 @@ source "https://rubygems.org"
 gem "bigdecimal"
 gem "csv"
 gem "base64"
+gem "cgi"
 gem "logger"
 
 # Jekyll
