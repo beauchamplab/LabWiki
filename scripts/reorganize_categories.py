@@ -62,7 +62,7 @@ CATEGORIES = {
             "AvailableDates.md",
             "WUES.md",
             "CAMRI_PTS.md",
-            "Manage this Wiki.md",
+            "Manage_this_Wiki.md",
         ],
     },
     "Data_Processing": {

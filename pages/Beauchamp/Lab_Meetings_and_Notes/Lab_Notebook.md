@@ -43,7 +43,7 @@ When you create your LabArchives account, make sure to use your PennKey@upenn.ed
 2. [How To Install Software and set up new computers](../Data_Processing/Software_Installation.md)
 3. [How To Install AFNI](../Data_Processing/AFNI_Install.md "Beauchamp:AFNI Install")
 4. [How To order things for the lab](../Lab_Meetings_and_Notes/Ordering.md)
-5. [Sign-up for CAMRI Project Tracking System](../Lab_Meetings_and_Notes/CAMRI_PTS.md)
+5. [Sign-up for CAMRI Project Tracking System](../Obsolete/CAMRI_PTS.md)
 
 ## iEEG/ECoG and Related Notes
 

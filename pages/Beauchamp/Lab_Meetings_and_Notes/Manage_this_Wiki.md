@@ -101,7 +101,48 @@ Open Obsidian, use `⌘,`  shortcut, or click from system tray: `Obsidian -> Set
 
 Then click on the `Reload` button below.
 
-## 3. Create a new wiki page
+## 3. Launch the website locally
+
+You can preview the wiki website on your own machine before pushing changes to Github. This requires Ruby and Jekyll.
+
+### Step 3.1: Install Ruby and Jekyll (one time)
+
+Open `Terminal.app` and run:
+
+```bash
+brew install ruby
+export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
+gem install bundler
+```
+
+Then `cd` to the `LabWiki` folder and install the dependencies:
+
+```bash
+# cd /path/to/LabWiki
+bundle install
+```
+
+### Step 3.2: Start the local server
+
+The easiest way is to double-click the `build.command` file in Finder. It will open a Terminal window and start the Jekyll server automatically.
+
+Alternatively, from the terminal:
+
+```bash
+cd /path/to/LabWiki
+export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
+bundle exec jekyll serve
+```
+
+Once the server is running, open a browser and visit:
+
+```
+http://127.0.0.1:4000
+```
+
+Press `Ctrl+C` in the terminal to stop the server.
+
+## 4. Create a new wiki page
 
 Open Obsidian, use shortcut `⌘P` (command+P), or click on command-line icon on the left-side of the ribbon, this will allow you to run quick obsidian commands.
 
@@ -111,16 +152,22 @@ To create a new wiki page, open command palette, type in "quickadd". You will se
 QuickAdd: New BeachampLab Wiki - File Name
 ```
 
-Click to open the quick-add widget, you will be prompted to enter 
+Click to open the quick-add widget. You will be prompted to:
 
-- Topic: the wiki title
-- File Name: the filename
+1. **Choose a category** — select which section the page belongs to:
+   - **Data Processing and Analysis** — protocols, tutorials, analysis pipelines
+   - **Lab Meetings and Notes** — meetings, members, orientation, admin
+   - **Publications and Talks** — publications, talks, positions
+   - **Resources and Data Sharing** — stimuli, code, data sets
+   - **Obsolete** — deprecated pages kept for archival reference
+   - **Internal Notes** — private notes (not published to the website)
+2. **Page title** — the wiki title (used as the heading). The filename is generated automatically by replacing non-alphanumeric characters with underscores (e.g. "My New Page!" → `My_New_Page.md`).
 
-This widget automatically saves the new wiki pages to the `pages/Beauchamp/<filename>.md` from a template that is pre-configured for compiling (once you publish the page to Github)
+The page is automatically saved to the correct subfolder under `pages/Beauchamp/` with the right frontmatter (`parent`, `grand_parent`) pre-filled for the sidebar navigation.
 
 The new page also comes with a handy "Markdown Cheat Sheet" so you can edit the page without referring to extra pages for styling the documents.
 
-## 4. Edit existing page
+## 5. Edit existing page
 
 All the BeauchampLab wiki pages are stored at `pages/Beauchamp/`. You can click to open any page to edit.
 
@@ -134,13 +181,13 @@ Current view: reading
 
 The pencil icon will turn into a book-icon once you click on it. Now you should be able to edit the document. Click the book again to turn back into reading mode.
 
-## 5. Insert attachments
+## 6. Insert attachments
 
 The attachments are stored at `attachments/`. Due to some historical reasons, there are lots of attachment folders and it's very hard to manage. I created a widget to insert attachments.
 
 Open Obsidian, use shortcut `⌘P` (command+P), or click on command-line icon on the left-side of the ribbon, this will open command palette.
 
-### 5.1 Insert new attachments
+### 6.1 Insert new attachments
 
 Open command palette, type in "quickadd". You will see
 
@@ -157,7 +204,7 @@ Click to open the quick-add widget, you will be prompted to choose files to atta
 
 The new attachments will be saved to `attachments/`, and markdown links to the files are automatically generated. This saves the time and errors in creating the links by yourself.
 
-### 5.2 Insert links to existing attachment
+### 6.2 Insert links to existing attachment
 
 Open command palette, type in "quickadd". You will see
 
@@ -167,7 +214,7 @@ QuickAdd: Link To An Existing File
 
 Choose this option and you will be asked to select a file to link. You can link to an existing document (wikipage), or an attachment. The markdown links will be created for you.
 
-## 6. Save changes to Github
+## 7. Save changes to Github
 
 _If you haven't configured Git ([Section 2](#2-configure-github-one-time-for-advanced-users)), please log on to the MacPro2 to operate_
 
@@ -188,4 +235,33 @@ Then click on the "+" sign next to "Changes": this "saves/stages" the changes yo
 Finally, click on "Commit-and-sync" button to push the changes to Github
 
 ![Commit-and-sync](../../../attachments/SmallFiles/Pasted_image_20260215155105.png)
+
+## 8. Wiki Categories
+
+The wiki pages are organized into the following categories. Each category appears as a collapsible section in the sidebar.
+
+### Publications and Talks
+
+Lab publications (with PDFs), conference talks, and information about available positions. See [Publications](../Publications_and_Talks/Publications.md) for the full list.
+
+### Resources and Data Sharing
+
+Shared resources from the lab including experimental stimuli, analysis code, data sets, and tools released alongside publications. See [DataSharing](../Resources_and_Data_Sharing/DataSharing.md) for an overview.
+
+### Lab Meetings and Notes
+
+Lab meeting schedules, member lists, alumni, orientation materials, ordering information, and general lab administration pages.
+
+### Data Processing and Analysis
+
+The largest category — protocols and tutorials for neuroimaging (fMRI, DTI, TMS), electrophysiology (iEEG/ECoG), cortical surface modeling, stimulus creation, eye tracking, RAVE preprocessing, and software installation. Also includes a **Brain Stimulation** sub-category for electrical and cortical stimulation protocols.
+
+### Obsolete
+
+Deprecated pages kept for archival reference. These describe discontinued services (e.g. BCM CAMRI scanner), superseded protocols, or outdated software instructions. Includes a **Lectures** sub-category with older teaching materials.
+
+### Internal
+
+Internal notes that will not be released to Github.
+
 

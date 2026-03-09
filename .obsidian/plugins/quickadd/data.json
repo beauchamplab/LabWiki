@@ -3,32 +3,22 @@
     {
       "id": "bdbcb508-2d03-4a8a-bdd8-686798619a61",
       "name": "New BeachampLab Wiki - File Name",
-      "type": "Template",
+      "type": "Macro",
       "command": true,
-      "templatePath": "templates/template.md",
-      "fileNameFormat": {
-        "enabled": false,
-        "format": ""
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "pages/Beauchamp"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFile": true,
-      "fileOpening": {
-        "location": "window",
-        "direction": "vertical",
-        "mode": "default",
-        "focus": true
-      },
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
+      "runOnStartup": false,
+      "macro": {
+        "name": "New BeachampLab Wiki - File Name",
+        "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+        "commands": [
+          {
+            "name": "new-wiki-page",
+            "type": "UserScript",
+            "id": "f0e1d2c3-b4a5-6789-0abc-def123456789",
+            "path": "templates/scripts/js/new-wiki-page.js",
+            "settings": {}
+          }
+        ]
+      }
     },
     {
       "id": "0ce816b0-0a10-42bc-87e7-5f0432b517ef",

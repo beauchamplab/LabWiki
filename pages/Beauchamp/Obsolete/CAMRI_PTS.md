@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "CAMRI PTS"
-parent: Lab Meetings and Notes
+parent: Obsolete
 grand_parent: Beauchamp
 ---
 # CAMRI PTS
