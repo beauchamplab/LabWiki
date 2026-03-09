@@ -198,7 +198,7 @@ QuickAdd: Upload Attachments + Generate Links
 Click to open the quick-add widget, you will be prompted to choose files to attach. You can attach more than one file.
 
 >You will be asked to select whether this file is going to be saved. To clean up the attachments storage, the new attachments should be saved to one of the following three locations:
->1. `attachments/Shared` for "Large Files": Gtihub has size limitations for each repository. This folder is used to offload some large files so they are not counted towards the quota. However, the update cycle is slow. The files you input to this folder might be reflected on the wiki website in 14 days
+>1. `attachments/shared` for "Large Files": Github has size limitations for each repository. This folder is used to offload some large files so they are not counted towards the quota. However, the update cycle is slow. The files you input to this folder might be reflected on the wiki website in 14 days
 >2. `attachments/SmallFiles` for "Small Attachments": This will count towards the Github size quota. Please do not store files larger than 1MB there. I will receive emails from Github to reduce the repository size.
 >3. `attachments/Publications` for "Publications": This is a dedicated folder where you save the publication PDFs (will count towards the size quota). 
 
