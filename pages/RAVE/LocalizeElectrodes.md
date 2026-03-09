@@ -172,11 +172,11 @@ Columns MNI305\_x, MNI305\_y, MNI305\_z are MNI305 coordinates. Column SurfaceEl
 1. [Karas Lab at UTMB tutorial on electrode localization.](../Karas_Lab/RAVE_Electrode_Localization.md "Karas Lab:RAVE Electrode Localization")
 2. <https://github.com/dipterix/threeBrain/issues/22>
 3. [Older information on imaging data](vignettes_electrode-localization.md "RAVE:vignettes:electrode-localization")
-4. [Beauchamp:Electrode Localization and Naming](../Beauchamp/Electrode_Localization_and_Naming.md "Beauchamp:Electrode Localization and Naming")
-5. [Creating a Surface Model and Electrode Localization (by Muge Ozker Sertel)](../Beauchamp/Creating_a_Surface_Model_and_Electrode_Localization_(by_Muge_Ozker_Sertel).md "Beauchamp:Creating a Surface Model and Electrode Localization (by Muge Ozker Sertel)")
-6. [Electrode Localization using iELVis (by Buffy Nesbitt)](../Beauchamp/BuffyElectrodeNotes.md "Beauchamp:BuffyElectrodeNotes")
-7. [Electrode Localization using steps from the ALICE package](../Beauchamp/ALICE.md "Beauchamp:ALICE")
-8. [Electrode Localization using steps from the img\_pipe package](../Beauchamp/img_pipe.md "Beauchamp:img pipe")
+4. [Beauchamp:Electrode Localization and Naming](../Beauchamp/Data_Processing/Electrode_Localization_and_Naming.md "Beauchamp:Electrode Localization and Naming")
+5. [Creating a Surface Model and Electrode Localization (by Muge Ozker Sertel)](../Beauchamp/Data_Processing/Creating_a_Surface_Model_and_Electrode_Localization_(by_Muge_Ozker_Sertel).md "Beauchamp:Creating a Surface Model and Electrode Localization (by Muge Ozker Sertel)")
+6. [Electrode Localization using iELVis (by Buffy Nesbitt)](../Beauchamp/Data_Processing/BuffyElectrodeNotes.md "Beauchamp:BuffyElectrodeNotes")
+7. [Electrode Localization using steps from the ALICE package](../Beauchamp/Data_Processing/ALICE.md "Beauchamp:ALICE")
+8. [Electrode Localization using steps from the img\_pipe package](../Beauchamp/Data_Processing/img_pipe.md "Beauchamp:img pipe")
 9. [Overview of imaging data and electrode localization](vignettes_electrode-localization.md "RAVE:vignettes:electrode-localization")
 10. [Import volumetric MRI data and cortical surface models](Imaging_Data_Formats.md "RAVE:Imaging Data Formats")
 

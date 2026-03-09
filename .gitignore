@@ -8,3 +8,6 @@ _site/
 built/
 add_frontmatter.py
 convert_links.py
+# Internal notes (not published)
+pages/Beauchamp/Internal_Notes.md
+pages/Beauchamp/Internal_Notes/

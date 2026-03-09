@@ -11,17 +11,17 @@ grand_parent: Beauchamp
 | --- | --- |
 |  | Beauchamp Lab wiki |
 
-- [Home](index.md "Beauchamp")
-- [Publications](Publications.md "Beauchamp:Publications")
-- [Resources](DataSharing.md "Beauchamp:DataSharing")
+- [Home](../index.md)
+- [Publications](../Publications_and_Talks/Publications.md "Beauchamp:Publications")
+- [Resources](../Resources_and_Data_Sharing/DataSharing.md "Beauchamp:DataSharing")
 
 ## Current Version (Penn)
 
-[Beauchamp:Software\_Installation](Software_Installation.md "Beauchamp:Software Installation")
+[Beauchamp:Software\_Installation](../Data_Processing/Software_Installation.md "Beauchamp:Software Installation")
 
 ## Instructions For Installing AFNI are now here
 
-[Beauchamp:AFNI\_Install](AFNI_Install.md "Beauchamp:AFNI Install")
+[Beauchamp:AFNI\_Install](../Data_Processing/AFNI_Install.md "Beauchamp:AFNI Install")
 
 ## Computer Problems
 
@@ -269,7 +269,7 @@ Default pulse width: 5 ms
 ```
 
 Using Presentation via USB
-The USB controller uses a new library [File:Beauchamp USB TMS library.pcl](../../attachments/Software_Installation_OLD/Beauchamp_USB_TMS_library.pcl) to control the TMS machine. A sample presentation you can use to test to the USB control of the TMS is available: [File:Beauchamp OhmanTMSScenario.sce](../../attachments/Software_Installation_OLD/Beauchamp_OhmanTMSScenario.sce). In this scenario, the up/down arrows are used to control the intensity of the TMS, while the space bar is used to toggle arming/disarming the device, and the return key is used to fire the device. The sample presentation can also be used to help write code in the future - perhaps the most important point is that it is no longer necessary to define an output port inside the pcl, including the Beauchamp\_USB\_TMS\_library.pcl is sufficient.
+The USB controller uses a new library [File:Beauchamp USB TMS library.pcl](../../../attachments/Software_Installation_OLD/Beauchamp_USB_TMS_library.pcl) to control the TMS machine. A sample presentation you can use to test to the USB control of the TMS is available: [File:Beauchamp OhmanTMSScenario.sce](../../../attachments/Software_Installation_OLD/Beauchamp_OhmanTMSScenario.sce). In this scenario, the up/down arrows are used to control the intensity of the TMS, while the space bar is used to toggle arming/disarming the device, and the return key is used to fire the device. The sample presentation can also be used to help write code in the future - perhaps the most important point is that it is no longer necessary to define an output port inside the pcl, including the Beauchamp\_USB\_TMS\_library.pcl is sufficient.
 
 **Using and recording sound responses**
 

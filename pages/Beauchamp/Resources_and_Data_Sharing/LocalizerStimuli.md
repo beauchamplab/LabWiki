@@ -1,0 +1,12 @@
+---
+layout: default
+title: "LocalizerStimuli"
+parent: Resources and Data Sharing
+grand_parent: Beauchamp
+---
+# LocalizerStimuli
+
+
+File containing all words used for the localizer in Nath & Beauchamp (2012) paper. Note: The download is large (>1.2GB).
+
+[File:1sylwords.zip](#)

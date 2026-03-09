@@ -11,9 +11,9 @@ grand_parent: Obsolete
 | --- | --- |
 |  | Beauchamp Lab wiki |
 
-- [Home](index.md "Beauchamp")
-- [Publications](Publications.md "Beauchamp:Publications")
-- [Resources](DataSharing.md "Beauchamp:DataSharing")
+- [Home](../../index.md)
+- [Publications](../../Publications_and_Talks/Publications.md "Beauchamp:Publications")
+- [Resources](../../Resources_and_Data_Sharing/DataSharing.md "Beauchamp:DataSharing")
 
 This is the web page for information about downloadable MRI neuroanatomy teaching materials. The instructions below describe how to download MRI datasets and a freely available viewing program to look at them.
 
@@ -25,7 +25,7 @@ Download the correct installer package for your computer. Windows, Mac and Linux
 
 The following instructions were tested with Windows 7 running Internet Explorer 9. For different version of Windows or other web browsers, the steps may be slightly different.
 
-1. Click on this link: [media:Beauchamp_MRIcron_windows.zip‎](../../attachments/MedNSLab/Beauchamp_MRIcron_windows.zip "Beauchamp MRIcron windows.zip")
+1. Click on this link: [media:Beauchamp_MRIcron_windows.zip‎](../../../../attachments/MedNSLab/Beauchamp_MRIcron_windows.zip "Beauchamp MRIcron windows.zip")
 2. Internet Explorer will ask you "What to do you want to do with the file?", click Open
 3. A Windows Explorer window should open showing the "mricron" file folder. Drag the folder to your desktop (or any other convenient location).
 4. Find the "mricron" file folder on your desktop (or wherever you have dragged it to) and double-click on it to open. Then, double click on the mricron program icon (looks like a small colored brain).
@@ -39,7 +39,7 @@ Windows MRIcroN window
 
 The following instructions were tested with Mac OSX 10.8.2 running Safari. For different versions of OSX or other web browsers, the steps may be slightly different.
 
-1. Click on this link: [media:BeauchampMacMRIcron.zip‎](../../attachments/MedNSLab/BeauchampMacMRIcron.zip "BeauchampMacMRIcron.zip")
+1. Click on this link: [media:BeauchampMacMRIcron.zip‎](../../../../attachments/MedNSLab/BeauchampMacMRIcron.zip "BeauchampMacMRIcron.zip")
 2. The file should download and be expanded into a directory, most likely in your "Downloads" folder. A new folder called "BeauchampMacMRIcron" will be created. Open the folder; you should see the file mricron.app next to a small brain icon.
 3. To start the program, double click on the mricron.app file or the small brain icon.
 4. The dataset name is listed at the bottom of the window for Mac. The correct brain to view is the "ch2" file (ch2.nii.gz). Load this file by selecting "File/Open/Templates/ch2.nii.gz".
@@ -119,9 +119,9 @@ Surf around the brain. When clicking on a colored region, you will see the anato
 
 MRI is clinically very useful because it is non-invasive and safe. Because no exposure to radiation is involved, patients can receive many different kinds of MRI imaging procedures without risk. The MRI scanner can be programmed to create different kinds of images that reveal different tissue properties. The three main kinds of images are T1, T2 and Proton Density (FLAIR). The names of the image types refer to the physical priniciples used to create the images. The three links below link to three datasets, all collected from the same normal subject, that show the three different image types. Click on each link and save the file to your computer.
 
-1. [S1T1.nii T1 dataset from a sample subject](../../attachments/MedNSLab/S1T1.nii.zip "S1T1.nii.zip")
-2. [S1T2.nii T2 dataset from a sample subject](../../attachments/MedNSLab/S1T2.nii.zip "S1T2.nii.zip")
-3. [S1FLAIR.nii FLAIR dataset from a sample subject](../../attachments/MedNSLab/S1FLAIR.nii.zip "S1FLAIR.nii.zip")
+1. [S1T1.nii T1 dataset from a sample subject](../../../../attachments/MedNSLab/S1T1.nii.zip "S1T1.nii.zip")
+2. [S1T2.nii T2 dataset from a sample subject](../../../../attachments/MedNSLab/S1T2.nii.zip "S1T2.nii.zip")
+3. [S1FLAIR.nii FLAIR dataset from a sample subject](../../../../attachments/MedNSLab/S1FLAIR.nii.zip "S1FLAIR.nii.zip")
 
 After you have downloaded the datasets, you can load and view them in MriCroN by clicking File/Open. Navigate to the directory where you saved them and select the dataset name.
 
@@ -139,7 +139,7 @@ Because the spine is so long, it is typically imaged in three separate scans cov
 
 Here are two movies that show the results of a Magnetic Resonance Angiogram (MRA). Click to download the movies to your desktop. Then double-click on the movies to view them. They have been tested with Apple Quicktime, free software downloadable from www.apple.com. After the movie is loaded, press the left and right arrow to scroll through the frames of the movie.
 
-1. [MRAturn.MPG A movie that shows a maximum intensity projection of the MRA dataset, with the brain rotating from left to right.](../../attachments/MedNSLab/MRAturn.MPG "MRAturn.MPG")
-2. [MRAtumble.MPG A movie that shows a projection of the MRA dataset, with the brain rotating from front to back (as if the subject was doing a somersault).](../../attachments/MedNSLab/MRAtumble.MPG "MRAtumble.MPG")
+1. [MRAturn.MPG A movie that shows a maximum intensity projection of the MRA dataset, with the brain rotating from left to right.](../../../../attachments/MedNSLab/MRAturn.MPG "MRAturn.MPG")
+2. [MRAtumble.MPG A movie that shows a projection of the MRA dataset, with the brain rotating from front to back (as if the subject was doing a somersault).](../../../../attachments/MedNSLab/MRAtumble.MPG "MRAtumble.MPG")
 
 **License Information for MRIcron software.** Chris Rorden's MRIcron, copyright 2012, all rights reserved. Redistribution and use in binary forms, with or without modification, are permitted provided inclusion of the copyright notice, this list of conditions and the following disclaimer is provided with the distribution: Neither the name of the copyright owner nor the name of this project (MRIcron) may be used to endorse or promote products derived from this software without specific prior written permission.This software is provided by the copyright holder "as is" and any express or implied warranties, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose are disclaimed. In no event shall the copyright owner be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage.

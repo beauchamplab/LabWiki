@@ -9,23 +9,23 @@ grand_parent: Beauchamp
 
 |  |  |
 | --- | --- |
-| [Brain picture](../../attachments/AuditoryTactile/BrainPic.0023.png) | Beauchamp Lab Notebook |
+| [Brain picture](../../../attachments/AuditoryTactile/BrainPic.0023.png) | Beauchamp Lab Notebook |
 
-- [Home](index.md "Beauchamp")
-- [Lab Members](Lab_Members.md "Beauchamp:Lab Members")
-- [Lab Alums](Lab_Alums.md "Beauchamp:Lab Alums")
-- [Projects](Projects.md "Beauchamp:Projects")
-- [Publications](Publications.md "Beauchamp:Publications")
-- [*Lab Notebook*](Lab_Notebook.md "Beauchamp:Lab Notebook")
-- [Subjects](Subjects.md "Beauchamp:Subjects")
+- [Home](../index.md)
+- [Lab Members](../Lab_Meetings_and_Notes/Lab_Members.md "Beauchamp:Lab Members")
+- [Lab Alums](../Lab_Meetings_and_Notes/Lab_Alums.md "Beauchamp:Lab Alums")
+- [Projects](../Publications_and_Talks/Projects.md "Beauchamp:Projects")
+- [Publications](../Publications_and_Talks/Publications.md "Beauchamp:Publications")
+- [*Lab Notebook*](../Lab_Meetings_and_Notes/Lab_Notebook.md "Beauchamp:Lab Notebook")
+- [Subjects](../Lab_Meetings_and_Notes/Subjects.md "Beauchamp:Subjects")
 
-- [Software Installation](Software_Installation.md "Beauchamp:Software Installation")
-- [Ordering](Ordering.md "Beauchamp:Ordering")
-- [MRI Data Analysis](MRI_Data_Analysis.md "Beauchamp:MRI Data Analysis")
-- [Electrophysiology](Electrophysiology.md "Beauchamp:Electrophysiology")
-- [TMS](TMS.md "Beauchamp:TMS")
+- [Software Installation](../Data_Processing/Software_Installation.md "Beauchamp:Software Installation")
+- [Ordering](../Lab_Meetings_and_Notes/Ordering.md "Beauchamp:Ordering")
+- [MRI Data Analysis](../Data_Processing/MRI_Data_Analysis.md "Beauchamp:MRI Data Analysis")
+- [Electrophysiology](../Data_Processing/Electrophysiology.md "Beauchamp:Electrophysiology")
+- [TMS](../Data_Processing/TMS.md "Beauchamp:TMS")
 
-[Back to current protocol](Electrophysiology.md "Beauchamp:Electrophysiology")
+[Back to current protocol](../Data_Processing/Electrophysiology.md "Beauchamp:Electrophysiology")
 
 ## July Subjects Plan
 
@@ -60,14 +60,14 @@ If the RFs are more selective (#1 above) then we might evoke percept with a smal
 
 **Regular electrode experiments**  
 **0) Stimulate the big electrodes overlying visually responsive/identified areas.**
-1) [General Selectivity](Selectivity.md "Beauchamp:Selectivity") – 10 minutes
+1) [General Selectivity](../Data_Processing/Selectivity.md "Beauchamp:Selectivity") – 10 minutes
 
 :   • 80 stimuli, 20 blocks
 :   • One-back task (patient reports repetitions of images)
 
 *--Identify selective electrodes*
 *--Choose selective category*
-**2) ["Stop-sign" Repeat Adaptation](Selectivity.md "Beauchamp:Selectivity") – 10 minutes**
+**2) ["Stop-sign" Repeat Adaptation](../Data_Processing/Selectivity.md "Beauchamp:Selectivity") – 10 minutes**
 
 :   • 20 selective stimuli, 20 nonselective stimuli, 20 blocks
 :   • Stop-sign task (patient reports stop-signs)
@@ -77,7 +77,7 @@ If the RFs are more selective (#1 above) then we might evoke percept with a smal
     :   2. Selective stimuli are directly repeated every 8-12 images
     :   3. The stimulus preceding the repeat is always a nonselective stimulus
 
-**3) ["One-back" Repeat Adaptation](Adaptation_and_CP.md) – 10 minutes**
+**3) ["One-back" Repeat Adaptation](../Data_Processing/Adaptation_and_CP.md) – 10 minutes**
 
 :   • 20 stims from selective category, 5 stims from each nonselective category
 :   • One-back task
@@ -88,17 +88,17 @@ If the RFs are more selective (#1 above) then we might evoke percept with a smal
     :   1. Selective stimuli are directly repeated every 8-12 images
     :   2. The stimulus preceding the repeat is always a nonselective stimulus
 
-**4) ["One-back" Cross Adaptation](Adaptation_and_CP.md) – 10 minutes**
+**4) ["One-back" Cross Adaptation](../Data_Processing/Adaptation_and_CP.md) – 10 minutes**
 
 :   • 20 stims from selective category, 5 stims from each nonselective category
 :   • Altered one-back task - subject is told to respond to two selective-category stimuli in a row
 
-**5) [Multiple-repetitions adaptation](Adaptation.md "Beauchamp:Adaptation") - 5 minutes**
+**5) [Multiple-repetitions adaptation](../Data_Processing/Adaptation.md "Beauchamp:Adaptation") - 5 minutes**
 
 :   • 20 selective stimuli, 20 nonselective stimuli, 2 Hz presentation, patient is told to press button when he/she sees the stopsign.
 :   • 8 nonselective stimuli (including stop-sign), 8 presentations of the same selective stimulus, 8 nonselective stimuli (w/ stopsign), 8 different selective stimuli.
 
-**6) ["Stop-Sign" Adaptation](Adaptation.md "Beauchamp:Adaptation") – 20 minutes**
+**6) ["Stop-Sign" Adaptation](../Data_Processing/Adaptation.md "Beauchamp:Adaptation") – 20 minutes**
 
 :   • Adapting stimuli A and B
 :   • 20 blocks -> 20 direct repeats
@@ -107,7 +107,7 @@ If the RFs are more selective (#1 above) then we might evoke percept with a smal
 
 ## May 2008 Subject AC Protocol
 
-**[Setup](Setup_Apparatus.md "Beauchamp:Setup Apparatus")**  
+**[Setup](../Data_Processing/Setup_Apparatus.md "Beauchamp:Setup Apparatus")**  
 • Identify at least 16 electrodes of interest using the combined fMRI functional map and CAT scan.  
 [Images here]   
 • Create log file AC[birthday].doc on log computer  
@@ -115,7 +115,7 @@ If the RFs are more selective (#1 above) then we might evoke percept with a smal
 • Record resting activity to make sure system is working  
   
 **Day 1 Experiment Lineup (5/1/08)**  
-**1) [General Selectivity](Selectivity.md "Beauchamp:Selectivity") – 5 minutes**
+**1) [General Selectivity](../Data_Processing/Selectivity.md "Beauchamp:Selectivity") – 5 minutes**
 
 :   • 80 stimuli, 20 blocks
 :   • One-back task
@@ -123,28 +123,28 @@ If the RFs are more selective (#1 above) then we might evoke percept with a smal
 *--Identify selective electrodes*
 *--Choose selective category*
 
-**2) ["One-Back" Selectivity](Selectivity.md "Beauchamp:Selectivity") – 5 minutes**
+**2) ["One-Back" Selectivity](../Data_Processing/Selectivity.md "Beauchamp:Selectivity") – 5 minutes**
 
 :   • 20 stims from selective category, 5 stims from each nonselective category
 :   • One-back task
 
-**3) [Receptive Field Mapping](Receptive_Field_Mapping.md "Beauchamp:Receptive Field Mapping") with preferred stimulus – 10 minutes**
+**3) [Receptive Field Mapping](../Data_Processing/Receptive_Field_Mapping.md "Beauchamp:Receptive Field Mapping") with preferred stimulus – 10 minutes**
 
 :   • Homogenized stimuli are 400x400 pixels, and are shown at 25 degrees of the visual field in selectivity plugin. We want the stimulus to be large enough to recogize whilst small enough such that we can draw a high-resolution receptive field map and compare it to RFs from other brain areas. As a reference, the color paper's RF mapping used a colored square that was 1/11 of the screen's width. We did a run with RG that was -10 to 10 azimuth and elevation in spatial extent, with 11 x 11 locations, and 5 x 5 degree stimuli. Let's use this as our standard.
 
-**3b) [Receptive Field Mapping](Receptive_Field_Mapping.md "Beauchamp:Receptive Field Mapping") with other category's stimulus - 15 minutes**
+**3b) [Receptive Field Mapping](../Data_Processing/Receptive_Field_Mapping.md "Beauchamp:Receptive Field Mapping") with other category's stimulus - 15 minutes**
 
 :   • Choose another preferred stimulus, if possible from a different category, and map the receptive field.
 :   • Prediction: if a different category, RF may be different (more foveal for faces, more peripheral for houses)
 
 *--Choose adapting stimuli A and B: two highly responsive stimuli*
 *--Choose 15 intervening stimuli - from non-test categories*
-**4) [Direct-Repeat Adaptation](Adaptation.md "Beauchamp:Adaptation") – 18 minutes**
+**4) [Direct-Repeat Adaptation](../Data_Processing/Adaptation.md "Beauchamp:Adaptation") – 18 minutes**
 
 :   • Adapting stimulus A
 :   • 20 blocks -> 20 direct repeats
 
-**5) [Direct-Repeat Adaptation](Adaptation.md "Beauchamp:Adaptation") – 18 minutes**
+**5) [Direct-Repeat Adaptation](../Data_Processing/Adaptation.md "Beauchamp:Adaptation") – 18 minutes**
 
 :   • Adapting stimulus B br>
 :   • 20 blocks -> 20 direct repeats
@@ -152,33 +152,33 @@ If the RFs are more selective (#1 above) then we might evoke percept with a smal
 *--Finished at 5:20 pm*  
   
 **Day 2 Experiment Lineup (5/2/08)**  
-**1) ["Stop-Sign" Selectivity](Selectivity.md "Beauchamp:Selectivity") – 8 minutes**
+**1) ["Stop-Sign" Selectivity](../Data_Processing/Selectivity.md "Beauchamp:Selectivity") – 8 minutes**
 
 :   • 20 stims from selective category, 5 stims from each nonselective category
 :   • Stop-sign task – Same plugin, just tell patient to press button when he sees the stopsign
 
-**2) [Direct-Repeat Adaptation](Adaptation.md "Beauchamp:Adaptation") – 18 minutes**
+**2) [Direct-Repeat Adaptation](../Data_Processing/Adaptation.md "Beauchamp:Adaptation") – 18 minutes**
 
 :   • Adapting stimulus C
 :   • 20 blocks -> 20 direct repeats
 
-**3) [Within-Category Adaptation](Adaptation.md "Beauchamp:Adaptation") – 30 minutes**
+**3) [Within-Category Adaptation](../Data_Processing/Adaptation.md "Beauchamp:Adaptation") – 30 minutes**
 
 :   • Adapting stimuli A and B
 :   • 30 adapting stimulus pairs → 360 blocks
 
 **Day 3 Experiment Lineup (5/3/08)**  
-**1) [Direct-Repeat Adaptation](Adaptation.md "Beauchamp:Adaptation") – 18 minutes**
+**1) [Direct-Repeat Adaptation](../Data_Processing/Adaptation.md "Beauchamp:Adaptation") – 18 minutes**
 
 :   • Adapting stimulus A
 :   • **0.8 Hz** presentation time to ensure that LFP has returned to baseline before the repeat appears
 :   • 20 blocks -> 20 direct repeats
 
-**2)  [Choice Probability](Choice_Probability.md) - 15 minutes**
+**2)  [Choice Probability](../Data_Processing/Choice_Probability.md) - 15 minutes**
 
 :   • Take two stimuli which elicit responses from two different electrodes. Overlay them in a series of images, with varied contrasts of each image. Use these images in the selectivity task.
 
-**3) [Within-Category Adaptation](Adaptation.md "Beauchamp:Adaptation") – 30 minutes**
+**3) [Within-Category Adaptation](../Data_Processing/Adaptation.md "Beauchamp:Adaptation") – 30 minutes**
 
 :   • Adapting stimuli A and B
 :   • 20 blocks -> 20 direct repeats/ 20 category-repeats

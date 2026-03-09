@@ -11,11 +11,11 @@ grand_parent: Beauchamp
 | --- | --- |
 |  | Beauchamp Lab wiki |
 
-* [Home](index.md "Beauchamp")
-* [Publications](Publications.md "Beauchamp:Publications")
-* [Resources](DataSharing.md "Beauchamp:DataSharing")
+* [Home](../index.md)
+* [Publications](../Publications_and_Talks/Publications.md "Beauchamp:Publications")
+* [Resources](../Resources_and_Data_Sharing/DataSharing.md "Beauchamp:DataSharing")
 
-[![](../../attachments/Beauchamp_RAVE:AWS/RAVE_LogoJan2019.jpg)](../../attachments/Beauchamp_RAVE:AWS/RAVE_LogoJan2019.jpg)
+[![](../../../attachments/Beauchamp_RAVE:AWS/RAVE_LogoJan2019.jpg)](../../../attachments/Beauchamp_RAVE:AWS/RAVE_LogoJan2019.jpg)
 
 RAVE Logo
 

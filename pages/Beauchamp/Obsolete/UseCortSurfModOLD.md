@@ -60,7 +60,7 @@ Note that takes FreeSurfer .asc files as input and writes out Suma .ply files as
 ## Making Movies of the Inflation Process
 
 It is easy to make movies to show the inflation process, see
-[Beauchamp:InflationMovies](InflationMovies.md "Beauchamp:InflationMovies")
+[Beauchamp:InflationMovies](../Data_Processing/InflationMovies.md "Beauchamp:InflationMovies")
 
 ## Creating Modified SPEC files
 
@@ -204,7 +204,7 @@ To find out which number corresponds to which anatomical structure, we use the c
 ```
 
 The output of this is here
-[FreeSurferParcellation](FreeSurferParcellation.md)
+[FreeSurferParcellation](../Data_Processing/FreeSurferParcellation.md)
 
 There is also a spread sheet showing the numbering scheme relative to the actual ROI name.
 This can be found on /Volumes/data9/surfaces/FS\_aparc.xls

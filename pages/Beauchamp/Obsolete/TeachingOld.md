@@ -11,11 +11,11 @@ grand_parent: Beauchamp
 | --- | --- |
 |  | Beauchamp Lab wiki |
 
-- [Home](index.md "Beauchamp")
-- [Publications](Publications.md "Beauchamp:Publications")
-- [Resources](DataSharing.md "Beauchamp:DataSharing")
+- [Home](../index.md)
+- [Publications](../Publications_and_Talks/Publications.md "Beauchamp:Publications")
+- [Resources](../Resources_and_Data_Sharing/DataSharing.md "Beauchamp:DataSharing")
 
-THIS IS AN ARCHIVE PAGE [Click here for Current Teaching Resources](Teaching.md "Beauchamp:Teaching")
+THIS IS AN ARCHIVE PAGE [Click here for Current Teaching Resources](../Lab_Meetings_and_Notes/Teaching.md "Beauchamp:Teaching")
 
 NBA Seminar Series Available Dates: [Available Dates for 2014 - 2015](AvailableDates20142015.md)
 
@@ -94,54 +94,54 @@ Click here for [Teaching Material for Medical Neuroscience Laboratory Course](..
 
 Here are slides presented for Medical Neuroscience in 2012
 
-1. [Integrated Motor Systems](../../attachments/TeachingOld/2012Integrated.pdf "2012Integrated.pdf")
-2. [Motor Cortex](../../attachments/TeachingOld/2012MotorCortex.pdf "2012MotorCortex.pdf")
-3. [Spinal Cord](../../attachments/TeachingOld/2012SpinalCord.pdf "2012SpinalCord.pdf")
-4. [Prelab slides for Lab #8](../../attachments/TeachingOld/2012PreLab8.pdf "2012PreLab8.pdf")
-5. [Prelab slides for Lab #9](../../attachments/TeachingOld/2012PreLab9.pdf "2012PreLab9.pdf")
+1. [Integrated Motor Systems](../../../attachments/TeachingOld/2012Integrated.pdf "2012Integrated.pdf")
+2. [Motor Cortex](../../../attachments/TeachingOld/2012MotorCortex.pdf "2012MotorCortex.pdf")
+3. [Spinal Cord](../../../attachments/TeachingOld/2012SpinalCord.pdf "2012SpinalCord.pdf")
+4. [Prelab slides for Lab #8](../../../attachments/TeachingOld/2012PreLab8.pdf "2012PreLab8.pdf")
+5. [Prelab slides for Lab #9](../../../attachments/TeachingOld/2012PreLab9.pdf "2012PreLab9.pdf")
 
 Here are slides presented for Medical Neuroscience in 2011
 
-1. [Neuroimaging](../../attachments/TeachingOld/2011Lecture1.pptx "2011Lecture1.pptx")
-2. [Motor System Lecture #1](../../attachments/TeachingOld/2011MotorLecture1.pdf "2011MotorLecture1.pdf")
-3. [Motor System Lecture #2](../../attachments/TeachingOld/2011MotorLecture2.pdf "2011MotorLecture2.pdf")
-4. [Motor System Lecture #3](../../attachments/TeachingOld/2011MotorLecture3.pdf "2011MotorLecture3.pdf")
-5. [Motor System Lecture #4](../../attachments/TeachingOld/2011MotorLecture4.pdf "2011MotorLecture4.pdf")
-6. [Motor System Lecture #5](../../attachments/TeachingOld/2011MotorLecture5.pdf "2011MotorLecture5.pdf")
+1. [Neuroimaging](../../../attachments/TeachingOld/2011Lecture1.pptx "2011Lecture1.pptx")
+2. [Motor System Lecture #1](../../../attachments/TeachingOld/2011MotorLecture1.pdf "2011MotorLecture1.pdf")
+3. [Motor System Lecture #2](../../../attachments/TeachingOld/2011MotorLecture2.pdf "2011MotorLecture2.pdf")
+4. [Motor System Lecture #3](../../../attachments/TeachingOld/2011MotorLecture3.pdf "2011MotorLecture3.pdf")
+5. [Motor System Lecture #4](../../../attachments/TeachingOld/2011MotorLecture4.pdf "2011MotorLecture4.pdf")
+6. [Motor System Lecture #5](../../../attachments/TeachingOld/2011MotorLecture5.pdf "2011MotorLecture5.pdf")
 7. [Motor System Lecture #6](#)
-8. [Prelab slides for Lab #8](../../attachments/TeachingOld/2011PreLab8.pdf "2011PreLab8.pdf")
-9. [Prelab slides for Lab #9](../../attachments/TeachingOld/2011PreLab9.pdf "2011PreLab9.pdf")
+8. [Prelab slides for Lab #8](../../../attachments/TeachingOld/2011PreLab8.pdf "2011PreLab8.pdf")
+9. [Prelab slides for Lab #9](../../../attachments/TeachingOld/2011PreLab9.pdf "2011PreLab9.pdf")
 
 ### 2011 Lab 7 Notes
 
-The NeuroLab CD contains incorrect information on the location of the frontal eye fields. This PDF shows the correct location [FrontalEyeFields](../../attachments/TeachingOld/Lab7FrontalEyeFields.pdf "Lab7FrontalEyeFields.pdf")
+The NeuroLab CD contains incorrect information on the location of the frontal eye fields. This PDF shows the correct location [FrontalEyeFields](../../../attachments/TeachingOld/Lab7FrontalEyeFields.pdf "Lab7FrontalEyeFields.pdf")
 
 ### 2011 Lab 8 Notes
 
-Many of the structures in Lab 8 can be seen on MRI. The following PDF contains labeled MRI sections. [Lab8MRI](../../attachments/TeachingOld/Lab8MRI.pdf "Lab8MRI.pdf")
+Many of the structures in Lab 8 can be seen on MRI. The following PDF contains labeled MRI sections. [Lab8MRI](../../../attachments/TeachingOld/Lab8MRI.pdf "Lab8MRI.pdf")
 
 ### 2010 Lecture Slides
 
-Here are slides presented for Introduction to Neuroimaging on January 22, 2010 [Neuroimaging](../../attachments/TeachingOld/2010Lecturev2.pptx "2010Lecturev2.pptx")
+Here are slides presented for Introduction to Neuroimaging on January 22, 2010 [Neuroimaging](../../../attachments/TeachingOld/2010Lecturev2.pptx "2010Lecturev2.pptx")
 
-Here are slides presented for Motor System Lecture #1 (muscles) on March 17, 2010 [Motor Systems Lecture #1](../../attachments/TeachingOld/Lecture1.pptx "Lecture1.pptx")
+Here are slides presented for Motor System Lecture #1 (muscles) on March 17, 2010 [Motor Systems Lecture #1](../../../attachments/TeachingOld/Lecture1.pptx "Lecture1.pptx")
 
-Here are slides presented for Motor System Lecture #2 (spinal reflexes) on March 17, 2010 [Motor Systems Lecture #2](../../attachments/TeachingOld/Lecture2.pptx "Lecture2.pptx")
+Here are slides presented for Motor System Lecture #2 (spinal reflexes) on March 17, 2010 [Motor Systems Lecture #2](../../../attachments/TeachingOld/Lecture2.pptx "Lecture2.pptx")
 
-Here are slides presented for Motor System Lecture #3 (motor cortex) on March 19, 2010 [Motor Systems Lecture #3](../../attachments/TeachingOld/Lecture3.pptx "Lecture3.pptx")
+Here are slides presented for Motor System Lecture #3 (motor cortex) on March 19, 2010 [Motor Systems Lecture #3](../../../attachments/TeachingOld/Lecture3.pptx "Lecture3.pptx")
 
-Here are slides presented for Motor System Lecture #4 (basal ganglia) on March 22, 2010 [Motor Systems Lecture #4](../../attachments/TeachingOld/Lecture4.pptx "Lecture4.pptx")
+Here are slides presented for Motor System Lecture #4 (basal ganglia) on March 22, 2010 [Motor Systems Lecture #4](../../../attachments/TeachingOld/Lecture4.pptx "Lecture4.pptx")
 
-Here are slides presented for Motor System Lecture #5 (cerebellum) on March 24, 2010 [Motor Systems Lecture #5](../../attachments/TeachingOld/Lecture5.pptx "Lecture5.pptx")
+Here are slides presented for Motor System Lecture #5 (cerebellum) on March 24, 2010 [Motor Systems Lecture #5](../../../attachments/TeachingOld/Lecture5.pptx "Lecture5.pptx")
 
-Here are slides presented for Prelab #9 (descending pathways) on March 29, 2010 [Prelab #9](../../attachments/TeachingOld/PreLab9.pptx "PreLab9.pptx")
+Here are slides presented for Prelab #9 (descending pathways) on March 29, 2010 [Prelab #9](../../../attachments/TeachingOld/PreLab9.pptx "PreLab9.pptx")
 
 ## UT Graduate Cognitive Neuroscience
 
 UT Graduate Cognitive Neuroscience (Anne Sereno, course director)
 
 1. [Lecture #1, Methods of Cognitive Neuroscience](#)
-2. [Lecture #2, Object Recognition](../../attachments/TeachingOld/SerenoLecture2.pdf "SerenoLecture2.pdf")
+2. [Lecture #2, Object Recognition](../../../attachments/TeachingOld/SerenoLecture2.pdf "SerenoLecture2.pdf")
 
 ## Other Notes and Old Courses
 
@@ -149,16 +149,16 @@ UT Graduate Cognitive Neuroscience (Anne Sereno, course director)
 
 Here are slides presented in June 2012 at the Institute of Psychology of the Chinese Academy of Sciences
 
-1. [Institute of Psychology of the Chinese Academy of Sciences](../../attachments/TeachingOld/BeijingJune2012.pdf.pdf "BeijingJune2012.pdf.pdf")
+1. [Institute of Psychology of the Chinese Academy of Sciences](../../../attachments/TeachingOld/BeijingJune2012.pdf.pdf "BeijingJune2012.pdf.pdf")
 
 BCM Higher Brain Function (Mariela DeBiasi, course director)
 
-1. [Lecture #1](../../attachments/TeachingOld/DeBiasiLecture1.pdf "DeBiasiLecture1.pdf")
-2. [Lecture #2](../../attachments/TeachingOld/DeBiasiLecture2.pdf "DeBiasiLecture2.pdf")
-3. [fMRI Educated Consumer Slides](../../attachments/TeachingOld/FMRIEducatedConsumer.pdf "FMRIEducatedConsumer.pdf")
+1. [Lecture #1](../../../attachments/TeachingOld/DeBiasiLecture1.pdf "DeBiasiLecture1.pdf")
+2. [Lecture #2](../../../attachments/TeachingOld/DeBiasiLecture2.pdf "DeBiasiLecture2.pdf")
+3. [fMRI Educated Consumer Slides](../../../attachments/TeachingOld/FMRIEducatedConsumer.pdf "FMRIEducatedConsumer.pdf")
 
-1. [Information about West U Elementary School Science Night](WUES.md)
-2. [Basal Ganglia MRI Slides for "crowdsource" labeling](../../attachments/TeachingOld/BasalGanglia.ppt "BasalGanglia.ppt")
+1. [Information about West U Elementary School Science Night](../Lab_Meetings_and_Notes/WUES.md)
+2. [Basal Ganglia MRI Slides for "crowdsource" labeling](../../../attachments/TeachingOld/BasalGanglia.ppt "BasalGanglia.ppt")
 
 A teaching website that shows midbrain, brainstem and spinal cord slices labeled with tracts and anatomy is <http://isc.temple.edu/neuroanatomy/lab/>
 
@@ -178,6 +178,6 @@ Click here for information about a lecture on fMRI delivered at Texas Children's
 
 A GSBS course on MRI physics is shown here <http://www.uthgsbsmedphys.org/GS02-0193/default_2009.htm>
 
-[Lecture at Indiana University in February of 2004](../../attachments/TeachingOld/IUTalk.pdf "IUTalk.pdf")
+[Lecture at Indiana University in February of 2004](../../../attachments/TeachingOld/IUTalk.pdf "IUTalk.pdf")
 
 Writing Courses: Picus,Mark A <MAPicus@mdanderson.org> offers a summer course Writing Scientific Articles for Publication (GS21-1142).

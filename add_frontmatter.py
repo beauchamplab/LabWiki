@@ -22,7 +22,12 @@ NAMESPACE_PARENTS = {
 SUBDIR_PARENTS = {
     'Beauchamp/Obsolete': ('Obsolete', 'Beauchamp'),
     'Beauchamp/Obsolete/Lectures': ('Lectures', 'Obsolete'),
-    'Beauchamp/Brain Stimulation': ('Brain Stimulation', 'Beauchamp'),
+    'Beauchamp/Publications_and_Talks': ('Publications and Talks', 'Beauchamp'),
+    'Beauchamp/Resources_and_Data_Sharing': ('Resources and Data Sharing', 'Beauchamp'),
+    'Beauchamp/Lab_Meetings_and_Notes': ('Lab Meetings and Notes', 'Beauchamp'),
+    'Beauchamp/Data_Processing': ('Data Processing and Analysis', 'Beauchamp'),
+    'Beauchamp/Data_Processing/Brain Stimulation': ('Brain Stimulation', 'Data Processing and Analysis'),
+    'Beauchamp/Internal_Notes': ('Internal Notes', 'Beauchamp'),
 }
 
 def extract_title_from_content(content):

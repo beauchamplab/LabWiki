@@ -11,23 +11,23 @@ grand_parent: Obsolete
 | --- | --- |
 |  | Beauchamp Lab wiki |
 
-- [Home](index.md "Beauchamp")
-- [Publications](Publications.md "Beauchamp:Publications")
-- [Resources](DataSharing.md "Beauchamp:DataSharing")
+- [Home](../../index.md)
+- [Publications](../../Publications_and_Talks/Publications.md "Beauchamp:Publications")
+- [Resources](../../Resources_and_Data_Sharing/DataSharing.md "Beauchamp:DataSharing")
 
 ## AFNI Short Course: October 4-8, 2010
 
-[caption](../../attachments/ShortCourse2010/AFNIGroupSmall.jpg)
+[caption](../../../../attachments/ShortCourse2010/AFNIGroupSmall.jpg)
 
-[Click here for the group photo at full resolution: 8 MB.](../../attachments/ShortCourse2010/AFNIGroupLarge.jpg "AFNIGroupLarge.jpg")
+[Click here for the group photo at full resolution: 8 MB.](../../../../attachments/ShortCourse2010/AFNIGroupLarge.jpg "AFNIGroupLarge.jpg")
 
 The AFNI BootCamp is a week-long hands-on course on AFNI, a widely-used software package for fMRI data analysis. For more details on AFNI, see <http://afni.nimh.nih.gov/afni> The course will be taught by the developers of AFNI, including Robert Cox, Ziad Saad, Rick Reynolds and Gang Chen, and will take place at the University of Texas Medical School, 6431 Fannin St, Houston, TX.
 
-[Click here to download a PDF of the course schedule.](../../attachments/ShortCourse2010/Bootcamp_sched_Houston2010.pdf "Bootcamp sched Houston2010.pdf")
+[Click here to download a PDF of the course schedule.](../../../../attachments/ShortCourse2010/Bootcamp_sched_Houston2010.pdf "Bootcamp sched Houston2010.pdf")
 
 [Click here for more information on the participants](../../Obsolete/Lectures/ShortCourse2010Participants.md)
 
-[Click here to download a PDF of the course poster.](../../attachments/ShortCourse2010/Beauchampposter.pdf "Beauchampposter.pdf")
+[Click here to download a PDF of the course poster.](../../../../attachments/ShortCourse2010/Beauchampposter.pdf "Beauchampposter.pdf")
 
 For a free hard copy of the poster or more information about the course, please e-mail the course organizer at **Michael.S.Beauchamp@uth.tmc.edu.**.
 
@@ -45,9 +45,9 @@ Please make checks payable to Rice University (no purchase orders or credit card
 Beauchamp Lab, UTHealth Neurobiology and Anatomy, 6431 Fannin Street Suite G.550G, Houston TX 77030.
 ```
 
-Participants are not confirmed until the registration fee is received. [Click here to download a payment receipt (please fill in the correct name, date and amount yourself)](../../attachments/ShortCourse2010/AFNIWorkshopReceipt.doc "AFNIWorkshopReceipt.doc")
+Participants are not confirmed until the registration fee is received. [Click here to download a payment receipt (please fill in the correct name, date and amount yourself)](../../../../attachments/ShortCourse2010/AFNIWorkshopReceipt.doc "AFNIWorkshopReceipt.doc")
 
-No CME credits can be provided. All registration fees are non-refundable but registration is freely transferable between participants. A registration form is **not** required, but if you would like a registration form (even though it is not required) you can download one here: [Click here to download the optional Registration Form](../../attachments/ShortCourse2010/Registrationform_AfNI.doc "Registrationform AfNI.doc")
+No CME credits can be provided. All registration fees are non-refundable but registration is freely transferable between participants. A registration form is **not** required, but if you would like a registration form (even though it is not required) you can download one here: [Click here to download the optional Registration Form](../../../../attachments/ShortCourse2010/Registrationform_AfNI.doc "Registrationform AfNI.doc")
 
 **Sponsors**: The first ten participants from (defined as "primary affiliation with") each sponsoring department are no charge. The sponsoring departments are the UT Department of Psychiatry, UT Department of Neurosurgery and Rice Department of Psychology.
 

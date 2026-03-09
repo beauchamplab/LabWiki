@@ -14,7 +14,7 @@ parent: RAVE
 
 ### Import volumetric MRI data and cortical surface models
 
-RAVE imports MRI volumetric data and cortical surface models that have been processed by FreeSurfer. [See the FreeSurfer website for complete information](https://surfer.nmr.mgh.harvard.edu/fswiki). For additional help, see the [Beauchamp Lab wiki](../Beauchamp/CorticalSurfaceOverview.md "Beauchamp:CorticalSurfaceOverview") (ignore instructions for converting FreeSurfer surfaces for AFNI/SUMA; this is not required for RAVE.) Copy the FreeSurfer output folder into the RAVE subject folder, e.g.
+RAVE imports MRI volumetric data and cortical surface models that have been processed by FreeSurfer. [See the FreeSurfer website for complete information](https://surfer.nmr.mgh.harvard.edu/fswiki). For additional help, see the [Beauchamp Lab wiki](../Beauchamp/Data_Processing/CorticalSurfaceOverview.md "Beauchamp:CorticalSurfaceOverview") (ignore instructions for converting FreeSurfer surfaces for AFNI/SUMA; this is not required for RAVE.) Copy the FreeSurfer output folder into the RAVE subject folder, e.g.
 
 ```
  rave_data/data_dir/congruency/YAB/rave/fs

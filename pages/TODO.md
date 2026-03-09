@@ -6,151 +6,151 @@
 
 ## Beauchamp (145 pages, One-hop)
 
-- [x] **100Hue** — `pages/Beauchamp/100Hue.md`
-- [x] **AFNI Install** — `pages/Beauchamp/AFNI_Install.md`
-- [x] **ALICE** — `pages/Beauchamp/ALICE.md`
-- [x] **ANOVAs in MATLAB** — `pages/Beauchamp/ANOVAs_in_MATLAB.md`
-- [x] **AayushiPreprocessingNotes** — `pages/Beauchamp/AayushiPreprocessingNotes.md`
-- [x] **ActivityMaps** — `pages/Beauchamp/ActivityMaps.md`
-- [x] **Adaptation** — `pages/Beauchamp/Adaptation.md`
-- [x] **Adaptation and CP** — `pages/Beauchamp/Adaptation_and_CP.md`
-- [x] **AuditoryTactile** — `pages/Beauchamp/AuditoryTactile.md`
-- [x] **Autism** — `pages/Beauchamp/Autism.md`
-- [x] **AutomatingAFNI** — `pages/Beauchamp/AutomatingAFNI.md`
-- [x] **AvailableDates** — `pages/Beauchamp/AvailableDates.md`
+- [x] **100Hue** — `pages/Beauchamp/Resources_and_Data_Sharing/100Hue.md`
+- [x] **AFNI Install** — `pages/Beauchamp/Data_Processing/AFNI_Install.md`
+- [x] **ALICE** — `pages/Beauchamp/Data_Processing/ALICE.md`
+- [x] **ANOVAs in MATLAB** — `pages/Beauchamp/Data_Processing/ANOVAs_in_MATLAB.md`
+- [x] **AayushiPreprocessingNotes** — `pages/Beauchamp/Data_Processing/AayushiPreprocessingNotes.md`
+- [x] **ActivityMaps** — `pages/Beauchamp/Data_Processing/ActivityMaps.md`
+- [x] **Adaptation** — `pages/Beauchamp/Data_Processing/Adaptation.md`
+- [x] **Adaptation and CP** — `pages/Beauchamp/Data_Processing/Adaptation_and_CP.md`
+- [x] **AuditoryTactile** — `pages/Beauchamp/Data_Processing/AuditoryTactile.md`
+- [x] **Autism** — `pages/Beauchamp/Data_Processing/Autism.md`
+- [x] **AutomatingAFNI** — `pages/Beauchamp/Data_Processing/AutomatingAFNI.md`
+- [x] **AvailableDates** — `pages/Beauchamp/Lab_Meetings_and_Notes/AvailableDates.md`
 - [x] **AvailableDates20132014** — `pages/Beauchamp/AvailableDates20132014.md`
 - [x] **AvailableDates20142015** — `pages/Beauchamp/AvailableDates20142015.md`
-- [x] **BrainPix** — `pages/Beauchamp/BrainPix.md`
-- [x] **BuffyElectrodeNotes** — `pages/Beauchamp/BuffyElectrodeNotes.md`
-- [x] **CAMRI PTS** — `pages/Beauchamp/CAMRI_PTS.md`
-- [x] **CIMS** — `pages/Beauchamp/CIMS.md`
-- [x] **CIMS McGurk** — `pages/Beauchamp/CIMS_McGurk.md`
-- [x] **CallingAFNISUMA** — `pages/Beauchamp/CallingAFNISUMA.md`
-- [x] **Caret** — `pages/Beauchamp/Caret.md`
-- [x] **Choice Probability** — `pages/Beauchamp/Choice_Probability.md`
-- [x] **ClinicalWorkflow** — `pages/Beauchamp/ClinicalWorkflow.md`
-- [x] **CorticalSurfaceHCP** — `pages/Beauchamp/CorticalSurfaceHCP.md`
-- [x] **CorticalSurfaceOverview** — `pages/Beauchamp/CorticalSurfaceOverview.md`
-- [x] **CreateAFNIBRIK** — `pages/Beauchamp/CreateAFNIBRIK.md`
-- [x] **CreateAFNIBRIKfromMR** — `pages/Beauchamp/CreateAFNIBRIKfromMR.md`
-- [x] **CreateCortSurfMod** — `pages/Beauchamp/CreateCortSurfMod.md`
+- [x] **BrainPix** — `pages/Beauchamp/Data_Processing/BrainPix.md`
+- [x] **BuffyElectrodeNotes** — `pages/Beauchamp/Data_Processing/BuffyElectrodeNotes.md`
+- [x] **CAMRI PTS** — `pages/Beauchamp/Lab_Meetings_and_Notes/CAMRI_PTS.md`
+- [x] **CIMS** — `pages/Beauchamp/Resources_and_Data_Sharing/CIMS.md`
+- [x] **CIMS McGurk** — `pages/Beauchamp/Resources_and_Data_Sharing/CIMS_McGurk.md`
+- [x] **CallingAFNISUMA** — `pages/Beauchamp/Data_Processing/CallingAFNISUMA.md`
+- [x] **Caret** — `pages/Beauchamp/Data_Processing/Caret.md`
+- [x] **Choice Probability** — `pages/Beauchamp/Data_Processing/Choice_Probability.md`
+- [x] **ClinicalWorkflow** — `pages/Beauchamp/Data_Processing/ClinicalWorkflow.md`
+- [x] **CorticalSurfaceHCP** — `pages/Beauchamp/Data_Processing/CorticalSurfaceHCP.md`
+- [x] **CorticalSurfaceOverview** — `pages/Beauchamp/Data_Processing/CorticalSurfaceOverview.md`
+- [x] **CreateAFNIBRIK** — `pages/Beauchamp/Data_Processing/CreateAFNIBRIK.md`
+- [x] **CreateAFNIBRIKfromMR** — `pages/Beauchamp/Data_Processing/CreateAFNIBRIKfromMR.md`
+- [x] **CreateCortSurfMod** — `pages/Beauchamp/Data_Processing/CreateCortSurfMod.md`
 - [x] **CreateCortSurfModOLD** — `pages/Beauchamp/CreateCortSurfModOLD.md`
-- [x] **CreateStndSurfMod** — `pages/Beauchamp/CreateStndSurfMod.md`
-- [x] **CreateStndSurfModNew** — `pages/Beauchamp/CreateStndSurfModNew.md`
-- [x] **Creating a Surface Model and Electrode Localization (by Muge Ozker Sertel)** — `pages/Beauchamp/Creating_a_Surface_Model_and_Electrode_Localization_(by_Muge_Ozker_Sertel).md`
-- [x] **DataSharing** — `pages/Beauchamp/DataSharing.md`
-- [x] **DetermineTract** — `pages/Beauchamp/DetermineTract.md`
-- [x] **DownloadDataPenn** — `pages/Beauchamp/DownloadDataPenn.md`
-- [x] **DrawingROIs** — `pages/Beauchamp/DrawingROIs.md`
-- [x] **ECogAnalysis** — `pages/Beauchamp/ECogAnalysis.md`
-- [x] **ECogAnalysisV2** — `pages/Beauchamp/ECogAnalysisV2.md`
-- [x] **EditingCortSurf** — `pages/Beauchamp/EditingCortSurf.md`
+- [x] **CreateStndSurfMod** — `pages/Beauchamp/Data_Processing/CreateStndSurfMod.md`
+- [x] **CreateStndSurfModNew** — `pages/Beauchamp/Data_Processing/CreateStndSurfModNew.md`
+- [x] **Creating a Surface Model and Electrode Localization (by Muge Ozker Sertel)** — `pages/Beauchamp/Data_Processing/Creating_a_Surface_Model_and_Electrode_Localization_(by_Muge_Ozker_Sertel).md`
+- [x] **DataSharing** — `pages/Beauchamp/Resources_and_Data_Sharing/DataSharing.md`
+- [x] **DetermineTract** — `pages/Beauchamp/Data_Processing/DetermineTract.md`
+- [x] **DownloadDataPenn** — `pages/Beauchamp/Data_Processing/DownloadDataPenn.md`
+- [x] **DrawingROIs** — `pages/Beauchamp/Data_Processing/DrawingROIs.md`
+- [x] **ECogAnalysis** — `pages/Beauchamp/Data_Processing/ECogAnalysis.md`
+- [x] **ECogAnalysisV2** — `pages/Beauchamp/Data_Processing/ECogAnalysisV2.md`
+- [x] **EditingCortSurf** — `pages/Beauchamp/Data_Processing/EditingCortSurf.md`
 - [x] **ElectiveNotes** — `pages/Beauchamp/ElectiveNotes.md`
-- [x] **Electrical Stimulation** — `pages/Beauchamp/Electrical_Stimulation.md`
-- [x] **Electrode Localization and Naming** — `pages/Beauchamp/Electrode_Localization_and_Naming.md`
-- [x] **Electrophysiology** — `pages/Beauchamp/Electrophysiology.md`
-- [x] **EyeTrackSetup** — `pages/Beauchamp/EyeTrackSetup.md`
-- [x] **Eye Tracker** — `pages/Beauchamp/Eye_Tracker.md`
-- [x] **FSAverageReadme** — `pages/Beauchamp/FSAverageReadme.md`
-- [x] **FSStndSurf** — `pages/Beauchamp/FSStndSurf.md`
-- [x] **FreeSurfer** — `pages/Beauchamp/FreeSurfer.md`
+- [x] **Electrical Stimulation** — `pages/Beauchamp/Data_Processing/Electrical_Stimulation.md`
+- [x] **Electrode Localization and Naming** — `pages/Beauchamp/Data_Processing/Electrode_Localization_and_Naming.md`
+- [x] **Electrophysiology** — `pages/Beauchamp/Data_Processing/Electrophysiology.md`
+- [x] **EyeTrackSetup** — `pages/Beauchamp/Data_Processing/EyeTrackSetup.md`
+- [x] **Eye Tracker** — `pages/Beauchamp/Data_Processing/Eye_Tracker.md`
+- [x] **FSAverageReadme** — `pages/Beauchamp/Data_Processing/FSAverageReadme.md`
+- [x] **FSStndSurf** — `pages/Beauchamp/Data_Processing/FSStndSurf.md`
+- [x] **FreeSurfer** — `pages/Beauchamp/Data_Processing/FreeSurfer.md`
 - [x] **GraduateNeuroanatomy** — `pages/Beauchamp/GraduateNeuroanatomy.md`
-- [x] **GroupAna** — `pages/Beauchamp/GroupAna.md`
-- [x] **HiResfMRI** — `pages/Beauchamp/HiResfMRI.md`
-- [x] **HowToScan** — `pages/Beauchamp/HowToScan.md`
-- [x] **IfCortModExists** — `pages/Beauchamp/IfCortModExists.md`
-- [x] **InflationMovies** — `pages/Beauchamp/InflationMovies.md`
-- [x] **InitialAutoVOIforIT** — `pages/Beauchamp/InitialAutoVOIforIT.md`
-- [x] **Lab Alums** — `pages/Beauchamp/Lab_Alums.md`
-- [x] **Lab Members** — `pages/Beauchamp/Lab_Members.md`
-- [x] **Lab Notebook** — `pages/Beauchamp/Lab_Notebook.md`
-- [x] **LocalizerStimuli** — `pages/Beauchamp/LocalizerStimuli.md`
-- [x] **MRI Data Analysis** — `pages/Beauchamp/MRI_Data_Analysis.md`
-- [x] **MVPA Notes** — `pages/Beauchamp/MVPA_Notes.md`
-- [x] **Making Grayscale From Color Images** — `pages/Beauchamp/Making_Grayscale_From_Color_Images.md`
-- [x] **MapIco** — `pages/Beauchamp/MapIco.md`
-- [x] **McGurk CI Stimuli McGurk** — `pages/Beauchamp/McGurk_CI_Stimuli_McGurk.md`
+- [x] **GroupAna** — `pages/Beauchamp/Data_Processing/GroupAna.md`
+- [x] **HiResfMRI** — `pages/Beauchamp/Data_Processing/HiResfMRI.md`
+- [x] **HowToScan** — `pages/Beauchamp/Data_Processing/HowToScan.md`
+- [x] **IfCortModExists** — `pages/Beauchamp/Data_Processing/IfCortModExists.md`
+- [x] **InflationMovies** — `pages/Beauchamp/Data_Processing/InflationMovies.md`
+- [x] **InitialAutoVOIforIT** — `pages/Beauchamp/Data_Processing/InitialAutoVOIforIT.md`
+- [x] **Lab Alums** — `pages/Beauchamp/Lab_Meetings_and_Notes/Lab_Alums.md`
+- [x] **Lab Members** — `pages/Beauchamp/Lab_Meetings_and_Notes/Lab_Members.md`
+- [x] **Lab Notebook** — `pages/Beauchamp/Lab_Meetings_and_Notes/Lab_Notebook.md`
+- [x] **LocalizerStimuli** — `pages/Beauchamp/Resources_and_Data_Sharing/LocalizerStimuli.md`
+- [x] **MRI Data Analysis** — `pages/Beauchamp/Data_Processing/MRI_Data_Analysis.md`
+- [x] **MVPA Notes** — `pages/Beauchamp/Data_Processing/MVPA_Notes.md`
+- [x] **Making Grayscale From Color Images** — `pages/Beauchamp/Resources_and_Data_Sharing/Making_Grayscale_From_Color_Images.md`
+- [x] **MapIco** — `pages/Beauchamp/Data_Processing/MapIco.md`
+- [x] **McGurk CI Stimuli McGurk** — `pages/Beauchamp/Resources_and_Data_Sharing/McGurk_CI_Stimuli_McGurk.md`
 - [x] **MedNSLab** — `pages/Beauchamp/MedNSLab.md`
 - [x] **MedNSLabNotes** — `pages/Beauchamp/MedNSLabNotes.md`
-- [x] **MotionCorrection** — `pages/Beauchamp/MotionCorrection.md`
-- [x] **NED** — `pages/Beauchamp/NED.md`
-- [x] **NIRS** — `pages/Beauchamp/NIRS.md`
+- [x] **MotionCorrection** — `pages/Beauchamp/Data_Processing/MotionCorrection.md`
+- [x] **NED** — `pages/Beauchamp/Resources_and_Data_Sharing/NED.md`
+- [x] **NIRS** — `pages/Beauchamp/Data_Processing/NIRS.md`
 - [x] **NeuroimagingElective** — `pages/Beauchamp/NeuroimagingElective.md`
-- [x] **NewEyeTrackSetup** — `pages/Beauchamp/NewEyeTrackSetup.md`
+- [x] **NewEyeTrackSetup** — `pages/Beauchamp/Data_Processing/NewEyeTrackSetup.md`
 - [x] **Old Protocols** — `pages/Beauchamp/Old_Protocols.md`
-- [x] **Ordering** — `pages/Beauchamp/Ordering.md`
-- [x] **Orientation** — `pages/Beauchamp/Orientation.md`
-- [x] **PennMcGurkBattery** — `pages/Beauchamp/PennMcGurkBattery.md`
-- [x] **Perceptual Biasing** — `pages/Beauchamp/Perceptual_Biasing.md`
-- [x] **Playback Rate** — `pages/Beauchamp/Playback_Rate.md`
-- [x] **PositionsAvailable** — `pages/Beauchamp/PositionsAvailable.md`
-- [x] **PrepCortSurfModels** — `pages/Beauchamp/PrepCortSurfModels.md`
+- [x] **Ordering** — `pages/Beauchamp/Lab_Meetings_and_Notes/Ordering.md`
+- [x] **Orientation** — `pages/Beauchamp/Lab_Meetings_and_Notes/Orientation.md`
+- [x] **PennMcGurkBattery** — `pages/Beauchamp/Resources_and_Data_Sharing/PennMcGurkBattery.md`
+- [x] **Perceptual Biasing** — `pages/Beauchamp/Data_Processing/Perceptual_Biasing.md`
+- [x] **Playback Rate** — `pages/Beauchamp/Resources_and_Data_Sharing/Playback_Rate.md`
+- [x] **PositionsAvailable** — `pages/Beauchamp/Publications_and_Talks/PositionsAvailable.md`
+- [x] **PrepCortSurfModels** — `pages/Beauchamp/Data_Processing/PrepCortSurfModels.md`
 - [x] **PrepCortSurfModelsOLD** — `pages/Beauchamp/PrepCortSurfModelsOLD.md`
-- [x] **Presurgical Scanning** — `pages/Beauchamp/Presurgical_Scanning.md`
-- [x] **PrintingBrains** — `pages/Beauchamp/PrintingBrains.md`
-- [x] **ProcessDiffTensImgData** — `pages/Beauchamp/ProcessDiffTensImgData.md`
-- [x] **ProjectionNotes** — `pages/Beauchamp/ProjectionNotes.md`
-- [x] **Projects** — `pages/Beauchamp/Projects.md`
-- [x] **Publications** — `pages/Beauchamp/Publications.md`
-- [x] **RAVE** — `pages/Beauchamp/RAVE.md`
+- [x] **Presurgical Scanning** — `pages/Beauchamp/Data_Processing/Presurgical_Scanning.md`
+- [x] **PrintingBrains** — `pages/Beauchamp/Data_Processing/PrintingBrains.md`
+- [x] **ProcessDiffTensImgData** — `pages/Beauchamp/Data_Processing/ProcessDiffTensImgData.md`
+- [x] **ProjectionNotes** — `pages/Beauchamp/Data_Processing/ProjectionNotes.md`
+- [x] **Projects** — `pages/Beauchamp/Publications_and_Talks/Projects.md`
+- [x] **Publications** — `pages/Beauchamp/Publications_and_Talks/Publications.md`
+- [x] **RAVE** — `pages/Beauchamp/Data_Processing/RAVE.md`
 - [x] **RAVE:AWS** — `pages/Beauchamp/RAVE:AWS.md`
-- [x] **RAVE:Cluster** — `pages/Beauchamp/RAVE:Cluster.md`
-- [x] **RAVE:Condition Explorer** — `pages/Beauchamp/RAVE:Condition_Explorer.md`
-- [x] **RAVE:Module Builder** — `pages/Beauchamp/RAVE:Module_Builder.md`
-- [x] **ROIanalysis** — `pages/Beauchamp/ROIanalysis.md`
-- [x] **RaceModel** — `pages/Beauchamp/RaceModel.md`
-- [x] **RandomStimulus** — `pages/Beauchamp/RandomStimulus.md`
-- [x] **RealTimefMRI** — `pages/Beauchamp/RealTimefMRI.md`
-- [x] **Receptive Field Mapping** — `pages/Beauchamp/Receptive_Field_Mapping.md`
-- [x] **Reconstruction and Electrode Labeling (UPenn)** — `pages/Beauchamp/Reconstruction_and_Electrode_Labeling_(UPenn).md`
-- [x] **RestingState** — `pages/Beauchamp/RestingState.md`
-- [x] **RetinotopicMapping** — `pages/Beauchamp/RetinotopicMapping.md`
-- [x] **Retinotopy** — `pages/Beauchamp/Retinotopy.md`
-- [x] **SUMA** — `pages/Beauchamp/SUMA.md`
-- [x] **Selectivity** — `pages/Beauchamp/Selectivity.md`
-- [x] **Setup Apparatus** — `pages/Beauchamp/Setup_Apparatus.md`
+- [x] **RAVE:Cluster** — `pages/Beauchamp/Data_Processing/RAVE:Cluster.md`
+- [x] **RAVE:Condition Explorer** — `pages/Beauchamp/Data_Processing/RAVE:Condition_Explorer.md`
+- [x] **RAVE:Module Builder** — `pages/Beauchamp/Data_Processing/RAVE:Module_Builder.md`
+- [x] **ROIanalysis** — `pages/Beauchamp/Data_Processing/ROIanalysis.md`
+- [x] **RaceModel** — `pages/Beauchamp/Resources_and_Data_Sharing/RaceModel.md`
+- [x] **RandomStimulus** — `pages/Beauchamp/Resources_and_Data_Sharing/RandomStimulus.md`
+- [x] **RealTimefMRI** — `pages/Beauchamp/Data_Processing/RealTimefMRI.md`
+- [x] **Receptive Field Mapping** — `pages/Beauchamp/Data_Processing/Receptive_Field_Mapping.md`
+- [x] **Reconstruction and Electrode Labeling (UPenn)** — `pages/Beauchamp/Data_Processing/Reconstruction_and_Electrode_Labeling_(UPenn).md`
+- [x] **RestingState** — `pages/Beauchamp/Data_Processing/RestingState.md`
+- [x] **RetinotopicMapping** — `pages/Beauchamp/Data_Processing/RetinotopicMapping.md`
+- [x] **Retinotopy** — `pages/Beauchamp/Data_Processing/Retinotopy.md`
+- [x] **SUMA** — `pages/Beauchamp/Data_Processing/SUMA.md`
+- [x] **Selectivity** — `pages/Beauchamp/Data_Processing/Selectivity.md`
+- [x] **Setup Apparatus** — `pages/Beauchamp/Data_Processing/Setup_Apparatus.md`
 - [x] **ShortCourse2010** — `pages/Beauchamp/ShortCourse2010.md`
 - [x] **ShortCourse2010Participants** — `pages/Beauchamp/ShortCourse2010Participants.md`
-- [x] **Shut Down Apparatus** — `pages/Beauchamp/Shut_Down_Apparatus.md`
-- [x] **Software Installation** — `pages/Beauchamp/Software_Installation.md`
+- [x] **Shut Down Apparatus** — `pages/Beauchamp/Data_Processing/Shut_Down_Apparatus.md`
+- [x] **Software Installation** — `pages/Beauchamp/Data_Processing/Software_Installation.md`
 - [x] **Software Installation OLD** — `pages/Beauchamp/Software_Installation_OLD.md`
-- [x] **Stimuli** — `pages/Beauchamp/Stimuli.md`
-- [x] **Subjects** — `pages/Beauchamp/Subjects.md`
-- [x] **SurfDist** — `pages/Beauchamp/SurfDist.md`
-- [x] **SurfaceAveraging** — `pages/Beauchamp/SurfaceAveraging.md`
-- [x] **SurfaceMetrics** — `pages/Beauchamp/SurfaceMetrics.md`
-- [x] **SurfaceModelsPrinting** — `pages/Beauchamp/SurfaceModelsPrinting.md`
+- [x] **Stimuli** — `pages/Beauchamp/Resources_and_Data_Sharing/Stimuli.md`
+- [x] **Subjects** — `pages/Beauchamp/Lab_Meetings_and_Notes/Subjects.md`
+- [x] **SurfDist** — `pages/Beauchamp/Data_Processing/SurfDist.md`
+- [x] **SurfaceAveraging** — `pages/Beauchamp/Data_Processing/SurfaceAveraging.md`
+- [x] **SurfaceMetrics** — `pages/Beauchamp/Data_Processing/SurfaceMetrics.md`
+- [x] **SurfaceModelsPrinting** — `pages/Beauchamp/Data_Processing/SurfaceModelsPrinting.md`
 - [x] **TCH** — `pages/Beauchamp/TCH.md`
-- [x] **TMS** — `pages/Beauchamp/TMS.md`
-- [x] **TMSOverview** — `pages/Beauchamp/TMSOverview.md`
-- [x] **Tactile Experiment Notes** — `pages/Beauchamp/Tactile_Experiment_Notes.md`
-- [x] **Teaching** — `pages/Beauchamp/Teaching.md`
+- [x] **TMS** — `pages/Beauchamp/Data_Processing/TMS.md`
+- [x] **TMSOverview** — `pages/Beauchamp/Data_Processing/TMSOverview.md`
+- [x] **Tactile Experiment Notes** — `pages/Beauchamp/Data_Processing/Tactile_Experiment_Notes.md`
+- [x] **Teaching** — `pages/Beauchamp/Lab_Meetings_and_Notes/Teaching.md`
 - [x] **TeachingOld** — `pages/Beauchamp/TeachingOld.md`
-- [x] **TensorECOG** — `pages/Beauchamp/TensorECOG.md`
-- [x] **Tobii** — `pages/Beauchamp/Tobii.md`
-- [x] **Unwarping** — `pages/Beauchamp/Unwarping.md`
-- [x] **UseCortSurfMod** — `pages/Beauchamp/UseCortSurfMod.md`
+- [x] **TensorECOG** — `pages/Beauchamp/Data_Processing/TensorECOG.md`
+- [x] **Tobii** — `pages/Beauchamp/Data_Processing/Tobii.md`
+- [x] **Unwarping** — `pages/Beauchamp/Data_Processing/Unwarping.md`
+- [x] **UseCortSurfMod** — `pages/Beauchamp/Data_Processing/UseCortSurfMod.md`
 - [x] **UseCortSurfModOLD** — `pages/Beauchamp/UseCortSurfModOLD.md`
-- [x] **UsingTORTOISE** — `pages/Beauchamp/UsingTORTOISE.md`
-- [x] **VibrationArtifacts** — `pages/Beauchamp/VibrationArtifacts.md`
-- [x] **VideoStimulusCreation** — `pages/Beauchamp/VideoStimulusCreation.md`
-- [x] **VolAverage** — `pages/Beauchamp/VolAverage.md`
-- [x] **WUES** — `pages/Beauchamp/WUES.md`
-- [x] **ZillesAtlasValues** — `pages/Beauchamp/ZillesAtlasValues.md`
+- [x] **UsingTORTOISE** — `pages/Beauchamp/Data_Processing/UsingTORTOISE.md`
+- [x] **VibrationArtifacts** — `pages/Beauchamp/Data_Processing/VibrationArtifacts.md`
+- [x] **VideoStimulusCreation** — `pages/Beauchamp/Resources_and_Data_Sharing/VideoStimulusCreation.md`
+- [x] **VolAverage** — `pages/Beauchamp/Data_Processing/VolAverage.md`
+- [x] **WUES** — `pages/Beauchamp/Lab_Meetings_and_Notes/WUES.md`
+- [x] **ZillesAtlasValues** — `pages/Beauchamp/Data_Processing/ZillesAtlasValues.md`
 - [x] ** Creating a Surface Model and Electrode Localization (by Muge Ozker Sertel)** — `pages/Beauchamp/_Creating_a_Surface_Model_and_Electrode_Localization_(by_Muge_Ozker_Sertel).md`
 - [x] ** iEEG EMU SOP** — `pages/Beauchamp/_iEEG_EMU_SOP.md`
-- [x] **anovan** — `pages/Beauchamp/anovan.md`
-- [x] **dprime** — `pages/Beauchamp/dprime.md`
-- [x] **fMRIOverview** — `pages/Beauchamp/fMRIOverview.md`
-- [x] **iEEGWorkflow** — `pages/Beauchamp/iEEGWorkflow.md`
-- [x] **iEEGWorkflow2** — `pages/Beauchamp/iEEGWorkflow2.md`
-- [x] **iEEG EMU MATLAB SOP** — `pages/Beauchamp/iEEG_EMU_MATLAB_SOP.md`
-- [x] **iEEG EMU SOP** — `pages/Beauchamp/iEEG_EMU_SOP.md`
-- [x] **iELVIS** — `pages/Beauchamp/iELVIS.md`
-- [x] **img pipe** — `pages/Beauchamp/img_pipe.md`
+- [x] **anovan** — `pages/Beauchamp/Data_Processing/anovan.md`
+- [x] **dprime** — `pages/Beauchamp/Data_Processing/dprime.md`
+- [x] **fMRIOverview** — `pages/Beauchamp/Data_Processing/fMRIOverview.md`
+- [x] **iEEGWorkflow** — `pages/Beauchamp/Data_Processing/iEEGWorkflow.md`
+- [x] **iEEGWorkflow2** — `pages/Beauchamp/Data_Processing/iEEGWorkflow2.md`
+- [x] **iEEG EMU MATLAB SOP** — `pages/Beauchamp/Data_Processing/iEEG_EMU_MATLAB_SOP.md`
+- [x] **iEEG EMU SOP** — `pages/Beauchamp/Data_Processing/iEEG_EMU_SOP.md`
+- [x] **iELVIS** — `pages/Beauchamp/Data_Processing/iELVIS.md`
+- [x] **img pipe** — `pages/Beauchamp/Data_Processing/img_pipe.md`
 - [x] **index** — `pages/Beauchamp/index.md`
-- [x] **transcription** — `pages/Beauchamp/transcription.md`
-- [x] **word stimuli** — `pages/Beauchamp/word_stimuli.md`
+- [x] **transcription** — `pages/Beauchamp/Data_Processing/transcription.md`
+- [x] **word stimuli** — `pages/Beauchamp/Resources_and_Data_Sharing/word_stimuli.md`
 
 ## BeauchampLab (1 pages, One-hop)
 

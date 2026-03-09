@@ -9,9 +9,9 @@ date_created: "{{DATE:YYYY-MM-DD}}"
 _Date created: {{DATE:YYYY-MM-DD}}_
 
 > Quick Access
-> - [Home](index.md "Beauchamp")
-> - [Publications](Publications.md "Beauchamp:Publications")
-> - [Resources](DataSharing.md "Beauchamp:DataSharing")
+> - [Home](../index.md "Beauchamp")
+> - [Publications](../Publications_and_Talks/Publications.md "Beauchamp:Publications")
+> - [Resources](../Resources_and_Data_Sharing/DataSharing.md "Beauchamp:DataSharing")
 
 
 

@@ -22,7 +22,7 @@ parent: Karas Lab
 
 RAVE currently (as of December 2021) does not have integrated CT and MRI co-registration, so it is necessary to complete these steps separately. Our current pipeline uses FreeSurfer to reconstruct the pial surface and iELVis to coregister the images.
 
-The steps for this can be found at [Beauchamp:BuffyElectrodeNotes](Beauchamp/BuffyElectrodeNotes.md "Beauchamp:BuffyElectrodeNotes"). You will need to install the [prerequisites](../Beauchamp/BuffyElectrodeNotes.md#Prerequisites "Beauchamp:BuffyElectrodeNotes") (except for BioImage Suite), and then follow the steps from [Starting Electrode Localization](../Beauchamp/BuffyElectrodeNotes.md#Starting_Electrode_Localization "Beauchamp:BuffyElectrodeNotes") to [CT Alignment](../Beauchamp/BuffyElectrodeNotes.md#CT_alignment "Beauchamp:BuffyElectrodeNotes").
+The steps for this can be found at [Beauchamp:BuffyElectrodeNotes](../Beauchamp/Data_Processing/BuffyElectrodeNotes.md "Beauchamp:BuffyElectrodeNotes"). You will need to install the [prerequisites](../Beauchamp/Data_Processing/BuffyElectrodeNotes.md#Prerequisites "Beauchamp:BuffyElectrodeNotes") (except for BioImage Suite), and then follow the steps from [Starting Electrode Localization](../Beauchamp/Data_Processing/BuffyElectrodeNotes.md#Starting_Electrode_Localization "Beauchamp:BuffyElectrodeNotes") to [CT Alignment](../Beauchamp/Data_Processing/BuffyElectrodeNotes.md#CT_alignment "Beauchamp:BuffyElectrodeNotes").
 
 ## Electrode Localization in RAVE
 
@@ -48,7 +48,7 @@ After a few seconds, this should load RAVE's electrode localization WebUI. [Here
 
 ## Pre-RAVE processing
 
-Note: these tips are meant to be a supplement to the instructions on [Beauchamp:BuffyElectrodeNotes](Beauchamp/BuffyElectrodeNotes.md "Beauchamp:BuffyElectrodeNotes"). Make sure that you have followed all the steps there first, and check the [troubleshooting](../Beauchamp/BuffyElectrodeNotes.md#Troubleshooting "Beauchamp:BuffyElectrodeNotes") tips there as well.
+Note: these tips are meant to be a supplement to the instructions on [Beauchamp:BuffyElectrodeNotes](../Beauchamp/Data_Processing/BuffyElectrodeNotes.md "Beauchamp:BuffyElectrodeNotes"). Make sure that you have followed all the steps there first, and check the [troubleshooting](../Beauchamp/Data_Processing/BuffyElectrodeNotes.md#Troubleshooting "Beauchamp:BuffyElectrodeNotes") tips there as well.
 
 ### Change shell to BASH
 
@@ -60,7 +60,7 @@ chsh -s /bin/bash
 
 ### .bashrc vs .bash\_profile?
 
-[Buffy's Electrode Notes](../Beauchamp/BuffyElectrodeNotes.md#BASH "Beauchamp:BuffyElectrodeNotes") say to create a .bashrc file, but doing the same things except in a .bash\_profile file is what worked for me on MacOS. Apparently this is because .bashrc is for interactive non-login shells while .bash\_profile is for login shells, and opening Terminal in OS X defaults to running a login shell. Here is what's in my .bash\_profile file. Note that your directories/filepaths may be different from mine, depending on where you installed FreeSurfer and where you downloaded the iELVis-master folder.
+[Buffy's Electrode Notes](../Beauchamp/Data_Processing/BuffyElectrodeNotes.md#BASH "Beauchamp:BuffyElectrodeNotes") say to create a .bashrc file, but doing the same things except in a .bash\_profile file is what worked for me on MacOS. Apparently this is because .bashrc is for interactive non-login shells while .bash\_profile is for login shells, and opening Terminal in OS X defaults to running a login shell. Here is what's in my .bash\_profile file. Note that your directories/filepaths may be different from mine, depending on where you installed FreeSurfer and where you downloaded the iELVis-master folder.
 
 ```
 # SETUP iELVis Freesurfer

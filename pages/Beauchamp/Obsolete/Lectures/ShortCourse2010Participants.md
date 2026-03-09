@@ -11,13 +11,13 @@ grand_parent: Obsolete
 | --- | --- |
 |  | Beauchamp Lab wiki |
 
-- [Home](index.md "Beauchamp")
-- [Publications](Publications.md "Beauchamp:Publications")
-- [Resources](DataSharing.md "Beauchamp:DataSharing")
+- [Home](../../index.md)
+- [Publications](../../Publications_and_Talks/Publications.md "Beauchamp:Publications")
+- [Resources](../../Resources_and_Data_Sharing/DataSharing.md "Beauchamp:DataSharing")
 
 ## AFNI Short Course 2010 Participant Info Page
 
-![caption](../../attachments/ShortCourse2010Participants/Beauchampposter.jpg)
+![caption](../../../../attachments/ShortCourse2010Participants/Beauchampposter.jpg)
 
 Please write a few sentences about yourself and your research interests under your name, below. Feel free to include a link to your web page, if applicable, or upload your cv or a picture. To make changes, click in the login button at the top of the screen, then the user name is beauchamplab@gmail.com and the password is science.
 

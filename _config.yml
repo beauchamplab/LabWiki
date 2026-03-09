@@ -62,6 +62,7 @@ exclude:
   - vendor/
   - pages/TODO.md
   - pages/BROKEN_LINKS.md
+  - templates/
 
 # Plugins
 plugins:

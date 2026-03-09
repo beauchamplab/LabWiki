@@ -11,9 +11,9 @@ grand_parent: Obsolete
 | --- | --- |
 |  | Beauchamp Lab wiki |
 
-- [Home](index.md "Beauchamp")
-- [Publications](Publications.md "Beauchamp:Publications")
-- [Resources](DataSharing.md "Beauchamp:DataSharing")
+- [Home](../../index.md)
+- [Publications](../../Publications_and_Talks/Publications.md "Beauchamp:Publications")
+- [Resources](../../Resources_and_Data_Sharing/DataSharing.md "Beauchamp:DataSharing")
 
 This is the web page for information about the neuroimaging elective for fourth-year medical students at the University of Texas Medical School at Houston. In the 2010-2011 academic year, the course will be offered in November, December and January. **Each month, all students are required to attend the first meeting of the course.**
 
