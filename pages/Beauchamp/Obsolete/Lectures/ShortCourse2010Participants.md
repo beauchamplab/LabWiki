@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "ShortCourse2010Participants"
-parent: Beauchamp
+parent: Lectures
+grand_parent: Obsolete
 ---
 # ShortCourse2010Participants
 

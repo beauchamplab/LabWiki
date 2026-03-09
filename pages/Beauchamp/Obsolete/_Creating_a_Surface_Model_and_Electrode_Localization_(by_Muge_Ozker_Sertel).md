@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Creating a Surface Model and Electrode Localization (by Muge Ozker Sertel)"
-parent: Beauchamp
+parent: Obsolete
+grand_parent: Beauchamp
 ---
 # Creating a Surface Model and Electrode Localization (by Muge Ozker Sertel)
 

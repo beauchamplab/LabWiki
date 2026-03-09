@@ -1,8 +1,9 @@
 ---
 layout: default
 title: RAVE
-nav_order: 3
+nav_order: 1
 has_children: true
+parent: Other Wikis
 permalink: /pages/RAVE
 ---
 

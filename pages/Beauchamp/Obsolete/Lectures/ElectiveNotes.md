@@ -1,14 +1,15 @@
 ---
 layout: default
 title: "ElectiveNotes"
-parent: Beauchamp
+parent: Lectures
+grand_parent: Obsolete
 ---
 # ElectiveNotes
 
 
 #### MS4 Neuroimaging Elective: BSCI 4008
 
-[Web page for fourth-year neuroimaging elective](NeuroimagingElective.md "Beauchamp:NeuroimagingElective")
+[Web page for fourth-year neuroimaging elective](../../Obsolete/Lectures/NeuroimagingElective.md "Beauchamp:NeuroimagingElective")
 
 In the 2nd week of the month before the elective, create the course web page in blackboard.
 Just copy the page to a new page and rename it. Must manually set up all of the sub-pages (check with BB admin, may be a better way to do this).

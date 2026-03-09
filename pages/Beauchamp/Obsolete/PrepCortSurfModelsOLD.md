@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "PrepCortSurfModelsOLD"
-parent: Beauchamp
+parent: Obsolete
+grand_parent: Beauchamp
 ---
 # PrepCortSurfModelsOLD
 

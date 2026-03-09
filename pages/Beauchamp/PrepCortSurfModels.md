@@ -99,9 +99,9 @@ e.g.
 
 For web pages describing the previous method, please see
 
-1. [OLD version of Preparation for Creating Cortical Surface Models](PrepCortSurfModelsOLD.md)
-2. [OLD version of Creating Cortical Surface Models](CreateCortSurfModOLD.md)
-3. [OLD version of finishing and using Cortical Surface Models](UseCortSurfModOLD.md)
+1. [OLD version of Preparation for Creating Cortical Surface Models](Obsolete/PrepCortSurfModelsOLD.md)
+2. [OLD version of Creating Cortical Surface Models](Obsolete/CreateCortSurfModOLD.md)
+3. [OLD version of finishing and using Cortical Surface Models](Obsolete/UseCortSurfModOLD.md)
 
 ## Details of the commands
 

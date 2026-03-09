@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "TCH"
-parent: Beauchamp
+parent: Lectures
+grand_parent: Obsolete
 ---
 # TCH
 

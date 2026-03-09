@@ -76,7 +76,7 @@ When you create your LabArchives account, make sure to use your PennKey@upenn.ed
 
 ## Cross Modal Task
 
-1. [Instructions for EMU Patients\_SOP (by Aayushi Sangani)](_iEEG_EMU_SOP.md "Beauchamp: iEEG EMU SOP")
+1. [Instructions for EMU Patients\_SOP (by Aayushi Sangani)](Obsolete/_iEEG_EMU_SOP.md "Beauchamp: iEEG EMU SOP")
 
 ## Psychophysics and Stimulus Creation
 

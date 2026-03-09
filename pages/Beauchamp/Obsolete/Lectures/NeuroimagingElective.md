@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "NeuroimagingElective"
-parent: Beauchamp
+parent: Lectures
+grand_parent: Obsolete
 ---
 # NeuroimagingElective
 
@@ -29,4 +30,4 @@ In order to ensure a high-quality educational experience for all students we can
 
 Here is the official description of the course in the course catalog: <http://med.uth.tmc.edu/administration/student/catalog/10/BasicScience/BSCI4008.pdf>
 
-misc teaching notes: [Beauchamp:ElectiveNotes](ElectiveNotes.md)
+misc teaching notes: [Beauchamp:ElectiveNotes](../../Obsolete/Lectures/ElectiveNotes.md)

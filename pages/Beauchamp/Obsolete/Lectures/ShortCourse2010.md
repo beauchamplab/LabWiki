@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "ShortCourse2010"
-parent: Beauchamp
+parent: Lectures
+grand_parent: Obsolete
 ---
 # ShortCourse2010
 
@@ -24,7 +25,7 @@ The AFNI BootCamp is a week-long hands-on course on AFNI, a widely-used software
 
 [Click here to download a PDF of the course schedule.](../../attachments/ShortCourse2010/Bootcamp_sched_Houston2010.pdf "Bootcamp sched Houston2010.pdf")
 
-[Click here for more information on the participants](ShortCourse2010Participants.md)
+[Click here for more information on the participants](../../Obsolete/Lectures/ShortCourse2010Participants.md)
 
 [Click here to download a PDF of the course poster.](../../attachments/ShortCourse2010/Beauchampposter.pdf "Beauchampposter.pdf")
 
@@ -60,7 +61,7 @@ The course will be in the largest classroom in the basement of the UT Medical Sc
 
 ## Confirmed Participants
 
-[Click here for more information on the participants](ShortCourse2010Participants.md)
+[Click here for more information on the participants](../../Obsolete/Lectures/ShortCourse2010Participants.md)
 
 The following is a list of all confirmed participants and their affiliations. There is limited seating in the classroom (UT MSB B.645; 66 seats total - 5 seats for instructors = 61 seats for students), and there is no additional space available for a remote or video overflow room. Because of the high demand for the course, it will likely be offered again in the future.
 

@@ -14,7 +14,7 @@ parent: Beauchamp
 - [Publications](Publications.md "Beauchamp:Publications")
 - [Resources](DataSharing.md "Beauchamp:DataSharing")
 
-[Old Protocols](Old_Protocols.md)
+[Old Protocols](Obsolete/Old_Protocols.md)
 
 ## September 2008 E-Phys Protocol
 

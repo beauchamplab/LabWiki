@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "TeachingOld"
-parent: Beauchamp
+parent: Obsolete
+grand_parent: Beauchamp
 ---
 # TeachingOld
 
@@ -85,11 +86,11 @@ After Fall 2014, the course will undergo substantial renovation. It will be rena
 
 ## GS14 1181: Graduate Neuroanatomy
 
-Fall/annually/1-credit hour course. The Graduate Neuroanatomy course will provide a broad overview of the structure and function of the central nervous system. The general architecture of the nervous system and its functional systems are presented in a series of online exercises. The exercises allow the students to examine brain anatomy at a detailed view of the regional anatomy of the brain and spinal cord. MRIs of brain anatomy, as commonly presented in the scientific literature, will be presented using a computerized learning system. [Click here for web page for Graduate Neuroanatomy Course](GraduateNeuroanatomy.md)
+Fall/annually/1-credit hour course. The Graduate Neuroanatomy course will provide a broad overview of the structure and function of the central nervous system. The general architecture of the nervous system and its functional systems are presented in a series of online exercises. The exercises allow the students to examine brain anatomy at a detailed view of the regional anatomy of the brain and spinal cord. MRIs of brain anatomy, as commonly presented in the scientific literature, will be presented using a computerized learning system. [Click here for web page for Graduate Neuroanatomy Course](../Obsolete/Lectures/GraduateNeuroanatomy.md)
 
 ## Medical Neuroscience
 
-Click here for [Teaching Material for Medical Neuroscience Laboratory Course](MedNSLab.md)
+Click here for [Teaching Material for Medical Neuroscience Laboratory Course](../Obsolete/Lectures/MedNSLab.md)
 
 Here are slides presented for Medical Neuroscience in 2012
 
@@ -144,7 +145,7 @@ UT Graduate Cognitive Neuroscience (Anne Sereno, course director)
 
 ## Other Notes and Old Courses
 
-[AFNI Boot Camp organized in Fall 2010](ShortCourse2010.md)
+[AFNI Boot Camp organized in Fall 2010](../Obsolete/Lectures/ShortCourse2010.md)
 
 Here are slides presented in June 2012 at the Institute of Psychology of the Chinese Academy of Sciences
 
@@ -167,13 +168,13 @@ A free iPhone app from the Cold Spring Harbor Laboratory allows 3D visualization
 
 A web-based version of the same app may be seen at <http://www.g2conline.org/>
 
-misc teaching notes: [Beauchamp:MedNSLabNotes](MedNSLabNotes.md)
+misc teaching notes: [Beauchamp:MedNSLabNotes](../Obsolete/Lectures/MedNSLabNotes.md)
 
-[Web page for previously-offered fourth-year neuroimaging elective](NeuroimagingElective.md) Dr. Bob Cox, the Director of the Scientific and Statistical Computing Core at the National Institute of Mental Health Intramural Research Program visited Houston on October 4-8, 2010. Together with his staff, Dr. Cox taught a 5-day course on fMRI data analysis with the AFNI software package. [Click for more information on the short course](ShortCourse2010.md)
+[Web page for previously-offered fourth-year neuroimaging elective](../Obsolete/Lectures/NeuroimagingElective.md) Dr. Bob Cox, the Director of the Scientific and Statistical Computing Core at the National Institute of Mental Health Intramural Research Program visited Houston on October 4-8, 2010. Together with his staff, Dr. Cox taught a 5-day course on fMRI data analysis with the AFNI software package. [Click for more information on the short course](../Obsolete/Lectures/ShortCourse2010.md)
 
 A second course offered by Dr. Beauchamp is titled "Advanced Seminars in Neuroimaging". This is an advanced course for students who have already taken Introduction to fMRI.
 
-Click here for information about a lecture on fMRI delivered at Texas Children's Hospital on December 2nd, 2009: [TCH Lecture](TCH.md)
+Click here for information about a lecture on fMRI delivered at Texas Children's Hospital on December 2nd, 2009: [TCH Lecture](../Obsolete/Lectures/TCH.md)
 
 A GSBS course on MRI physics is shown here <http://www.uthgsbsmedphys.org/GS02-0193/default_2009.htm>
 

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Software Installation OLD"
-parent: Beauchamp
+parent: Obsolete
+grand_parent: Beauchamp
 ---
 # Software Installation OLD
 

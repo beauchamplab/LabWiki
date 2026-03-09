@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "AWS"
-parent: Beauchamp
+parent: Obsolete
+grand_parent: Beauchamp
 ---
 
 # AWS

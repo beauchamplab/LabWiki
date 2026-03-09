@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "MedNSLab"
-parent: Beauchamp
+parent: Lectures
+grand_parent: Obsolete
 ---
 # MedNSLab
 

@@ -18,6 +18,13 @@ NAMESPACE_PARENTS = {
     'Karas_Lab': 'Karas Lab',
 }
 
+# Mapping of subdirectory paths (relative to pages/) to (parent, grand_parent)
+SUBDIR_PARENTS = {
+    'Beauchamp/Obsolete': ('Obsolete', 'Beauchamp'),
+    'Beauchamp/Obsolete/Lectures': ('Lectures', 'Obsolete'),
+    'Beauchamp/Brain Stimulation': ('Brain Stimulation', 'Beauchamp'),
+}
+
 def extract_title_from_content(content):
     """Extract title from the first H1 heading in markdown."""
     # Look for first H1 heading
@@ -46,7 +53,7 @@ def remove_navigation_header(content):
     content = re.sub(pattern, '', content, flags=re.MULTILINE)
     return content
 
-def add_front_matter(filepath, parent=None):
+def add_front_matter(filepath, parent=None, grand_parent=None):
     """Add YAML front matter to a markdown file."""
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
@@ -71,6 +78,8 @@ def add_front_matter(filepath, parent=None):
     
     if parent:
         front_matter.append(f'parent: {parent}')
+    if grand_parent:
+        front_matter.append(f'grand_parent: {grand_parent}')
     
     front_matter.append('---')
     front_matter.append('')  # Blank line after front matter
@@ -94,7 +103,32 @@ def process_directory(base_path):
         'nav_removed': 0,
     }
     
-    # Process namespace directories
+    # Process subdirectories first (more specific paths take priority)
+    for subdir_rel, (parent_title, grand_parent_title) in SUBDIR_PARENTS.items():
+        subdir = base / subdir_rel
+        if not subdir.exists():
+            print(f"Warning: {subdir} does not exist")
+            continue
+        
+        print(f"\nProcessing {subdir_rel}/ directory...")
+        for md_file in sorted(subdir.glob('*.md')):
+            result = add_front_matter(md_file, parent=parent_title, grand_parent=grand_parent_title)
+            if result:
+                processed, nav_removed = result
+                if processed:
+                    stats['processed'] += 1
+                    if nav_removed:
+                        stats['nav_removed'] += 1
+                    print(f"  ✓ {md_file.name}")
+            else:
+                stats['skipped'] += 1
+    
+    # Track processed subdirectory paths to avoid double-processing
+    subdir_paths = set()
+    for subdir_rel in SUBDIR_PARENTS:
+        subdir_paths.add(base / subdir_rel)
+    
+    # Process namespace directories (top-level only, skip subdirs already processed)
     for namespace, parent_title in NAMESPACE_PARENTS.items():
         namespace_dir = base / namespace
         if not namespace_dir.exists():
@@ -103,6 +137,9 @@ def process_directory(base_path):
         
         print(f"\nProcessing {namespace}/ directory...")
         for md_file in sorted(namespace_dir.glob('*.md')):
+            # Skip files in subdirectories (already handled above)
+            if any(md_file.parent == sp or str(md_file.parent).startswith(str(sp) + os.sep) for sp in subdir_paths):
+                continue
             result = add_front_matter(md_file, parent=parent_title)
             if result:
                 processed, nav_removed = result
@@ -118,7 +155,8 @@ def process_directory(base_path):
     print(f"\nProcessing root-level pages...")
     for md_file in sorted(base.glob('*.md')):
         if md_file.name in ['Beauchamp.md', 'BeauchampLab.md', 'RAVE.md', 
-                            'CAMRI.md', 'YAEL.md', 'Karas_Lab.md', 'TODO.md', 'BROKEN_LINKS.md']:
+                            'CAMRI.md', 'YAEL.md', 'Karas_Lab.md', 'TODO.md',
+                            'BROKEN_LINKS.md', 'Other_Wikis.md']:
             # Skip namespace index pages and metadata files
             print(f"  - Skipping {md_file.name} (namespace index or metadata)")
             continue

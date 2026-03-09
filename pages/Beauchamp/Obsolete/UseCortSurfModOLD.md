@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "UseCortSurfModOLD"
-parent: Beauchamp
+parent: Obsolete
+grand_parent: Beauchamp
 ---
 # UseCortSurfModOLD
 

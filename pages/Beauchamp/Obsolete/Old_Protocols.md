@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Old Protocols"
-parent: Beauchamp
+parent: Obsolete
+grand_parent: Beauchamp
 ---
 # Old Protocols
 

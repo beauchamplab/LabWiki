@@ -95,7 +95,7 @@ AirPrint protocol (default) is fine.
 
 ## Cross Modal Task
 
-1. [Instructions for EMU Patients_SOP (by Aayushi Sangani)](_iEEG_EMU_SOP.md)
+1. [Instructions for EMU Patients_SOP (by Aayushi Sangani)](Obsolete/_iEEG_EMU_SOP.md)
 
 ---
 

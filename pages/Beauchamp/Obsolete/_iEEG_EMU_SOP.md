@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "iEEG EMU SOP"
-parent: Beauchamp
+parent: Obsolete
+grand_parent: Beauchamp
 ---
 #  iEEG EMU SOP
 
