@@ -32,4 +32,4 @@ Biological/Tool Motion
 
 EBA localizer
 
-[Lab Notebook](../Lab_Meetings_and_Notes/Lab_Notebook.md "Beauchamp:Lab Notebook")
+[Lab Notebook](pages/Beauchamp/Lab_Info/Lab_Notebook.md "Beauchamp:Lab Notebook")

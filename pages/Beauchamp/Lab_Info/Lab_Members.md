@@ -13,7 +13,7 @@ grand_parent: Beauchamp
 
 - [Home](pages/Beauchamp/index.md "Beauchamp")
 - [Publications](pages/Beauchamp/Publications_and_Talks/Publications.md "Beauchamp:Publications")
-- [Resources](DataSharing.md "Beauchamp:DataSharing")
+- [Resources](../Resources_and_Data_Sharing/DataSharing.md "Beauchamp:DataSharing")
 
 ### Current Lab Photos
 
