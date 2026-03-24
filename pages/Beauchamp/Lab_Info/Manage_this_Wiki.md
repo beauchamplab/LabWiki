@@ -2,15 +2,15 @@
 layout: default
 title: Use Obsidian to Manage this Wiki
 date_created: 2026-02-15
-parent: Lab Meetings and Notes
+parent: Lab Information
 grand_parent: Beauchamp
 ---
 # Use Obsidian to Manage this Wiki
 
 > [!TIP] Quick Access
-> - [Home](../index.md "Beauchamp")
-> - [Publications](../Publications_and_Talks/Publications.md "Beauchamp:Publications")
-> - [Resources](../Resources_and_Data_Sharing/DataSharing.md "Beauchamp:DataSharing")
+> - [Home](pages/Beauchamp/index.md "Beauchamp")
+> - [Publications](pages/Beauchamp/Publications_and_Talks/Publications.md "Beauchamp:Publications")
+> - [Resources](DataSharing.md "Beauchamp:DataSharing")
 
 _Date created: 2026-02-15_
 
@@ -220,21 +220,21 @@ _If you haven't configured Git ([Section 2](#2-configure-github-one-time-for-adv
 
 On the left-side ribbon, you should see a Git icon. If you have hard time finding it, hover on each icon and you will see "Open Git Source control". Click on that icon, and the Git control panel will be opened to the right.
 
-![Git icon](../../../attachments/SmallFiles/Pasted_image_20260215154306.png)
+![Git icon](attachments/SmallFiles/Pasted_image_20260215154306.png)
 
 >[!WARNING] Always wait for Dropbox to finish sync first!
 
 Always click on the "Pull" button before changing. This will make sure your local repository is up-to-date with Github, otherwise you cannot push the changes to Github
 
-![Pasted image 20260215154818.png](../../../attachments/SmallFiles/Pasted_image_20260215154818.png)
+![Pasted image 20260215154818.png](attachments/SmallFiles/Pasted_image_20260215154818.png)
 
 Then click on the "+" sign next to "Changes": this "saves/stages" the changes you made to the wikis
 
-![Stage changes](../../../attachments/SmallFiles/Pasted_image_20260215154954.png)
+![Stage changes](attachments/SmallFiles/Pasted_image_20260215154954.png)
 
 Finally, click on "Commit-and-sync" button to push the changes to Github
 
-![Commit-and-sync](../../../attachments/SmallFiles/Pasted_image_20260215155105.png)
+![Commit-and-sync](attachments/SmallFiles/Pasted_image_20260215155105.png)
 
 ## 8. Wiki Categories
 
@@ -242,11 +242,11 @@ The wiki pages are organized into the following categories. Each category appear
 
 ### Publications and Talks
 
-Lab publications (with PDFs), conference talks, and information about available positions. See [Publications](../Publications_and_Talks/Publications.md) for the full list.
+Lab publications (with PDFs), conference talks, and information about available positions. See [Publications](pages/Beauchamp/Publications_and_Talks/Publications.md) for the full list.
 
 ### Resources and Data Sharing
 
-Shared resources from the lab including experimental stimuli, analysis code, data sets, and tools released alongside publications. See [DataSharing](../Resources_and_Data_Sharing/DataSharing.md) for an overview.
+Shared resources from the lab including experimental stimuli, analysis code, data sets, and tools released alongside publications. See [DataSharing](DataSharing.md) for an overview.
 
 ### Lab Meetings and Notes
 

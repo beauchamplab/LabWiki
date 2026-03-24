@@ -11,13 +11,11 @@ grand_parent: Beauchamp
 | --- | --- |
 |  | Beauchamp Lab wiki |
 
-- [Home](../index.md "Beauchamp")
-- [Publications](../Publications_and_Talks/Publications.md "Beauchamp:Publications")
-- [Resources](../Resources_and_Data_Sharing/DataSharing.md "Beauchamp:DataSharing")
+- [Home](pages/Beauchamp/index.md "Beauchamp")
+- [Publications](pages/Beauchamp/Publications_and_Talks/Publications.md "Beauchamp:Publications")
+- [Resources](DataSharing.md "Beauchamp:DataSharing")
 
-[![](../../../attachments/WUES/WUESLogo.jpg)](../../../attachments/WUES/WUESLogo.jpg)
-
-Notes on Volunteers for WUES Science Night
+[![](attachments/WUES/WUESLogo.jpg)n Volunteers for WUES Science Night
 April 14th, 2011
 
 1. To make it easier for the kids to identify you, please bring along your white coats to wear.

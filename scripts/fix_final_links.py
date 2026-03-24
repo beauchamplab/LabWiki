@@ -61,10 +61,10 @@ if sc.exists():
 print("Fixing external wiki references...")
 for filepath, replacements in [
     (PAGES / "CAMRI" / "HowToScan.md", [
-        ("](Beauchamp/Lab_Meetings_and_Notes/Lab_Notebook.md)", "](../Beauchamp/Lab_Meetings_and_Notes/Lab_Notebook.md)"),
+        ("](Beauchamp/Lab_Info/Lab_Notebook.md)", "](../Beauchamp/Lab_Info/Lab_Notebook.md)"),
     ]),
     (PAGES / "CAMRI" / "Resources.md", [
-        ("](Beauchamp/Lab_Meetings_and_Notes/Lab_Notebook.md)", "](../Beauchamp/Lab_Meetings_and_Notes/Lab_Notebook.md)"),
+        ("](Beauchamp/Lab_Info/Lab_Notebook.md)", "](../Beauchamp/Lab_Info/Lab_Notebook.md)"),
     ]),
     (PAGES / "Karas_Lab" / "RAVE_Electrode_Localization.md", [
         ("](Beauchamp/Data_Processing/BuffyElectrodeNotes.md)", "](../Beauchamp/Data_Processing/BuffyElectrodeNotes.md)"),
@@ -128,7 +128,7 @@ if pcasl.exists():
     ])
 
 # Lab_Notebook.md: Fix links with parens in filenames
-lab_nb = BEAUCHAMP / "Lab_Meetings_and_Notes" / "Lab_Notebook.md"
+lab_nb = BEAUCHAMP / "Lab_Info" / "Lab_Notebook.md"
 if lab_nb.exists():
     with open(lab_nb, "r", encoding="utf-8") as f:
         content = f.read()

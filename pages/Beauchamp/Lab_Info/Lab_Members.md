@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Lab Members"
-parent: Lab Meetings and Notes
+parent: Lab Information
 grand_parent: Beauchamp
 ---
 # Lab Members
@@ -11,9 +11,9 @@ grand_parent: Beauchamp
 | --- | --- |
 |  | Beauchamp Lab wiki |
 
-- [Home](../index.md "Beauchamp")
-- [Publications](../Publications_and_Talks/Publications.md "Beauchamp:Publications")
-- [Resources](../Resources_and_Data_Sharing/DataSharing.md "Beauchamp:DataSharing")
+- [Home](pages/Beauchamp/index.md "Beauchamp")
+- [Publications](pages/Beauchamp/Publications_and_Talks/Publications.md "Beauchamp:Publications")
+- [Resources](DataSharing.md "Beauchamp:DataSharing")
 
 ### Current Lab Photos
 
@@ -50,47 +50,23 @@ grand_parent: Beauchamp
 
 ## Lab Photos
 
-[![](../../../attachments/Lab_Members/JohnPresenting.jpg)](../../../attachments/Lab_Members/JohnPresenting.jpg)
-John Magnotti presenting at IMRF 2014 in Amsterdam.
+[![](attachments/Lab_Members/JohnPresenting.jpg)notti presenting at IMRF 2014 in Amsterdam.
 
-[![](../../../attachments/Lab_Members/OHBMSeattle.jpg)](../../../attachments/Lab_Members/OHBMSeattle.jpg)
-Sarah Baum, Inga Schepers, and John Magnotti at OHBM 2013 in Seattle.
+[![](attachments/Lab_Members/OHBMSeattle.jpg)um, Inga Schepers, and John Magnotti at OHBM 2013 in Seattle.
 
-[![](../../../attachments/Lab_Members/NRC2012.jpg)](../../../attachments/Lab_Members/NRC2012.jpg)
+[![](attachments/Lab_Members/NRC2012.jpg)a, Josephine, Mike, Sarah, and Inga at the NRC Poster Competition 2012. Photo by Dwight C. Andrews/The University of Texas Medical School at Houston Office of Communications.
 
-Debshila, Josephine, Mike, Sarah, and Inga at the NRC Poster Competition 2012. Photo by Dwight C. Andrews/The University of Texas Medical School at Houston Office of Communications.
+[![](attachments/Lab_Members/Mcgurkmeme.jpg) dog knows why you don't get the McGurk effect.
 
-[![](../../../attachments/Lab_Members/Mcgurkmeme.jpg)](../../../attachments/Lab_Members/Mcgurkmeme.jpg)
-
-Hipster dog knows why you don't get the McGurk effect.
-
-[![](../../../attachments/Lab_Members/Shootingtrip.jpg)](../../../attachments/Lab_Members/Shootingtrip.jpg)
-
-[![](../../../attachments/Lab_Members/GreatWall.jpg)](../../../attachments/Lab_Members/GreatWall.jpg)
-
-Mike and Sarah at the Great Wall during OHBM 2012.
+[![](attachments/Lab_Members/Shootingtrip.jpg)tachments/Lab_Members/GreatWall.jpg)d Sarah at the Great Wall during OHBM 2012.
 
 ## Old Lab Photos
 
-[![](../../../attachments/Lab_Members/Summerlab5.jpg)](../../../attachments/Lab_Members/Summerlab5.jpg)
-
-[!["Cortex Interruptus"](../../../attachments/Lab_Members/MaryMikeAndSuma.jpg)](../../../attachments/Lab_Members/MaryMikeAndSuma.jpg)
-
-[!["Cortex Interruptus"](../../../attachments/Lab_Members/Beauchamp_12.jpg)](../../../attachments/Lab_Members/Beauchamp_12.jpg)
-
-[![](../../../attachments/Lab_Members/Group1MSB.jpg)](../../../attachments/Lab_Members/Group1MSB.jpg)
-
-[!["Medical Center Aerial Shot"](../../../attachments/Lab_Members/PhotoAerial.jpg)](../../../attachments/Lab_Members/PhotoAerial.jpg)
-[!["Outside Patio"](../../../attachments/Lab_Members/OutsideMSB.jpg)](../../../attachments/Lab_Members/OutsideMSB.jpg)
-[!["MSB Lobby"](../../../attachments/Lab_Members/Lobby1.jpg)](../../../attachments/Lab_Members/Lobby1.jpg)
-[![](../../../attachments/Lab_Members/TanVipTho.jpg)](../../../attachments/Lab_Members/TanVipTho.jpg)
-
-## Videos
+[![](attachments/Lab_Members/Summerlab5.jpg)tex Interruptus"](attachments/Lab_Members/MaryMikeAndSuma.jpg)tex Interruptus"](attachments/Lab_Members/Beauchamp_12.jpg)tachments/Lab_Members/Group1MSB.jpg)ical Center Aerial Shot"](attachments/Lab_Members/PhotoAerial.jpg)ide Patio"](attachments/Lab_Members/OutsideMSB.jpg)Lobby"](attachments/Lab_Members/Lobby1.jpg)achments/Lab_Members/TanVipTho.jpg)os
 
 Near Death Experiences:
 
-[![](../../../attachments/Lab_Members/NearDeath1.jpg)](../../../attachments/Lab_Members/NearDeath1.jpg)
-[Part 4 link](http://video.google.com/videoplay?docid=-3693743977857556383&hl=en)
+[![](attachments/Lab_Members/NearDeath1.jpg)link](http://video.google.com/videoplay?docid=-3693743977857556383&hl=en)
 
 ## Projects
 

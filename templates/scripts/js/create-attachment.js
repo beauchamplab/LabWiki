@@ -3,8 +3,8 @@ module.exports = async (params) => {
     
     // Let user choose attachment folder
     const folderChoice = await quickAddApi.suggester(
-        ['Large Files', 'Small Files', 'Publications'],
-        ['attachments/shared', 'attachments/SmallFiles', 'attachments/Publications'],
+        ['Large Files', 'Small Files', 'Publications', 'Private Reports'],
+        ['attachments/shared', 'attachments/SmallFiles', 'attachments/Publications', 'attachments/private_reports'],
         'Where do you want to save the files?'
     );
     

@@ -17,9 +17,9 @@ BEAUCHAMP = WORKSPACE / "pages" / "Beauchamp"
 CATEGORY_DIRS = [
     "Publications_and_Talks",
     "Resources_and_Data_Sharing",
-    "Lab_Meetings_and_Notes",
+    "Lab_Info",
     "Data_Processing",
-    "Internal_Notes",
+    "Private",
 ]
 
 fixes_made = 0

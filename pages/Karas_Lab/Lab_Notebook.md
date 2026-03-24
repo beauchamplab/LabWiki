@@ -11,7 +11,7 @@ parent: Karas Lab
 [**Home**](index.md "Karas Lab")        
  [**Contact**](Contact.md "Karas Lab:Contact")        
 **Lab Notebook**       
- [**Lab Members**](Lab_Members.md "Karas Lab:Lab Members")        
+ [**Lab Members**](pages/Karas_Lab/Lab_Members.md "Karas Lab:Lab Members")        
  [**Publications**](Publications.md "Karas Lab:Publications")        
  [**Research**](Research.md "Karas Lab:Research")        
  [**Talks**](#)")

@@ -47,22 +47,13 @@ CATEGORIES = {
             "100Hue.md",
         ],
     },
-    "Lab_Meetings_and_Notes": {
-        "title": "Lab Meetings and Notes",
+    "Lab_Info": {
+        "title": "Lab Information",
         "nav_order": 3,
         "pages": [
-            "Lab_Meeting.md",
             "Lab_Notebook.md",
             "Lab_Members.md",
             "Lab_Alums.md",
-            "Orientation.md",
-            "Ordering.md",
-            "Teaching.md",
-            "Subjects.md",
-            "AvailableDates.md",
-            "WUES.md",
-            "CAMRI_PTS.md",
-            "Manage_this_Wiki.md",
         ],
     },
     "Data_Processing": {
@@ -120,8 +111,8 @@ CATEGORIES = {
             "ProjectionNotes.md",
         ],
     },
-    "Internal_Notes": {
-        "title": "Internal Notes",
+    "Private": {
+        "title": "Private",
         "nav_order": 98,
         "pages": [
             "haotian.md",
@@ -333,21 +324,21 @@ nav_order: {cat_info['nav_order']}
     ext_count = fix_links_outside_beauchamp(moved_files_map)
     print(f"  ✓ Fixed {ext_count} external files")
 
-    # 7. Update .gitignore for Internal_Notes
+    # 7. Update .gitignore for Private
     print("\nUpdating .gitignore...")
     gitignore = WORKSPACE / ".gitignore"
     with open(gitignore, "r", encoding="utf-8") as f:
         gi_content = f.read()
 
     additions = []
-    if "pages/Beauchamp/Internal_Notes.md" not in gi_content:
-        additions.append("pages/Beauchamp/Internal_Notes.md")
-    if "pages/Beauchamp/Internal_Notes/" not in gi_content:
-        additions.append("pages/Beauchamp/Internal_Notes/")
+    if "pages/Beauchamp/Private.md" not in gi_content:
+        additions.append("pages/Beauchamp/Private.md")
+    if "pages/Beauchamp/Private/" not in gi_content:
+        additions.append("pages/Beauchamp/Private/")
 
     if additions:
         with open(gitignore, "a", encoding="utf-8") as f:
-            f.write("\n# Internal notes (not published)\n")
+            f.write("\n# Private notes (not published)\n")
             for entry in additions:
                 f.write(entry + "\n")
         print(f"  ✓ Added {len(additions)} entries to .gitignore")

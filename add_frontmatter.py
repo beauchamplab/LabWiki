@@ -24,10 +24,11 @@ SUBDIR_PARENTS = {
     'Beauchamp/Obsolete/Lectures': ('Lectures', 'Obsolete'),
     'Beauchamp/Publications_and_Talks': ('Publications and Talks', 'Beauchamp'),
     'Beauchamp/Resources_and_Data_Sharing': ('Resources and Data Sharing', 'Beauchamp'),
-    'Beauchamp/Lab_Meetings_and_Notes': ('Lab Meetings and Notes', 'Beauchamp'),
+    'Beauchamp/Lab_Info': ('Lab Information', 'Beauchamp'),
     'Beauchamp/Data_Processing': ('Data Processing and Analysis', 'Beauchamp'),
     'Beauchamp/Data_Processing/Brain Stimulation': ('Brain Stimulation', 'Data Processing and Analysis'),
-    'Beauchamp/Internal_Notes': ('Internal Notes', 'Beauchamp'),
+    'Beauchamp/Private': ('Private', 'Beauchamp'),
+    'Beauchamp/Private/Lab_Meetings_and_Notes': ('Lab Meetings and Notes', 'Private'),
 }
 
 def extract_title_from_content(content):

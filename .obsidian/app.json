@@ -6,5 +6,6 @@
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
-  "newFileFolderPath": "pages/Beauchamp"
+  "newFileFolderPath": "pages/Beauchamp",
+  "promptDelete": false
 }

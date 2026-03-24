@@ -15,15 +15,15 @@ Use the navigation sidebar or the search bar to find information.
 ## Quick Links
 
 - [Main Lab Wiki](pages/Beauchamp/index.md)
-- [New Lab Member Orientation](pages/Beauchamp/Lab_Meetings_and_Notes/Orientation.md)
-- [Manage this Wiki](pages/Beauchamp/Lab_Meetings_and_Notes/Manage_this_Wiki.md)
+- [New Lab Member Orientation](pages/Beauchamp/Private/Lab_Meetings_and_Notes/Orientation.md)
+- [Manage this Wiki](Manage_this_Wiki.md)
 
 ## Lab Meetings and Notes
 
-- [Lab Meeting](pages/Beauchamp/Lab_Meetings_and_Notes/Lab_Meeting.md)
-- [Lab Notebook](pages/Beauchamp/Lab_Meetings_and_Notes/Lab_Notebook.md)
-- [Lab Members](pages/Beauchamp/Lab_Meetings_and_Notes/Lab_Members.md), [Lab Alums](pages/Beauchamp/Lab_Meetings_and_Notes/Lab_Alums.md)
-- [Ordering](pages/Beauchamp/Lab_Meetings_and_Notes/Ordering.md)
+- [Lab Meeting](pages/Beauchamp/Private/Lab_Meetings_and_Notes/Lab_Meeting.md)
+- [Lab Notebook](pages/Beauchamp/Lab_Info/Lab_Notebook.md)
+- [Lab Members](pages/Beauchamp/Lab_Info/Lab_Members.md), [Lab Alums](pages/Beauchamp/Lab_Info/Lab_Alums.md)
+- [Ordering](pages/Beauchamp/Private/Lab_Meetings_and_Notes/Ordering.md)
 
 ## Publications and Talks
 

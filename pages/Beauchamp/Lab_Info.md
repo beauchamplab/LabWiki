@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Lab Meetings and Notes"
+title: "Lab Information"
 parent: Beauchamp
 has_children: true
 nav_order: 3
 ---
-# Lab Meetings and Notes
+# Lab Information

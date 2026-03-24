@@ -11,9 +11,9 @@ grand_parent: Beauchamp
 | --- | --- |
 |  | Beauchamp Lab wiki |
 
-- [Home](../index.md "Beauchamp")
-- [Publications](../Publications_and_Talks/Publications.md "Beauchamp:Publications")
-- [Resources](../Resources_and_Data_Sharing/DataSharing.md "Beauchamp:DataSharing")
+- [Home](pages/Beauchamp/index.md "Beauchamp")
+- [Publications](pages/Beauchamp/Publications_and_Talks/Publications.md "Beauchamp:Publications")
+- [Resources](DataSharing.md "Beauchamp:DataSharing")
 
 ## Lab Location
 
@@ -56,11 +56,11 @@ All subjects for ALL experiments MUST be entered into the ExperimentSummary spre
 
 **Forms**: Before scanning, please print the forms out, fill it in, and take to the scanner.
 
-[Beauchamp Lab consent form (Protocol H-36039) that must be signed by all subjects](../../../attachments/Subjects/ConsentForm_March2020.pdf "ConsentForm March2020.pdf")
+[Beauchamp Lab consent form (Protocol H-36039) that must be signed by all subjects](attachments/Subjects/ConsentForm_March2020.pdf "ConsentForm March2020.pdf")
 
-[BCM CAMRI MRI Subject Screening Form (as of 2020)](../../../attachments/Subjects/MRIScreeningformCAMRI.pdf "MRIScreeningformCAMRI.pdf")
+[BCM CAMRI MRI Subject Screening Form (as of 2020)](attachments/Subjects/MRIScreeningformCAMRI.pdf "MRIScreeningformCAMRI.pdf")
 
-Form #2: Subject payment form for [adults](../../../attachments/Subjects/BeauchampSubjectPaymentForm_Adult.doc "BeauchampSubjectPaymentForm Adult.doc") and [children](../../../attachments/Subjects/BeauchampSubjectPaymentForm_Children.doc "BeauchampSubjectPaymentForm Children.doc")
+Form #2: Subject payment form for [adults](attachments/Subjects/BeauchampSubjectPaymentForm_Adult.doc "BeauchampSubjectPaymentForm Adult.doc") and [children](attachments/Subjects/BeauchampSubjectPaymentForm_Children.doc "BeauchampSubjectPaymentForm Children.doc")
 General BCM Payment Form "Reimbursement"
 Fill out top with name/address, two places for them to sign; scan them in and place in subject directory.
 Fill out summary form after you have a lot of forms.
@@ -69,9 +69,9 @@ Then, give to Donna and we get more.
 (NOTE: the reimbursement form is: /Volumes/data/lab/paymentlogs/Baylor/BCM\_PettyCash\_PaymentForm.doc
 AND, the summary sheet for reimbursement is: /Volumes/data/lab/paymentlogs/blanksafeforms.xlsx)
 
-[Form #2: Subject Payment Form](../../../attachments/Subjects/Subject_payment_form.pdf)
+[Form #2: Subject Payment Form](attachments/Subjects/Subject_payment_form.pdf)
 
-The experimenter must fill out an [Experiment Sheet](../../../attachments/Subjects/BeauchampLabExperimentSheet_Aug2008.doc "BeauchampLabExperimentSheet Aug2008.doc") (here's one specific for [Yoshor experiments](../../../attachments/Subjects/YoshorExptSheet.doc "YoshorExptSheet.doc"))
+The experimenter must fill out an [Experiment Sheet](attachments/Subjects/BeauchampLabExperimentSheet_Aug2008.doc "BeauchampLabExperimentSheet Aug2008.doc") (here's one specific for [Yoshor experiments](attachments/Subjects/YoshorExptSheet.doc "YoshorExptSheet.doc"))
 
 **Scanning at BCM**
 Ask for the password of the experiment computer.
@@ -93,7 +93,7 @@ An e-mail that could be used for subject recruitment is
 
 **Consents**: Pam will mail them the consent forms in advance. Audrey will collect Mike and Daniel's consent forms. She will put a PDF copy of the consent forms on the server and send a copy to Ping (who can slip it into the patient binder). A hard copy of the consent forms should be given to Daniel in a folder as well.
 
-**Payment**: Day before the scan, give Susan Papalexandris an [IOU form](../../../attachments/Subjects/PaymentIOU.doc "PaymentIOU.doc") and pick up the money (call her first @ 5606). The subject is paid at the time of the scan, and fills out a [Subject Payment Form](../../../attachments/Subjects/Subject_payment_form.pdf) (above). Make it clear to the subject that the payment is for the fMRI study (and not for any electrophys experiments later). This can be exchanged by the experimenter with Susan for reimbursement.
+**Payment**: Day before the scan, give Susan Papalexandris an [IOU form](attachments/Subjects/PaymentIOU.doc "PaymentIOU.doc") and pick up the money (call her first @ 5606). The subject is paid at the time of the scan, and fills out a [Subject Payment Form](attachments/Subjects/Subject_payment_form.pdf) (above). Make it clear to the subject that the payment is for the fMRI study (and not for any electrophys experiments later). This can be exchanged by the experimenter with Susan for reimbursement.
 
 **Day of scan**: Pam will coordinate escorts with Audrey (since the patient will be getting their presurgical workup done as well as their structural and functional research scans). Pam will handle lunch and parking reimbursement. Give payment and sign forms. Go over the tasks with the patient on the laptop and explain instructions. For Yoshor patients ONLY, a CD with \*ONE\* T1 scan in DICOM format (.DCM files) must be created by Vips and then given to Yoshor or a representative. Call Pam afterwards and find out where to send the patient. Update the pt info spreadsheet, scan in documents, copy Beauchamp consent for Daniel. Copy over Presentation files into "behavioral data" folder on the server. Return payment receipt to Susan.
 

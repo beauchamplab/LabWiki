@@ -8,7 +8,33 @@ _site/
 built/
 add_frontmatter.py
 convert_links.py
-# Internal notes (not published)
+
+# Default-private policy for attachments
+attachments/**
+!attachments/shared/
+!attachments/shared/**
+!attachments/SmallFiles/
+!attachments/SmallFiles/**
+!attachments/Publications/
+!attachments/Publications/**
+
+# Default-private policy for Beauchamp pages
+pages/Beauchamp/**
+pages/Beauchamp/Internal_Notes/
 pages/Beauchamp/Internal_Notes.md
-pages/Beauchamp/Internal_Notes/*
-!pages/Beauchamp/Internal_Notes/.gitkeep
+!pages/Beauchamp/index.md
+!pages/Beauchamp/Data_Processing.md
+!pages/Beauchamp/Lab_Info.md
+!pages/Beauchamp/Obsolete.md
+!pages/Beauchamp/Publications_and_Talks.md
+!pages/Beauchamp/Resources_and_Data_Sharing.md
+!pages/Beauchamp/Data_Processing/
+!pages/Beauchamp/Data_Processing/**
+!pages/Beauchamp/Lab_Info/
+!pages/Beauchamp/Lab_Info/**
+!pages/Beauchamp/Obsolete/
+!pages/Beauchamp/Obsolete/**
+!pages/Beauchamp/Publications_and_Talks/
+!pages/Beauchamp/Publications_and_Talks/**
+!pages/Beauchamp/Resources_and_Data_Sharing/
+!pages/Beauchamp/Resources_and_Data_Sharing/**

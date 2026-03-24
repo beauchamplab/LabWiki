@@ -11,11 +11,11 @@ grand_parent: Beauchamp
 | --- | --- |
 |  | Beauchamp Lab wiki |
 
-- [Home](../index.md "Beauchamp")
-- [Publications](../Publications_and_Talks/Publications.md "Beauchamp:Publications")
-- [Resources](../Resources_and_Data_Sharing/DataSharing.md "Beauchamp:DataSharing")
+- [Home](pages/Beauchamp/index.md "Beauchamp")
+- [Publications](pages/Beauchamp/Publications_and_Talks/Publications.md "Beauchamp:Publications")
+- [Resources](DataSharing.md "Beauchamp:DataSharing")
 
-[Archive of Previous Teaching Page](../Obsolete/TeachingOld.md)
+[Archive of Previous Teaching Page](TeachingOld.md)
 
 ## Learning more about Neuroimaging
 
@@ -35,7 +35,7 @@ Goals and learning objectives:
 Neuroscience elective. 3 Credits for 2 terms (Terms 1 and 2). T/Th. Prerequisites: Introductory Calculus and Physics at the freshman level.
 Course director: David Ress, Ph.D.
 
-[Here is the syllabus for this class in 2016](../../../attachments/Teaching/GS-NE-400Syllabus.pdf "GS-NE-400Syllabus.pdf")
+[Here is the syllabus for this class in 2016](attachments/Teaching/GS-NE-400Syllabus.pdf "GS-NE-400Syllabus.pdf")
 
 ### Advanced Functional Magnetic Resonance Imaging Laboratory
 

@@ -4,11 +4,11 @@ module.exports = async (params) => {
     // Category definitions: display name, folder path, frontmatter parent, grand_parent
     const categories = [
         { label: "Data Processing and Analysis", folder: "pages/Beauchamp/Data_Processing", parent: "Data Processing and Analysis", grandParent: "Beauchamp" },
-        { label: "Lab Meetings and Notes",       folder: "pages/Beauchamp/Lab_Meetings_and_Notes", parent: "Lab Meetings and Notes", grandParent: "Beauchamp" },
+        { label: "Lab Information",              folder: "pages/Beauchamp/Lab_Info", parent: "Lab Information", grandParent: "Beauchamp" },
         { label: "Publications and Talks",       folder: "pages/Beauchamp/Publications_and_Talks", parent: "Publications and Talks", grandParent: "Beauchamp" },
         { label: "Resources and Data Sharing",   folder: "pages/Beauchamp/Resources_and_Data_Sharing", parent: "Resources and Data Sharing", grandParent: "Beauchamp" },
         { label: "Obsolete",                     folder: "pages/Beauchamp/Obsolete", parent: "Obsolete", grandParent: "Beauchamp" },
-        { label: "Internal Notes",              folder: "pages/Beauchamp/Internal_Notes", parent: "Internal Notes", grandParent: "Beauchamp" },
+        { label: "Private",                      folder: "pages/Beauchamp/Private", parent: "Private", grandParent: "Beauchamp" },
     ];
 
     // 1. Choose category

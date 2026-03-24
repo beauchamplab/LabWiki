@@ -10,8 +10,8 @@ parent: Karas Lab
 
 [**Home**](index.md)        
  [**Contact**](Contact.md)        
- [**Lab Notebook**](Lab_Notebook.md)        
- [**Lab Members**](Lab_Members.md)        
+ [**Lab Notebook**](pages/Karas_Lab/Lab_Notebook.md)        
+ [**Lab Members**](pages/Karas_Lab/Lab_Members.md)        
  [**Publications**](Publications.md)        
  [**Research**](Research.md)        
  [**Talks**](#)")
