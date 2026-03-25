@@ -195,6 +195,9 @@ Open command palette, type in "quickadd". You will see
 QuickAdd: Upload Attachments + Generate Links
 ```
 
+Or you can see the button at the left panel
+![](../../../attachments/SmallFiles/Pasted%20image%2020260325125304.png)
+
 Click to open the quick-add widget, you will be prompted to choose files to attach. You can attach more than one file.
 
 >You will be asked to select whether this file is going to be saved. To clean up the attachments storage, the new attachments should be saved to one of the following three locations:
@@ -213,6 +216,24 @@ QuickAdd: Link To An Existing File
 ```
 
 Choose this option and you will be asked to select a file to link. You can link to an existing document (wikipage), or an attachment. The markdown links will be created for you.
+
+### 6.3 Alternatives: drag & drop images, or screenshots
+
+Obsidian provides support for image drag-and-drops, as well as the ability to copy and paste screenshots. Although drag-and-drops are not generally recommended, copying and pasting screenshots is a highly convenient feature. To maintain the cleanliness of the wiki while preserving this convenience, please refer to the following instructions:
+
+1. Make a screenshot on Mac using cmd+shift+5
+2. Paste the screenshot to Obsidian wiki page. The screenshots will be automatically saved to `attachments/unclassified` folder. To protect privacy, this folder will not be tracked by git, hence not publicly available. This should be fine for internal notes. however, the files will not be available on Github
+   ![](../../../attachments/SmallFiles/Pasted%20image%2020260325125347.png)
+3. If you wish to make the attachments available on Github in the future, right-click on the images from Obsidian (do not use finder), click on "move file to"
+   ![](../../../attachments/SmallFiles/Pasted%20image%2020260325125510.png)
+4. Obsidian will ask for destinations. In the pop-up selector, choose the destination path to be 
+	1. `attachments/SmallFiles`: small image files (< 200KB)
+	2. `attachments/shared`: larger images or files
+	3. `attachments/Publications`: PDF publication paper
+	4. `attachments/private_notes`: Private notes related
+
+> Please make sure you operate the `move` operations in Obsidian as it's configured to automatically fix the links to the corresponding attachment.
+
 
 ## 7. Save changes to Github
 

@@ -1,11 +1,20 @@
 {
   "openBehavior": "file:Navigation",
   "newFileLocation": "folder",
-  "attachmentFolderPath": "attachments",
+  "attachmentFolderPath": "attachments/unclassified",
   "readableLineLength": true,
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
-  "newFileFolderPath": "pages/Beauchamp",
-  "promptDelete": false
+  "newFileFolderPath": "pages/Beauchamp/Private",
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "userIgnoreFilters": [
+    "_site/",
+    "_plugins/"
+  ],
+  "deleteUnlinkedAttachments": "ask",
+  "trashOption": "local"
 }
