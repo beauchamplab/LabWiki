@@ -25,7 +25,7 @@ It is a good practice to keep a record of anything that happens while doing the 
 
 So far we only do single pulse TMS for which I have not seen any reports of adverse effects. However to be on the safe side, our experiments are restricted to healthy individuals (no neurological disorder or history) and those who are not pregnant and are not taking any medications that may lower seizure threshold (for a sample list see: [[2]](http://professionals.epilepsy.com/page/table_seniors_drugs.html)). A TMS Screening form has been created to make sure the subject has no contraindications [[3]](../../../attachments/TMSOverview/TMS_SCREENING_FORM.pdf)
 
-And as with any other experiment, an informed consent form must be given to the subject prior to the experimentation with sufficient time for them to read it and to ask any questions they might have. The form must be signed and dated by both the subject and the experimenter and a copy of the signed form should be given to the subject for their record. For the most recent version of our IRB approved consent form see [[4]](Subjects.md)
+And as with any other experiment, an informed consent form must be given to the subject prior to the experimentation with sufficient time for them to read it and to ask any questions they might have. The form must be signed and dated by both the subject and the experimenter and a copy of the signed form should be given to the subject for their record. For the most recent version of our IRB approved consent form see [[4]](../Obsolete/Subjects.md)
 
 ## Presenting the stimuli and TMS
 

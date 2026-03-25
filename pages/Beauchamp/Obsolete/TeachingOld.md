@@ -15,9 +15,9 @@ grand_parent: Beauchamp
 - [Publications](../Publications_and_Talks/Publications.md "Beauchamp:Publications")
 - [Resources](../Resources_and_Data_Sharing/DataSharing.md "Beauchamp:DataSharing")
 
-THIS IS AN ARCHIVE PAGE [Click here for Current Teaching Resources](Teaching.md "Beauchamp:Teaching")
+THIS IS AN ARCHIVE PAGE [Click here for Current Teaching Resources](Lectures/Teaching.md "Beauchamp:Teaching")
 
-NBA Seminar Series Available Dates: [Available Dates for 2014 - 2015](AvailableDates20142015.md)
+NBA Seminar Series Available Dates: ~~Available Dates for 2014 - 2015~~ *(page not archived)*
 
 General information about UT courses is available at <https://my.uth.tmc.edu>
 
@@ -157,7 +157,7 @@ BCM Higher Brain Function (Mariela DeBiasi, course director)
 2. [Lecture #2](../../../attachments/TeachingOld/DeBiasiLecture2.pdf "DeBiasiLecture2.pdf")
 3. [fMRI Educated Consumer Slides](../../../attachments/TeachingOld/FMRIEducatedConsumer.pdf "FMRIEducatedConsumer.pdf")
 
-1. [Information about West U Elementary School Science Night](WUES.md)
+1. [Information about West U Elementary School Science Night](Lectures/WUES.md)
 2. [Basal Ganglia MRI Slides for "crowdsource" labeling](../../../attachments/TeachingOld/BasalGanglia.ppt "BasalGanglia.ppt")
 
 A teaching website that shows midbrain, brainstem and spinal cord slices labeled with tracts and anatomy is <http://isc.temple.edu/neuroanatomy/lab/>

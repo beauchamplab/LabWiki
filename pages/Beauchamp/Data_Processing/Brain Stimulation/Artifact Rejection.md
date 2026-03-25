@@ -44,7 +44,7 @@ _Date created: 2026-03-06_
 
 ### MATLAB Code
 
-[artifact_rejection.m](artifact_rejection.m)
+[artifact_rejection.m](../../../../attachments/SmallFiles/artifact_rejection.m)
 
 ### Notes
 

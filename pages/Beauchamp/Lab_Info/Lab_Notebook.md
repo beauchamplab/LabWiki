@@ -96,13 +96,13 @@ G Power 3 is a useful program for power analysis
 ## fMRI Experimental Design and Analysis
 
 1. [Overview of MRI Experiments](../Data_Processing/fMRIOverview.md "Beauchamp:fMRIOverview")
-2. [Information for Subjects and Experimenters, such as Human Subjects Training](../../Obsolete/Subjects.md "Beauchamp:Subjects")
+2. [Information for Subjects and Experimenters, such as Human Subjects Training](../Obsolete/Subjects.md "Beauchamp:Subjects")
 3. [How to Collect MRI Data and Use the Scanner](pages/Beauchamp/Data_Processing/HowToScan.md "Beauchamp:HowToScan")
 4. [Getting raw data from the scanner](../Data_Processing/CreateAFNIBRIKfromMR.md "Beauchamp:CreateAFNIBRIKfromMR")
 5. [Turning the raw data into AFNI BRIKs](../Data_Processing/CreateAFNIBRIK.md "Beauchamp:CreateAFNIBRIK")
 6. [Cortical Surface models overview](../Data_Processing/CorticalSurfaceOverview.md "Beauchamp:CorticalSurfaceOverview")
 7. [Using the HCP Atlas Area Labels from Glasser et al. in AFNI/SUMA](../Data_Processing/CorticalSurfaceHCP.md "Beauchamp:CorticalSurfaceHCP")
-8. [Creating Random Stimulus Orderings For Rapid Event-Related Designs](../Data_Processing/RandomStimulus.md "Beauchamp:RandomStimulus")
+8. [Creating Random Stimulus Orderings For Rapid Event-Related Designs](../Resources_and_Data_Sharing/RandomStimulus.md "Beauchamp:RandomStimulus")
 9. [Motion and Distortion Correction](../Data_Processing/MotionCorrection.md "Beauchamp:MotionCorrection")
 10. [Resting State Analysis](../Data_Processing/RestingState.md "Beauchamp:RestingState")
 11. [Creating Volume Average Datasets with AFNI](../Data_Processing/VolAverage.md "Beauchamp:VolAverage")
@@ -136,7 +136,7 @@ G Power 3 is a useful program for power analysis
 ## Archival Wiki Pages
 
 1. [Old Teaching Notes](../Obsolete/Lectures/Teaching.md "Beauchamp:Teaching")
-2. [Positions](../Obsolete/PositionsAvailable.md "Beauchamp:PositionsAvailable")
+2. ~~Positions~~ *(page not archived)*
 3. [People/Projects/Media](pages/Beauchamp/Lab_Info/Lab_Members.md "Beauchamp:Lab Members")
 4. Lab Notebook
 
@@ -145,7 +145,7 @@ G Power 3 is a useful program for power analysis
 1. [Link to AFNI/SUMA documentation](http://afni.nimh.nih.gov/pub/dist/doc/htmldoc/)
 2. [McGurk Stimuli](../Resources_and_Data_Sharing/Stimuli.md "Beauchamp:Stimuli")
 3. [Word Localizer Stimuli](../Resources_and_Data_Sharing/LocalizerStimuli.md "Beauchamp:LocalizerStimuli")
-4. [Autism Data](../Resources_and_Data_Sharing/Autism.md "Beauchamp:Autism")
+4. [Autism Data](../Data_Processing/Autism.md "Beauchamp:Autism")
 5. [SR EyeLink Eye Tracker Setup](../Data_Processing/NewEyeTrackSetup.md "Beauchamp:NewEyeTrackSetup")
 6. [OLD ASL Eye Tracker Setup](../Data_Processing/EyeTrackSetup.md "Beauchamp:EyeTrackSetup")
 7. [Retinotopic Mapping](../Data_Processing/Retinotopy.md "Beauchamp:Retinotopy")
@@ -158,6 +158,6 @@ G Power 3 is a useful program for power analysis
 14. [Auditory-only stimuli](#)")
 15. [How to 3D Print Brains](../Data_Processing/PrintingBrains.md "Beauchamp:PrintingBrains")
 16. [RHOPLS for ECoG Data](../Data_Processing/TensorECOG.md "Beauchamp:TensorECOG")
-17. [How to make pretty images for participants](BrainPix.md "Beauchamp:BrainPix")
-18. [Screencasts of Repeating McGurk Experiments](Screencasts_of_Repeating_McGurk_Experiments.md "Screencasts of Repeating McGurk Experiments")
-19. [Some initial pCASL processing notes using BASIL](Some_initial_pCASL_processing_notes_using_BASIL.md "Some initial pCASL processing notes using BASIL")
+17. [How to make pretty images for participants](../Data_Processing/BrainPix.md "Beauchamp:BrainPix")
+18. [Screencasts of Repeating McGurk Experiments](../Resources_and_Data_Sharing/Screencasts_of_Repeating_McGurk_Experiments.md "Screencasts of Repeating McGurk Experiments")
+19. [Some initial pCASL processing notes using BASIL](../Data_Processing/Some_initial_pCASL_processing_notes_using_BASIL.md "Some initial pCASL processing notes using BASIL")

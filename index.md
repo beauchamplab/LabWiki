@@ -16,7 +16,7 @@ Use the navigation sidebar or the search bar to find information.
 
 - [Main Lab Wiki](pages/Beauchamp/index.md)
 - [New Lab Member Orientation](pages/Beauchamp/Private/Lab_Meetings_and_Notes/Orientation.md)
-- [Manage this Wiki](Manage_this_Wiki.md)
+- [Manage this Wiki](pages/Beauchamp/Lab_Info/Manage_this_Wiki.md)
 
 ## Lab Meetings and Notes
 

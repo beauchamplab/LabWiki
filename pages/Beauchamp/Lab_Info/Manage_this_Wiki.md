@@ -8,9 +8,9 @@ grand_parent: Beauchamp
 # Use Obsidian to Manage this Wiki
 
 > [!TIP] Quick Access
-> - [Home](pages/Beauchamp/index.md "Beauchamp")
-> - [Publications](pages/Beauchamp/Publications_and_Talks/Publications.md "Beauchamp:Publications")
-> - [Resources](DataSharing.md "Beauchamp:DataSharing")
+> - [Home](../index.md "Beauchamp")
+> - [Publications](../Publications_and_Talks/Publications.md "Beauchamp:Publications")
+> - [Resources](../Resources_and_Data_Sharing/DataSharing.md "Beauchamp:DataSharing")
 
 _Date created: 2026-02-15_
 
@@ -242,11 +242,11 @@ The wiki pages are organized into the following categories. Each category appear
 
 ### Publications and Talks
 
-Lab publications (with PDFs), conference talks, and information about available positions. See [Publications](pages/Beauchamp/Publications_and_Talks/Publications.md) for the full list.
+Lab publications (with PDFs), conference talks, and information about available positions. See [Publications](../Publications_and_Talks/Publications.md) for the full list.
 
 ### Resources and Data Sharing
 
-Shared resources from the lab including experimental stimuli, analysis code, data sets, and tools released alongside publications. See [DataSharing](DataSharing.md) for an overview.
+Shared resources from the lab including experimental stimuli, analysis code, data sets, and tools released alongside publications. See [DataSharing](../Resources_and_Data_Sharing/DataSharing.md) for an overview.
 
 ### Lab Meetings and Notes
 

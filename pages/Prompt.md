@@ -144,7 +144,7 @@ labwiki/
 
 11. **DO use markers for broken links** that can be re-resolved later. Pattern: `](# "WikiName - not archived")` for missing pages, `~~Page Name~~ *(page not archived)*` for 404s.
 
-12. **DO check for nested image-link patterns.** MediaWiki often generates `[![img](thumbnail.jpg)](/wiki/File:FullSize.jpg)` — an image wrapped in a clickable link. Both the `src` and the `href` need to be resolved.
+12. **DO check for nested image-link patterns.** MediaWiki often generates `[![img](https://example.com/thumbnail.jpg)](/wiki/File:FullSize.jpg)` — an image wrapped in a clickable link. Both the `src` and the `href` need to be resolved.
 
 13. **DO extract content from `#mw-content-text` only.** The rest of the page (sidebar, navigation, footer) is wiki chrome, not content.
 
@@ -159,7 +159,7 @@ labwiki/
 
 2. **DON'T assume one fix pass is enough.** We needed 5+ rounds of fixing for the Beauchamp wiki (291 initial references → 0). Each pass catches ~60-80% of remaining issues.
 
-3. **DON'T use a simple `[^)]+` regex for markdown link URLs.** It fails on title attributes: `[text](url "title")` — the `)` in `"title")` isn't the closing paren of the link. Also fails on nested image-links `[![](src)](href)`.
+3. **DON'T use a simple `[^)]+` regex for markdown link URLs.** It fails on title attributes: `[text](https://example.com "title")` — the `)` in `"title")` isn't the closing paren of the link. Also fails on nested image-links `[![](https://example.com/img.jpg)](https://example.com/href)`.
 
 4. **DON'T recursively crawl non-primary namespaces.** Other wikis (RAVE, CAMRI, YAEL) have their own structure. Only download pages that are directly linked from primary namespace pages.
 
@@ -171,7 +171,7 @@ labwiki/
 
 8. **DON'T batch-process quoting-sensitive strings through the shell.** Even `echo` or `sed` can corrupt URLs with `&`, `=`, `(`, `)`. Python's string handling is safer.
 
-9. **DON'T forget angle-bracket URLs.** Some wiki pages contain `<http://openwetware.org/wiki/CAMRI:Flywheel>` — bare URLs in angle brackets. These need a separate regex pass, not just the `[text](url)` pattern.
+9. **DON'T forget angle-bracket URLs.** Some wiki pages contain `<http://openwetware.org/wiki/CAMRI:Flywheel>` — bare URLs in angle brackets. These need a separate regex pass, not just the `[text](https://example.com)` pattern.
 
 10. **DON'T assume wiki page names are case-sensitive if resolution fails.** Try exact match, then underscored, then case-insensitive, then index page fallback.
 
@@ -259,4 +259,4 @@ In converted Markdown, broken links use these conventions:
 | Images missing after migration | Check for `oww-files-thumb` URLs — convert to `oww-files-public` |
 | `/wiki/File:` links still external | Use MediaWiki API to resolve, not direct URL construction |
 | `(archived) (archived)` duplication | Fix script ran twice — the `fix` command handles this pattern |
-| Nested `[![img](src)](href)` broken | Both inner `src` and outer `href` need separate resolution |
+| Nested `[![img](https://example.com/img.jpg)](https://example.com/href)` broken | Both inner `src` and outer `href` need separate resolution |

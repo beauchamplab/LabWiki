@@ -12,9 +12,9 @@ Thank you for visiting the Beauchamp Lab wiki, for a more aesthetically appealin
 
 Some items that may be helpful:
 
-1. [PDFs of all Beauchamp Lab publications](Publications_and_Talks/Publications.md)
-2. [Resources, including stimuli and code from publications](Resources_and_Data_Sharing/DataSharing.md)
-3. [Older version of lab notebook links, newer version below](pages/Beauchamp/Lab_Info/Lab_Notebook.md)
+1. [PDFs of all Beauchamp Lab publications](./Publications_and_Talks/Publications.md)
+2. [Resources, including stimuli and code from publications](./Resources_and_Data_Sharing/DataSharing.md)
+3. [Older version of lab notebook links, newer version below](./Lab_Info/Lab_Notebook.md)
 
 [Click here for the Research Division of the Department of Neurosurgery at the University of Pennsylvania](https://www.pennmedicine.org/departments-and-centers/neurosurgery/research-division/mission-welcome-message)
 
@@ -118,7 +118,7 @@ G Power 3 is a useful program for power analysis: <http://www.psycho.uni-duessel
 
 1. [How To Install AFNI](Data_Processing/AFNI_Install.md)
 2. [Overview of MRI Experiments](Data_Processing/fMRIOverview.md)
-3. [Information for Subjects and Experimenters, such as Human Subjects Training](Subjects.md)
+3. [Information for Subjects and Experimenters, such as Human Subjects Training](Obsolete/Subjects.md)
 4. [How to Collect MRI Data and Use the Scanner](Data_Processing/HowToScan.md)
 5. [Getting raw data from the scanner](Data_Processing/CreateAFNIBRIKfromMR.md)
 6. [Turning the raw data into AFNI BRIKs](Data_Processing/CreateAFNIBRIK.md)
@@ -165,10 +165,10 @@ G Power 3 is a useful program for power analysis: <http://www.psycho.uni-duessel
 
 ## Archival Wiki Pages
 
-1. [Old Teaching Notes](Teaching.md)
+1. [Old Teaching Notes](Obsolete/TeachingOld.md)
 2. [Positions](Publications_and_Talks/PositionsAvailable.md)
-3. [People/Projects/Media](pages/Beauchamp/Lab_Info/Lab_Members.md)
-4. [Lab Notebook](pages/Beauchamp/Lab_Info/Lab_Notebook.md)
+3. [People/Projects/Media](Lab_Info/Lab_Members.md)
+4. [Lab Notebook](Lab_Info/Lab_Notebook.md)
 
 ---
 

@@ -12,15 +12,15 @@ grand_parent: Beauchamp
 | [Brain picture](../../../attachments/AuditoryTactile/BrainPic.0023.png) | Beauchamp Lab Notebook |
 
 - [Home](../index.md "Beauchamp")
-- [Lab Members](pages/Beauchamp/Lab_Info/Lab_Members.md "Beauchamp:Lab Members")
-- [Lab Alums](Lab_Alums.md "Beauchamp:Lab Alums")
+- [Lab Members](../Lab_Info/Lab_Members.md "Beauchamp:Lab Members")
+- [Lab Alums](../Lab_Info/Lab_Alums.md "Beauchamp:Lab Alums")
 - [Projects](../Publications_and_Talks/Projects.md "Beauchamp:Projects")
 - [Publications](../Publications_and_Talks/Publications.md "Beauchamp:Publications")
-- [*Lab Notebook*](pages/Beauchamp/Lab_Info/Lab_Notebook.md "Beauchamp:Lab Notebook")
-- [Subjects](Subjects.md "Beauchamp:Subjects")
+- [*Lab Notebook*](../Lab_Info/Lab_Notebook.md "Beauchamp:Lab Notebook")
+- [Subjects](../Obsolete/Subjects.md "Beauchamp:Subjects")
 
 - [Software Installation](../Data_Processing/Software_Installation.md "Beauchamp:Software Installation")
-- [Ordering](Ordering.md "Beauchamp:Ordering")
+- [Ordering](../Private/Lab_Meetings_and_Notes/Ordering.md "Beauchamp:Ordering")
 - [MRI Data Analysis](../Data_Processing/MRI_Data_Analysis.md "Beauchamp:MRI Data Analysis")
 - [Electrophysiology](../Data_Processing/Electrophysiology.md "Beauchamp:Electrophysiology")
 - [TMS](../Data_Processing/TMS.md "Beauchamp:TMS")

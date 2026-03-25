@@ -65,7 +65,7 @@ Use  hashtag such as `###` at the **beginning** of a line for headings. The numb
 
 ### 2. Links
 
-Markdown links can be added via `[text](link)` style. Here is an example:
+Markdown links can be added via `[text](https://example.com)` style. Here is an example:
 
 ```
 [This is a link to google](https://google.com)
@@ -279,9 +279,9 @@ Images use the same syntax as **Links** except for the addition of an exclamatio
 
 <br />
 
-![picture alt text](./markdown-image.png 'Title is optional')
+![picture alt text](https://via.placeholder.com/150 'Title is optional')
 
-    ![picture alt](./markdown-image.png 'Title is optional')
+    ![picture alt](https://via.placeholder.com/150 'Title is optional')
 
 
 ### 10. Math

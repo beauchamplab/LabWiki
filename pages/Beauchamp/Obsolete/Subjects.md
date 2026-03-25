@@ -11,9 +11,9 @@ grand_parent: Beauchamp
 | --- | --- |
 |  | Beauchamp Lab wiki |
 
-- [Home](pages/Beauchamp/index.md "Beauchamp")
-- [Publications](pages/Beauchamp/Publications_and_Talks/Publications.md "Beauchamp:Publications")
-- [Resources](DataSharing.md "Beauchamp:DataSharing")
+- [Home](../index.md "Beauchamp")
+- [Publications](../Publications_and_Talks/Publications.md "Beauchamp:Publications")
+- [Resources](../Resources_and_Data_Sharing/DataSharing.md "Beauchamp:DataSharing")
 
 ## Lab Location
 
