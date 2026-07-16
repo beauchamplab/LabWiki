@@ -3,6 +3,7 @@
 Gemfile.lock
 vendor/
 .bundle/
+.trash/
 .jekyll-cache/
 _site/
 built/

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: artifact rejection
+title: Artifact Rejection
 date_created: 2026-03-06
-parent: Brain Stimulation
-grand_parent: Data Processing and Analysis
+parent: Data Processing and Analysis
+grand_parent: Beauchamp
 ---
 # Artifact Rejection
 

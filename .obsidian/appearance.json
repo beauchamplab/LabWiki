@@ -1,3 +1,5 @@
 {
-  "showRibbon": true
+  "showRibbon": true,
+  "translucency": false,
+  "nativeMenus": true
 }
