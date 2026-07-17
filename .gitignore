@@ -3,12 +3,12 @@
 Gemfile.lock
 vendor/
 .bundle/
-.trash/
 .jekyll-cache/
 _site/
 built/
 add_frontmatter.py
 convert_links.py
+scripts/__pycache__/*.pyc
 ~$*
 
 # Default-private policy for attachments
@@ -45,3 +45,8 @@ pages/Beauchamp/Internal_Notes.md
 attachments/SmallFiles/2026-03-11_15-01.pdf
 
 /attachments/SmallFiles/~$*
+
+# Re-ignore
+.trash/
+pages/**/.DS_Store
+pages/Beauchamp/Data_Processing/Noisy Speech Generator/data/

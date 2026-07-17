@@ -63,6 +63,9 @@ exclude:
   - pages/TODO.md
   - pages/BROKEN_LINKS.md
   - templates/
+  - "**/*.ipynb"
+  - "**/.ipynb_checkpoints"
+  - requirements-notebooks.txt
 
 # Plugins
 plugins:

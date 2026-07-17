@@ -71,6 +71,20 @@ if [[ ! -f Gemfile.lock ]] || [[ Gemfile -nt Gemfile.lock ]]; then
   bundle install
 fi
 
+## Convert Jupyter notebooks to Jekyll-ready markdown
+if command -v python3 &>/dev/null; then
+  if [[ ! -d .venv ]]; then
+    python3 -m venv .venv
+  fi
+  if ! .venv/bin/python3 -c "import nbconvert" &>/dev/null; then
+    echo "Installing notebook conversion tools (nbconvert)..."
+    .venv/bin/pip install -q -r requirements-notebooks.txt
+  fi
+  .venv/bin/python3 scripts/convert_notebooks.py
+else
+  echo "Warning: python3 not found — skipping notebook conversion." >&2
+fi
+
 ## Compile and serve
 PORT=4000
 echo "Serving at http://127.0.0.1:$PORT/LabWiki/ ..."

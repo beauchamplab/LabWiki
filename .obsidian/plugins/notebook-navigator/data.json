@@ -19,9 +19,7 @@
         }
       ],
       "hiddenFolders": [
-        "/_site",
         "/_plugins",
-        "/scripts",
         "/templates",
         "/pages/Karas_Lab",
         "/pages/CAMRI",

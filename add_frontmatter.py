@@ -1,7 +1,23 @@
 #!/usr/bin/env python3
 """
+OBSOLETE - DO NOT USE. Kept for historical reference only.
+
 Add YAML front matter to all wiki pages for Just-the-Docs theme.
 Removes manual navigation headers.
+
+This was a one-off script for the OpenWetWare migration and has already run.
+Do not run it again and do not copy its tables into new code:
+
+  * It cannot run as-is: pages_dir below is hardcoded to a /home/runner/...
+    GitHub Actions path from the migration job.
+  * NAMESPACE_PARENTS / SUBDIR_PARENTS are stale and partly wrong. They omit
+    several real directories, list 'Lab Meetings and Notes' (a title no page
+    declares), and treat 'Brain Stimulation' as a section although its page
+    has no has_children, so it cannot be a nav parent.
+  * It is listed in .gitignore.
+
+Nav placement is no longer hardcoded. scripts/convert_notebooks.py derives it
+from the section landing pages' own front matter, which is authoritative.
 """
 
 import os

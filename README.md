@@ -66,6 +66,17 @@ bundle exec jekyll serve
 # View at http://localhost:4000/LabWiki/
 ```
 
+## Adding Jupyter Notebooks
+
+`.ipynb` files placed under `pages/` are automatically converted to Jekyll pages at build time (locally via `./build.command`, and in CI before deploy):
+
+1. Save the notebook under the appropriate topic folder in `pages/`, alongside related `.md` notes (e.g. `pages/Beauchamp/Data_Processing/My_Analysis.ipynb`).
+2. Run all cells locally so outputs (plots, tables, etc.) are embedded in the notebook before committing — the build does not re-execute notebooks.
+3. Optionally set a `jekyll` block in the notebook metadata (Jupyter: Edit → Edit Notebook Metadata) to override `title`, `parent`, `grand_parent`, `author`, or `date_created`; otherwise these are inferred from the first markdown heading and the notebook's folder.
+4. Run `./build.command` to preview the generated page, then commit the `.ipynb` together with its generated `.md` and `*_nbconvert_artifacts/` folder.
+
+The raw `.ipynb` isn't served directly; the generated page links back to it on GitHub, where it also renders natively.
+
 ## Contributing
 
 This wiki is primarily for Beauchamp Lab members. For the official lab website, visit:

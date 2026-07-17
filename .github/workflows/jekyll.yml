@@ -71,7 +71,18 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-        
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install notebook conversion tools
+        run: pip install --quiet -r requirements-notebooks.txt
+
+      - name: Convert Jupyter notebooks to Markdown
+        run: python3 scripts/convert_notebooks.py
+
       - name: Build with Jekyll
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
