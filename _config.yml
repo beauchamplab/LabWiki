@@ -22,6 +22,12 @@ search:
 # Enable heading anchors
 heading_anchors: true
 
+# Enable Mermaid diagrams (```mermaid fences). just-the-docs loads mermaid.js
+# from jsDelivr for this version; without this key the theme never loads it and
+# mermaid blocks render as plain code.
+mermaid:
+  version: "10.9.1"
+
 # Color scheme
 color_scheme: nil
 

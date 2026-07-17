@@ -9,6 +9,7 @@ import json
 import re
 import subprocess
 import sys
+import tempfile
 from pathlib import Path
 from urllib.parse import quote
 
@@ -71,7 +72,16 @@ def extract_title(nb_json, fallback_stem):
 
 
 def convert_one(nb_path: Path, pages_root: Path, repo_root: Path):
-    nb_json = json.loads(nb_path.read_text(encoding="utf-8"))
+    raw = nb_path.read_text(encoding="utf-8")
+    if raw.startswith("version https://git-lfs.github.com/spec/v1"):
+        print(
+            f"ERROR: {nb_path} is an unmaterialized Git LFS pointer, not notebook "
+            "JSON. Ensure the notebook is stored as a normal git object (not LFS) "
+            "or that LFS objects are pulled before conversion.",
+            file=sys.stderr,
+        )
+        sys.exit(1)
+    nb_json = json.loads(raw)
     jekyll_meta = nb_json.get("metadata", {}).get("jekyll", {})
 
     parent, grand_parent = resolve_nav(nb_path, pages_root)
@@ -91,22 +101,38 @@ def convert_one(nb_path: Path, pages_root: Path, repo_root: Path):
             )
             sys.exit(1)
 
-    subprocess.run(
-        [
-            sys.executable,
-            "-m",
-            "nbconvert",
-            "--to",
-            "markdown",
-            "--output-dir",
-            str(nb_path.parent),
-            "--output",
-            nb_path.stem,
-            f"--NbConvertApp.output_files_dir={{notebook_name}}_nbconvert_artifacts",
-            str(nb_path),
-        ],
-        check=True,
-    )
+    # The Markdown exporter derives code-fence languages (and thus Rouge syntax
+    # highlighting) from nb.metadata.language_info.name. Notebooks saved by some
+    # editors leave that empty, yielding bare ``` fences with no highlighting.
+    # Backfill it from the kernel's language on a throwaway copy so the source
+    # .ipynb is left untouched, then convert that copy.
+    language_info = nb_json.setdefault("metadata", {}).setdefault("language_info", {})
+    if not language_info.get("name"):
+        language_info["name"] = (
+            nb_json["metadata"].get("kernelspec", {}).get("language") or "python"
+        )
+
+    with tempfile.TemporaryDirectory() as tmp_dir:
+        # Same stem as the source so {notebook_name} (and the artifacts dir) match.
+        tmp_nb = Path(tmp_dir) / nb_path.name
+        tmp_nb.write_text(json.dumps(nb_json), encoding="utf-8")
+
+        subprocess.run(
+            [
+                sys.executable,
+                "-m",
+                "nbconvert",
+                "--to",
+                "markdown",
+                "--output-dir",
+                str(nb_path.parent),
+                "--output",
+                nb_path.stem,
+                f"--NbConvertApp.output_files_dir={{notebook_name}}_nbconvert_artifacts",
+                str(tmp_nb),
+            ],
+            check=True,
+        )
 
     body = out_md.read_text(encoding="utf-8")
 
