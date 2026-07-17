@@ -7,6 +7,6 @@ attachments/SmallFiles/** -filter -diff -merge -text
 
 # Jupyter notebooks and their extracted output images (may contain embedded
 # base64 image blobs / rendered plots) - keep out of regular git delta history
-pages/**/*.ipynb filter=lfs diff=lfs merge=lfs -text
-pages/**/*_nbconvert_artifacts/** filter=lfs diff=lfs merge=lfs -text
+# pages/**/*.ipynb filter=lfs diff=lfs merge=lfs -text
+# pages/**/*_nbconvert_artifacts/** filter=lfs diff=lfs merge=lfs -text
 
